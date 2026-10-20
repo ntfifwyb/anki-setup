@@ -3,8 +3,8 @@
 If you're asked to create Anki flashcards or a deck from this repository:
 
 1. Read `FLASHCARD_GUIDE.md` in full first and follow it.
-2. Check `exports/all_notes.md` so you don't duplicate existing cards.
-3. Use the note types listed in `settings/note_types.json` where possible.
+2. Check `backup/exports/all_notes.md` so you don't duplicate existing cards.
+3. Use the note types listed in `backup/settings/note_types.json` where possible.
 4. Deliver the deck in one of the formats in section 9 of the guide.
 5. **Save every deck you create to this repository**, in its own folder `decks/<deck-name>/` (lowercase, hyphenated). Include:
    - the importable file (`.apkg`, or the `.txt` import files),
@@ -12,3 +12,9 @@ If you're asked to create Anki flashcards or a deck from this repository:
    - a short `README.md`: what the deck covers, its subdecks, how to import and rebuild it.
    Then add the deck to the "Decks" table in the root `README.md`, commit and push.
 6. When you update an existing deck, keep note GUIDs stable so re-importing updates cards instead of duplicating them.
+
+## Repository layout
+
+- `decks/` — decks made for the owner (see rule 5 above).
+- `addons/` — add-ons the owner develops, each linked as a git submodule to its own repository. Never copy an add-on's source in here; to add a new one, run `git submodule add <repo-url> addons/<name>` and list it in `addons/README.md`.
+- `backup/` — a snapshot of the owner's local Anki: collection, settings, installed add-ons with their configs, and readable exports. Keep only the latest snapshot and overwrite it (git history keeps old versions). Never commit `prefs21.db` (it holds the AnkiWeb login) or media from third-party decks. For add-ons installed from AnkiWeb, record the name, code and config in the "Installed add-ons" table of `backup/README.md` rather than copying their code.

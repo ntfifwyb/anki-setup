@@ -1,6 +1,6 @@
 # All notes (readable export)
 
-Generated from the collection. The importable backup is `collection/collection.colpkg`.
+Generated from the collection. The importable backup is `backup/collection/collection.colpkg`.
 
 
 ## Deck: Artificial Intelligence

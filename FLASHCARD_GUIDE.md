@@ -137,7 +137,7 @@ Testing the same knowledge from two directions (term → definition and definiti
 
 ## 4. Card types and when to use each
 
-The note types below exist in the owner's Anki collection already (see `settings/note_types.json`). Prefer them so cards import cleanly.
+The note types below exist in the owner's Anki collection already (see `backup/settings/note_types.json`). Prefer them so cards import cleanly.
 
 | Note type | Use for | Example |
 |---|---|---|
@@ -311,7 +311,7 @@ Die Sitzung wurde {{c1::verschoben}}, weil der Chef krank war.	verschieben – v
 
 Rules for this format:
 - One file per note type.
-- The columns must match the note type's fields in order (Basic: Front, Back; Cloze: Text, Back Extra). The owner's note types can have extra fields (e.g. *Basic (and reversed card)* is Front, Example, Back), so always check the field order in `settings/note_types.json`. Tags go in the column named by `#tags column`.
+- The columns must match the note type's fields in order (Basic: Front, Back; Cloze: Text, Back Extra). The owner's note types can have extra fields (e.g. *Basic (and reversed card)* is Front, Example, Back), so always check the field order in `backup/settings/note_types.json`. Tags go in the column named by `#tags column`.
 - Never put a literal tab or newline inside a field. Use `<br>` for line breaks (HTML is on).
 - Escape nothing else; don't wrap fields in quotes unless they contain a tab.
 - Multiple tags are separated by spaces.
@@ -349,13 +349,13 @@ Check **every** card. Rewrite or delete any card that fails.
 - [ ] For languages: is the card in the **target language** to the degree the learner's level calls for (§5.1)? Does it include **article/plural/forms**, an **example** and, where possible, **audio**?
 - [ ] For conceptual topics: are there **why/how** cards, not only definitions?
 - [ ] Is the **note type**, **deck** and **tag** format correct for import (§9)?
-- [ ] No duplicates of existing cards? (The owner's current cards are listed in `exports/all_notes.md`.)
+- [ ] No duplicates of existing cards? (The owner's current cards are listed in `backup/exports/all_notes.md`.)
 
 ---
 
 ## 11. Recommended Anki settings
 
-The owner's current settings are in `settings/`. General advice from the Anki manual and the FSRS project:
+The owner's current settings are in `backup/settings/`. General advice from the Anki manual and the FSRS project:
 
 - **Turn on FSRS** (Deck Options → Advanced → FSRS) and click **Optimize** once the preset has a few hundred reviews (Anki tells you if there isn't enough data yet). FSRS schedules more accurately than the legacy SM-2 algorithm.
 - **Desired retention: 0.90** is the standard default. Higher values (0.95) sharply increase the number of reviews; lower values (0.85) reduce work but you forget more.
