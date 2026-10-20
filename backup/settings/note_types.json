@@ -1,31 +1,33 @@
 [
   {
-    "id": 1754500458811,
-    "name": "Basic",
+    "card_templates": [
+      "Card 1"
+    ],
     "fields": [
       "Front",
       "Back"
     ],
-    "card_templates": [
-      "Card 1"
-    ]
+    "id": 1754500458811,
+    "name": "Basic"
   },
   {
-    "id": 1754500458812,
-    "name": "Basic (and reversed card)",
+    "card_templates": [
+      "Card 1",
+      "Card 2"
+    ],
     "fields": [
       "Front",
       "Example",
       "Back"
     ],
+    "id": 1754500458812,
+    "name": "Basic (and reversed card)"
+  },
+  {
     "card_templates": [
       "Card 1",
       "Card 2"
-    ]
-  },
-  {
-    "id": 1516347233607,
-    "name": "Basic (and reversed card)-7c609",
+    ],
     "fields": [
       "full_d",
       "base_e",
@@ -63,49 +65,48 @@
       "s8a",
       "s9a"
     ],
+    "id": 1516347233607,
+    "name": "Basic (and reversed card)-7c609"
+  },
+  {
     "card_templates": [
       "Card 1",
       "Card 2"
-    ]
-  },
-  {
-    "id": 1754500458813,
-    "name": "Basic (optional reversed card)",
+    ],
     "fields": [
       "Front",
       "Back",
       "Add Reverse"
     ],
-    "card_templates": [
-      "Card 1",
-      "Card 2"
-    ]
+    "id": 1754500458813,
+    "name": "Basic (optional reversed card)"
   },
   {
-    "id": 1754500458814,
-    "name": "Basic (type in the answer)",
+    "card_templates": [
+      "Card 1"
+    ],
     "fields": [
       "Front",
       "Back"
     ],
-    "card_templates": [
-      "Card 1"
-    ]
+    "id": 1754500458814,
+    "name": "Basic (type in the answer)"
   },
   {
-    "id": 1754500458815,
-    "name": "Cloze",
+    "card_templates": [
+      "Cloze"
+    ],
     "fields": [
       "Text",
       "Back Extra"
     ],
-    "card_templates": [
-      "Cloze"
-    ]
+    "id": 1754500458815,
+    "name": "Cloze"
   },
   {
-    "id": 1754500458816,
-    "name": "Image Occlusion",
+    "card_templates": [
+      "Image Occlusion"
+    ],
     "fields": [
       "Occlusion",
       "Image",
@@ -113,13 +114,19 @@
       "Back Extra",
       "Comments"
     ],
-    "card_templates": [
-      "Image Occlusion"
-    ]
+    "id": 1754500458816,
+    "name": "Image Occlusion"
   },
   {
-    "id": 1536623980781,
-    "name": "IPA Symbol",
+    "card_templates": [
+      "Explain symbol",
+      "Give symbol",
+      "Name symbol",
+      "Give examples",
+      "Identify from examples",
+      "Transcribe",
+      "Make sound"
+    ],
     "fields": [
       "Symbol",
       "Definition",
@@ -129,31 +136,28 @@
       "Production Instructions",
       "Image"
     ],
-    "card_templates": [
-      "Explain symbol",
-      "Give symbol",
-      "Name symbol",
-      "Give examples",
-      "Identify from examples",
-      "Transcribe",
-      "Make sound"
-    ]
+    "id": 1536623980781,
+    "name": "IPA Symbol"
   },
   {
-    "id": 1592402337200,
-    "name": "Phonetics Definition - List All",
+    "card_templates": [
+      "List all"
+    ],
     "fields": [
       "Term",
       "Definition (list of items)",
       "Image"
     ],
-    "card_templates": [
-      "List all"
-    ]
+    "id": 1592402337200,
+    "name": "Phonetics Definition - List All"
   },
   {
-    "id": 1536621530818,
-    "name": "Phonetics Definitions",
+    "card_templates": [
+      "Define",
+      "Identify definition",
+      "Examples",
+      "Identify examples"
+    ],
     "fields": [
       "Term",
       "Class of term",
@@ -161,11 +165,7 @@
       "Examples",
       "Image"
     ],
-    "card_templates": [
-      "Define",
-      "Identify definition",
-      "Examples",
-      "Identify examples"
-    ]
+    "id": 1536621530818,
+    "name": "Phonetics Definitions"
   }
 ]

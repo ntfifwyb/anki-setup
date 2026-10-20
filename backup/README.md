@@ -11,16 +11,15 @@ A snapshot of my Anki installation (profile "User 1"). Only the latest snapshot 
 | `settings/preferences.txt` | App preferences (scheduling, reviewing, backups) |
 | `settings/collection_config.json` | Collection-level configuration |
 | `settings/note_types.json`, `settings/decks.json` | Note types (fields and card templates) and decks |
-| `addons/` | Add-ons installed on my computer, with their configs |
+| `addons/` | Configs of the add-ons installed on my computer (code comes from each add-on's own source) |
+| `tools/regenerate.py` | Rebuilds `settings/` and `exports/` from a `collection.anki2` file |
 | `exports/all_notes.md`, `exports/all_notes.csv` | Every note in readable form |
 
 ## Installed add-ons
 
 | Add-on | Version | Source | Config |
 |---|---|---|---|
-| Anki Dashboard (now [Ink](https://github.com/ntfifwyb/ink)) | 0.6.6 | My own | `addons/anki_dashboard/config.json` |
-
-> Ink replaces Anki Dashboard. To switch: copy your settings from Anki Dashboard's Config, delete it in **Tools → Add-ons**, then install `ink.ankiaddon` from Ink's releases.
+| [Ink](https://github.com/ntfifwyb/ink) | 0.8.0 | My own ([`../addons/ink`](../addons/ink)), installed from its [releases](https://github.com/ntfifwyb/ink/releases) | `addons/ink/config.json` |
 
 Not included: `prefs21.db` (contains the AnkiWeb sync login), logs, and media files that no card uses.
 
@@ -32,4 +31,4 @@ Not included: `prefs21.db` (contains the AnkiWeb sync login), logs, and media fi
 
 ## Refreshing
 
-Anki keeps automatic backups in `%APPDATA%\Anki2\User 1\backups\`. To refresh: copy the newest `.colpkg` to `collection/collection.colpkg`, update `addons/` from `%APPDATA%\Anki2\addons21\`, regenerate `settings/` and `exports/`, and update the date above. Or ask Claude to do it.
+Anki keeps automatic backups in `%APPDATA%\Anki2\User 1\backups\`. To refresh: copy the newest `.colpkg` to `collection/collection.colpkg`, copy each add-on's `config.json` and `meta.json` from `%APPDATA%\Anki2\addons21\<add-on>\` into `addons/<add-on>/`, run `python tools/regenerate.py "%APPDATA%\Anki2\User 1\collection.anki2"` (needs `pip install anki`), and update the date above. Or ask Claude to do it.
