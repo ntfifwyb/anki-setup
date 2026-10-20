@@ -7,7 +7,7 @@ If you're asked to create Anki flashcards or a deck from this repository:
 3. Use the note types listed in `backup/settings/note_types.json` where possible.
 4. Deliver the deck in one of the formats in section 9 of the guide.
 5. **Save every deck you create to this repository**, in its own folder `decks/<deck-name>/` (lowercase, hyphenated). Include:
-   - the importable file (`.apkg`, or the `.txt` import files),
+   - the `.txt` import files, or a `build.py` that writes the `.apkg` (git-ignored: publish it on the deck's GitHub Release with `scripts/publish-deck.sh <deck>`),
    - the source data and any build script, so the deck can be edited and rebuilt,
    - a short `README.md`: what the deck covers, its subdecks, how to import and rebuild it.
    Then add the deck to the "Decks" table in the root `README.md`, commit and push.

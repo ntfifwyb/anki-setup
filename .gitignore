@@ -3,3 +3,4 @@ prefs21.db
 *.log
 __pycache__/
 *.pyc
+*.apkg

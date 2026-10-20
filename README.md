@@ -8,7 +8,7 @@ Everything Anki in one place: the decks I make, the add-ons I build, and a backu
 
 | Folder | Contents |
 |---|---|
-| [`decks/`](decks/) | Decks I've made, each with its importable `.apkg`, source data and build script |
+| [`decks/`](decks/) | Decks I've made, each with its source data, build script and audio. The importable `.apkg` is on the deck's [release](https://github.com/ntfifwyb/anki-setup/releases) |
 | [`addons/`](addons/) | Add-ons I develop, linked to their own repositories |
 | [`backup/`](backup/) | Snapshot of my local Anki: collection, settings, installed add-ons and readable exports |
 | [`FLASHCARD_GUIDE.md`](FLASHCARD_GUIDE.md) | Evidence-based guide to writing ideal flashcards, for any subject |
@@ -17,7 +17,7 @@ Everything Anki in one place: the decks I make, the add-ons I build, and a backu
 
 | Deck | Notes | Description |
 |---|---|---|
-| [English Expressions](decks/english-expressions/) | 444 | Phrases, collocations and idioms by context: IELTS, work, emails, negotiating, emotions, friends and more |
+| [English Expressions](decks/english-expressions/) ([download](https://github.com/ntfifwyb/anki-setup/releases/download/english-expressions/English_Expressions.apkg)) | 444 | Phrases, collocations and idioms by context: IELTS, work, emails, negotiating, emotions, friends and more, with audio |
 
 ## Add-ons
 

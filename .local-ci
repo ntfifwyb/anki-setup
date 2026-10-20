@@ -1,16 +1,14 @@
 #!/usr/bin/env bash
 # The checks every change must pass, run on this machine by `local-ci` (claude-toolkit)
 # in place of GitHub Actions. Run it directly to check without posting a status.
-# Builds every deck from its source in a temporary copy, so a broken source file or build
-# script fails here, and the committed .apkg files are left alone.
+# Builds every deck from its source, so a broken source file, build script or missing
+# audio clip fails here. The built .apkg files are git-ignored.
 set -euo pipefail
 cd "$(dirname "$0")"
-tmp=$(mktemp -d)
-trap 'rm -rf "$tmp"' EXIT
+# Decks name their audio clips with the Psittacus submodule's code.
+git submodule update --init -q addons/psittacus
 
 for build in decks/*/build.py; do
-  deck=$(dirname "$build")
-  echo; echo "== $deck"
-  cp -r "$deck" "$tmp/"
-  uv run --no-project -q -p 3.13 --with genanki==0.13.1 python "$tmp/$(basename "$deck")/build.py"
+  echo; echo "== $(dirname "$build")"
+  uv run --no-project -q -p 3.13 --with genanki==0.13.1 python "$build"
 done

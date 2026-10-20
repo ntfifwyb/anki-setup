@@ -1,8 +1,14 @@
-"""Build the English Expressions Anki deck (.apkg) from expressions.txt."""
+"""Build the English Expressions Anki deck (.apkg) from expressions.txt and contexts.txt.
+
+The audio clips come from audio/, which speak.py fills.
+"""
 import html
+import importlib
 import os
 import re
 import sys
+import types
+from pathlib import Path
 
 import genanki
 
@@ -33,6 +39,9 @@ SAVED_LABELS = {
     "money": "Money", "feelings": "Feelings", "sayings": "Sayings and proverbs",
 }
 OUT = os.path.join(HERE, "English_Expressions.apkg")
+AUDIO = os.path.join(HERE, "audio")
+LANG = "en_US"
+PSITTACUS = os.path.join(HERE, "..", "..", "addons", "psittacus", "addon")
 
 CSS = """
 .card { font-family: -apple-system, "Segoe UI", Roboto, sans-serif; font-size: 20px;
@@ -111,9 +120,27 @@ def parse(src):
     return rows
 
 
-def build():
+def psittacus(module="core"):
+    """A module of the Psittacus add-on (submodule), loaded without its Anki-only __init__."""
+    if "psittacus" not in sys.modules:
+        pkg = types.ModuleType("psittacus")
+        pkg.__path__ = [PSITTACUS]
+        sys.modules["psittacus"] = pkg
+    return importlib.import_module(f"psittacus.{module}")
+
+
+def voice():
+    """(voice data, engine, voice) Psittacus picks first for the deck's language."""
+    core = psittacus()
+    data = core.load_voices(Path(PSITTACUS) / "voices.json")
+    engine, v = core.candidates(LANG, data)[0]
+    return data, engine, v
+
+
+def notes():
+    """(subdeck, fields, tags, guid) per note, the audio fields still empty."""
     seen = set()
-    n_recog = 0
+    out = []
     rows = [("saved", r) for r in parse(SRC_SAVED)] + [("new", r) for r in parse(SRC_NEW)]
     for origin, (ln, expr, meaning, example, notes, register, topic, recog) in rows:
         if origin == "saved":
@@ -139,16 +166,40 @@ def build():
         if len(segs) > 1:
             hint += f" in {len(segs)} parts"
         r = "y" if recog.upper() == "R" else ""
-        n_recog += bool(r)
-        deck(sub).add_note(genanki.Note(
-            model=MODEL,
-            # The audio fields stay empty here; the Psittacus add-on fills them in Anki.
-            fields=[esc(expr), esc(meaning), ex_html, gapped, hint, esc(notes), register, r, label, "", ""],
-            tags=tags,
-            guid=genanki.guid_for("english-expressions", expr.lower()),
-        ))
-    genanki.Package(list(DECKS.values())).write_to_file(OUT)
-    print(f"{len(seen)} notes, {len(seen) + n_recog} cards ({n_recog} recognition) -> {OUT}")
+        fields = [esc(expr), esc(meaning), ex_html, gapped, hint, esc(notes), register, r, label, "", ""]
+        out.append((sub, fields, tags, genanki.guid_for("english-expressions", expr.lower())))
+    return out
+
+
+def clips(fields):
+    """{audio field index: (text, clip file name)} for a note, named as Psittacus names them.
+
+    The expression is only spoken where a Recognise card plays it; every note's example is.
+    """
+    core = psittacus()
+    _, engine, v = voice()
+    sources = {10: fields[2]} | ({9: fields[0]} if fields[7] else {})
+    texts = {i: core.clean_text(f) for i, f in sources.items()}
+    return {i: (t, core.cache_name(engine, v, t, 1.0)) for i, t in texts.items()}
+
+
+def build():
+    media, missing, n_recog = [], 0, 0
+    for sub, fields, tags, guid in notes():
+        for i, (_, name) in clips(fields).items():
+            path = os.path.join(AUDIO, name)
+            missing += not os.path.exists(path)
+            fields[i] = f"[sound:{name}]"
+            media.append(path)
+        n_recog += bool(fields[7])
+        deck(sub).add_note(genanki.Note(model=MODEL, fields=fields, tags=tags, guid=guid))
+    if missing:
+        sys.exit(f"{missing} audio clips missing from {AUDIO}: run speak.py")
+    package = genanki.Package(list(DECKS.values()))
+    package.media_files = sorted(set(media))
+    package.write_to_file(OUT)
+    n = sum(len(d.notes) for d in DECKS.values())
+    print(f"{n} notes, {n + n_recog} cards ({n_recog} recognition), {len(set(media))} clips -> {OUT}")
 
 
 if __name__ == "__main__":
