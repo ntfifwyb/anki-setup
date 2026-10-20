@@ -1,0 +1,242 @@
+# New expressions by context. Format: expression | meaning | example ({{ }} = the expression) | notes | register | context | R
+# ---------- IELTS Writing Task 2 (academic essay) ----------
+It is widely argued that... | introduces a common opinion you are about to discuss | {{It is widely argued that}} social media has weakened face-to-face communication. | Better than "Nowadays many people think". Avoid "In this day and age", which examiners see as a memorised cliché. | academic | ielts-writing |
+a case in point | a clear example of what has just been said | Many traditional industries have been automated; car manufacturing is {{a case in point}}. | Use it right after a general claim. | academic | ielts-writing |
+This is not to say that... | prevents the reader from taking your point too far; adds nuance | {{This is not to say that}} technology is harmful, but its effects deserve scrutiny. | Hedging like this is a mark of Band 8+ writing. | academic | ielts-writing |
+on balance | after considering all the arguments | {{On balance}}, the advantages of remote work outweigh the drawbacks. | Ideal for the conclusion of a discuss-both-views essay. | academic | ielts-writing |
+to a large extent | mostly, though not completely | I agree {{to a large extent}} that governments should fund public transport. | Answers "To what extent do you agree?" precisely. Also "to some extent", "to a limited extent". | academic | ielts-writing |
+give rise to | to cause something to happen or exist | Rapid urbanisation has {{given rise to}} severe housing shortages. | More precise than "cause" or "lead to"; usually with negative results. | academic | ielts-writing |
+pose a threat to | to be a danger to | Plastic waste {{poses a serious threat to}} marine ecosystems. | Strong collocations: "pose a threat/risk/challenge". | academic | ielts-writing |
+exacerbate | to make a problem or bad situation worse | Cutting public funding would only {{exacerbate}} inequality. | Formal synonym of "make worse"; use with problems, not people. | academic | ielts-writing | R
+mitigate | to make something bad less severe | Planting trees in cities can {{mitigate}} the effects of heatwaves. | Collocates with: effects, risks, impact. Don't confuse with "militate against". | academic | ielts-writing | R
+a double-edged sword | something with both advantages and disadvantages | Globalisation is {{a double-edged sword}} for developing economies. | One of the few idioms acceptable in academic writing. Use once per essay at most. | academic | ielts-writing |
+It stands to reason that... | it is logical or obvious that | {{It stands to reason that}} better-paid teachers are more likely to stay in the profession. | | academic | ielts-writing |
+notwithstanding | despite | {{Notwithstanding}} these concerns, the policy has been broadly successful. | Formal. Can also follow the noun: "these concerns notwithstanding". | academic | ielts-writing | R
+be attributable to | to be caused by | The decline in crime is largely {{attributable to}} better street lighting. | | academic | ielts-writing |
+in light of | considering; because of | {{In light of}} recent research, the old guidelines should be revised. | Also "in the light of" (British). | academic | ielts-writing |
+there is a growing consensus that | more and more experts agree that | {{There is a growing consensus that}} early childhood education pays long-term dividends. | | academic | ielts-writing |
+far-reaching consequences | effects that are wide and long-lasting | Climate policy decisions made today will have {{far-reaching consequences}}. | Also "far-reaching implications". | academic | ielts-writing |
+address the issue | to deal with a problem | Governments must {{address the issue}} of youth unemployment urgently. | Avoid "solve the problem" repeatedly; vary with "tackle", "combat". | academic | ielts-writing |
+strike a balance between | to find a fair compromise between two things | Cities must {{strike a balance between}} economic growth and environmental protection. | | academic | ielts-writing |
+at the expense of | with damage or loss to something else | Many companies pursue profit {{at the expense of}} employee wellbeing. | | academic | ielts-writing |
+by contrast | showing a clear difference from the previous point | Urban areas have grown rapidly. Rural regions, {{by contrast}}, have declined. | Use to compare two subjects; "on the contrary" is only for rejecting a statement just made. | academic | ielts-writing |
+Admittedly, ... | introduces a point against your own argument (a concession) | {{Admittedly}}, online learning lacks the social side of school. | Follow it with "However, ..." to rebut. Concession + rebuttal = mature argument. | academic | ielts-writing |
+it could be argued that | introduces a possible view without fully committing to it | {{It could be argued that}} tourism destroys local culture. | Useful for presenting the opposing view. | academic | ielts-writing |
+a contributing factor | one of several causes | Poor diet is {{a contributing factor}} to the rise in heart disease. | More precise than "the reason" when there are several causes. | academic | ielts-writing |
+detrimental to | harmful to | Excessive screen time is {{detrimental to}} children's sleep. | | academic | ielts-writing | R
+conducive to | creating good conditions for something | A quiet environment is {{conducive to}} effective study. | Opposite of "detrimental to". | academic | ielts-writing | R
+play a pivotal role in | to be extremely important in | Parents {{play a pivotal role in}} shaping their children's values. | Alternatives: "a crucial/key/vital role". Don't overuse "play an important role". | academic | ielts-writing |
+the root cause | the fundamental reason behind a problem | Poverty is often {{the root cause}} of crime. | | academic | ielts-writing |
+in the long run | over a long period of time; eventually | Investing in renewables will save money {{in the long run}}. | | neutral | ielts-writing |
+be a matter of debate | to be something people disagree about | Whether zoos are ethical remains {{a matter of debate}}. | | academic | ielts-writing |
+from a(n) [economic] perspective | considering it from that point of view | {{From an economic perspective}}, the policy makes sense. | Swap the adjective: social, environmental, ethical. | academic | ielts-writing |
+This, in turn, ... | as a result of the previous thing, another effect follows | Higher taxes reduce spending. {{This, in turn}}, slows economic growth. | Shows a chain of cause and effect, which boosts Coherence & Cohesion. | academic | ielts-writing |
+To illustrate, ... | introduces an example | {{To illustrate}}, Finland's schools give little homework yet achieve excellent results. | Vary with "For instance", "A case in point is". | academic | ielts-writing |
+an unprecedented [rise] | never seen before | The last decade has seen {{an unprecedented}} rise in remote work. | | academic | ielts-writing |
+be at odds with | to conflict with | These findings are {{at odds with}} earlier studies. | | academic | ielts-writing |
+outweigh | to be greater or more important than | The benefits of vaccination far {{outweigh}} the risks. | Classic for "Do the advantages outweigh the disadvantages?" questions. | academic | ielts-writing |
+# ---------- IELTS Writing Task 1 (describing data) ----------
+rise sharply | to increase quickly and by a lot | The number of users {{rose sharply}} between 2010 and 2015. | Also: "increased dramatically", "surged", "soared". Past: rose, risen. | academic | ielts-task1 |
+peak at | to reach the highest point at | Sales {{peaked at}} 3 million units in 2018. | | academic | ielts-task1 |
+level off | to stop rising or falling and stay steady | After 2015, unemployment {{levelled off}} at around 5%. | Also "plateau", "stabilise". US spelling: leveled. | academic | ielts-task1 |
+fluctuate | to rise and fall irregularly | Oil prices {{fluctuated}} throughout the period. | | academic | ielts-task1 |
+account for | to make up a particular proportion of | Coal {{accounted for}} 40% of electricity generation. | Very useful for pie charts. | academic | ielts-task1 |
+a marginal decrease | a very small fall | There was {{a marginal decrease}} in car ownership. | Also "a slight dip". | academic | ielts-task1 |
+remain stable | to stay at the same level | Spending on education {{remained stable}} over the decade. | Also "remained constant". | academic | ielts-task1 |
+the overwhelming majority | nearly all | {{The overwhelming majority}} of respondents preferred online shopping. | | academic | ielts-task1 |
+roughly a third | approximately 33% | {{Roughly a third}} of the budget went on healthcare. | Vary percentages with fractions: nearly half, just over a quarter. | academic | ielts-task1 |
+Overall, it is clear that... | introduces the overview of the main trends | {{Overall, it is clear that}} renewable energy grew while fossil fuels declined. | Task 1 needs a clear overview to score Band 7+. | academic | ielts-task1 |
+compared with | in comparison to | Rail travel was popular in France {{compared with}} the UK. | | academic | ielts-task1 |
+a steady decline | a gradual, continuous fall | The chart shows {{a steady decline}} in newspaper readership. | | academic | ielts-task1 |
+double | to become twice as large | The population of the city {{doubled}} in twenty years. | Also "tripled", "halved". | academic | ielts-task1 |
+the figure for | the number or amount for a specific group | {{The figure for}} Germany was considerably higher. | Helps avoid repeating the subject. | academic | ielts-task1 |
+reach a low of | to fall to the lowest point | Unemployment {{reached a low of}} 3% in 2019. | | academic | ielts-task1 |
+# ---------- IELTS Speaking ----------
+That's a tough one | buys you time when a question is hard | Favourite book? {{That's a tough one}}; let me think. | Natural fillers like this are fine in Speaking; silence isn't. | informal | ielts-speaking |
+off the top of my head | without having time to think or check | {{Off the top of my head}}, I'd say about three times a week. | | informal | ielts-speaking |
+It's not something I've given much thought to, but... | admits you haven't considered the question, then answers anyway | {{It's not something I've given much thought to, but}} I suppose I'd prefer the countryside. | Shows natural, fluent handling of an unexpected question. | neutral | ielts-speaking |
+I'm a big fan of | I really like | {{I'm a big fan of}} historical documentaries. | Alternatives: "I'm really into", "I'm keen on". | informal | ielts-speaking |
+It really depends on | the answer varies according to something | {{It really depends on}} the season. In summer, I cycle everywhere. | Always follow with a specific explanation. | neutral | ielts-speaking |
+Now that I think about it | I've just realised something while speaking | {{Now that I think about it}}, I probably spend too much time online. | Sounds spontaneous rather than memorised. Also "Come to think of it". | informal | ielts-speaking |
+If I had to pick one | if I'm forced to choose a single answer | {{If I had to pick one}}, I'd go with Lisbon. | | informal | ielts-speaking |
+back in the day | in the past (usually years ago) | {{Back in the day}}, I used to play football every weekend. | Informal; fine in Speaking, never in Writing. | informal | ielts-speaking |
+I'd go as far as to say | I'd make an even stronger claim | {{I'd go as far as to say}} it changed my life. | Also "I'd go so far as to say". | neutral | ielts-speaking |
+a world of difference | a very big difference | Getting enough sleep makes {{a world of difference}} to my concentration. | | informal | ielts-speaking |
+I can't say I've ever | I've never (said softly) | {{I can't say I've ever}} been interested in gardening. | Softer and more natural than "I have never". | neutral | ielts-speaking |
+What springs to mind is | the first thing I think of is | {{What springs to mind is}} the trip I took to Scotland. | Also "What comes to mind is". | neutral | ielts-speaking |
+to be honest with you | introduces a frank answer | {{To be honest with you}}, I'm not much of a reader. | Don't overuse; once per answer at most. | informal | ielts-speaking |
+I'm not much of a [reader] | I don't do much of something | I'm {{not much of a}} cook, to be honest. | | informal | ielts-speaking |
+It's one of those things that | introduces something universally experienced | {{It's one of those things that}} everyone complains about but nobody changes. | | informal | ielts-speaking |
+play a big part in | to be an important factor in | Music {{plays a big part in}} my daily routine. | Spoken version of "play a pivotal role in". | informal | ielts-speaking |
+from what I've seen | based on my own observations | {{From what I've seen}}, young people are more environmentally aware. | Great for Part 3 opinions. | neutral | ielts-speaking |
+on the one hand / on the other hand | presents two sides of an issue | {{On the one hand}}, cities offer jobs; {{on the other hand}}, they're expensive. | Use both halves; "on the other hand" alone is fine too. | neutral | ielts-speaking |
+I'd imagine that | I suppose (when you don't know for sure) | {{I'd imagine that}} schools will rely more on AI in the future. | Speculating language is rewarded in Part 3. | neutral | ielts-speaking |
+It goes without saying that | it's obvious that | {{It goes without saying that}} health is more important than money. | | neutral | ielts-speaking |
+be glued to | to watch or use something constantly | Teenagers seem to be {{glued to}} their phones. | | informal | ielts-speaking |
+broaden your horizons | to widen your experience and understanding | Travelling really {{broadens your horizons}}. | | neutral | ielts-speaking |
+let off steam | to release stress or energy | I go to the gym to {{let off steam}} after work. | | informal | ielts-speaking |
+Let me put it this way | introduces a clearer or more direct explanation | {{Let me put it this way}}: I wouldn't do it again. | Useful when you need to rephrase. | informal | ielts-speaking |
+# ---------- Work and meetings ----------
+circle back to | to return to a topic later | Let's {{circle back to}} the budget once we have the numbers. | Common corporate phrase; some find it jargon-y. | informal | work |
+on the same page | in agreement; sharing the same understanding | Before we start, let's make sure we're all {{on the same page}}. | | informal | work |
+flag something | to point out something that needs attention | I just want to {{flag}} that the deadline might slip. | | neutral | work |
+take this offline | to discuss it separately, not in the current meeting | This is getting detailed. Let's {{take this offline}}. | | informal | work |
+push back on | to resist or argue against a request or plan | I'd like to {{push back on}} that timeline; it's not realistic. | | neutral | work |
+not have the bandwidth | to not have the time or capacity | I {{don't have the bandwidth}} to take on another project this month. | | informal | work |
+play devil's advocate | to argue the opposite view to test an idea | Just to {{play devil's advocate}}: what if customers don't want this? | | neutral | work |
+move the needle | to make a noticeable difference | Small tweaks won't {{move the needle}}; we need a new strategy. | | informal | work |
+the elephant in the room | an obvious problem nobody wants to talk about | Let's address {{the elephant in the room}}: we're over budget. | | informal | work |
+loop someone in | to include someone in communication | I'll {{loop in}} the legal team. | | informal | work |
+low-hanging fruit | easy tasks that give quick results | Let's start with the {{low-hanging fruit}}. | | informal | work |
+a ballpark figure | a rough estimate | Can you give me {{a ballpark figure}} for the cost? | | informal | work |
+get the ball rolling | to start something | Let's {{get the ball rolling}} with a quick introduction. | | informal | work |
+touch base | to make brief contact to update each other | Let's {{touch base}} on Friday. | | informal | work |
+a hard stop | a fixed time when you must leave | I have {{a hard stop}} at three. | | informal | work |
+I'll take that on board | I'll consider that feedback seriously | Good point, {{I'll take that on board}}. | Mainly British. | neutral | work |
+To piggyback on what [Anna] said | to add to someone else's point | {{To piggyback on what}} Anna said, the client also wants faster delivery. | | informal | work |
+drop the ball | to make a mistake by failing to do something | I {{dropped the ball}} on the invoice; I'll fix it today. | Owning a mistake gracefully. | informal | work |
+a quick win | a fast, easy improvement | Fixing the sign-up button would be {{a quick win}}. | | informal | work |
+think outside the box | to think creatively and unconventionally | We need to {{think outside the box}} here. | Overused; know it, use it sparingly. | informal | work |
+# ---------- Formal emails ----------
+Please find attached | the attached file is included | {{Please find attached}} the signed contract. | | formal | email |
+at your earliest convenience | as soon as possible for you (polite urgency) | Please reply {{at your earliest convenience}}. | | formal | email |
+Further to our conversation | following on from what we discussed | {{Further to our conversation}} this morning, I've attached the proposal. | | formal | email |
+I'm writing to enquire about | I'm asking for information about | {{I'm writing to enquire about}} the vacancy advertised on your website. | US spelling: inquire. Classic opening for IELTS General letters too. | formal | email |
+I would be grateful if you could | a polite request | {{I would be grateful if you could}} send me the details. | | formal | email |
+Thank you for your patience | thanks someone for waiting | {{Thank you for your patience}} while we looked into this. | Better than "Sorry for the delay" alone. | formal | email |
+Just following up on | a polite reminder about something unanswered | {{Just following up on}} my email from last week. | | neutral | email |
+Could you kindly | a polite way to ask someone to do something | {{Could you kindly}} confirm receipt of this email? | | formal | email |
+Please do not hesitate to contact me | feel free to contact me | {{Please do not hesitate to contact me}} if you have any questions. | Classic closing line. | formal | email |
+I look forward to hearing from you | I hope you will reply | {{I look forward to hearing from you}}. | Note: "to hearing", not "to hear". | formal | email |
+as per | according to | {{As per}} our agreement, payment is due within 30 days. | Some find it stiff; "as agreed" is softer. | formal | email |
+I'd like to raise a concern about | I want to formally mention a problem | {{I'd like to raise a concern about}} the new shift schedule. | | formal | email |
+for your reference | for you to check if needed | I've attached last year's report {{for your reference}}. | | formal | email |
+I apologise for any inconvenience caused | a formal apology | {{I apologise for any inconvenience caused}}. | US: apologize. | formal | email |
+Kind regards | a standard friendly-formal sign-off | {{Kind regards}}, Thiago | "Best regards" is similar; "Yours sincerely" is more formal (when you know the name). | formal | email |
+# ---------- Disagreeing and negotiating tactfully ----------
+I see where you're coming from, but | I understand your view, though I disagree | {{I see where you're coming from, but}} I think we need more data. | | neutral | diplomacy |
+I'm not entirely convinced | I have doubts (polite disagreement) | {{I'm not entirely convinced}} that's the best approach. | | neutral | diplomacy |
+That's a fair point | I accept that what you said is reasonable | {{That's a fair point}}. I hadn't considered the cost. | | neutral | diplomacy |
+agree to disagree | to accept that you won't reach agreement | Let's {{agree to disagree}} and move on. | | neutral | diplomacy |
+meet someone halfway | to compromise | I can't do €5,000, but I'll {{meet you halfway}} at €4,000. | | informal | diplomacy |
+a deal-breaker | something that would make you reject an agreement | No remote work is {{a deal-breaker}} for me. | | informal | diplomacy |
+non-negotiable | cannot be changed or discussed | The deadline is {{non-negotiable}}. | | neutral | diplomacy |
+What would it take to | what would you need in order to | {{What would it take to}} close the deal today? | Classic negotiation question. | neutral | diplomacy |
+With all due respect | introduces disagreement with someone senior, politely (often signals strong disagreement) | {{With all due respect}}, that's not what the data shows. | Can sound passive-aggressive; tone matters. | formal | diplomacy |
+I take your point, but | I understand and accept your point, but | {{I take your point, but}} the risk is still too high. | | neutral | diplomacy |
+That's not quite how I see it | polite but clear disagreement | {{That's not quite how I see it}}. | | neutral | diplomacy |
+leave room for | to allow some flexibility for | Let's {{leave room for}} negotiation on the price. | | neutral | diplomacy |
+a win-win | good for both sides | This partnership is {{a win-win}}. | | informal | diplomacy |
+I'm afraid I'll have to decline | a polite refusal | Thank you for the offer, but {{I'm afraid I'll have to decline}}. | | formal | diplomacy |
+That doesn't sit well with me | I'm uncomfortable with that | Cutting their bonus without warning {{doesn't sit well with me}}. | | neutral | diplomacy |
+put something on the table | to offer something in a negotiation | We're willing to {{put}} a longer contract {{on the table}}. | | informal | diplomacy |
+read between the lines | to understand a hidden meaning | If you {{read between the lines}}, they're not happy. | | informal | diplomacy |
+I hear you | I understand what you're saying (and I take it seriously) | {{I hear you}}, and I'll see what I can do. | Validates without necessarily agreeing. | informal | diplomacy |
+call someone's bluff | to challenge someone to carry out a threat you think is empty | They threatened to leave, so we {{called their bluff}}. | From poker. | informal | diplomacy |
+hold your ground | to refuse to give in | Even under pressure, she {{held her ground}}. | Also "stand your ground". | neutral | diplomacy |
+# ---------- Describing emotions precisely ----------
+bittersweet | happy and sad at the same time | Leaving the team was {{bittersweet}}. | | neutral | emotions | R
+at a loss for words | so surprised or moved you can't speak | When they announced my name, I was {{at a loss for words}}. | | neutral | emotions |
+on edge | nervous and tense | I've been {{on edge}} all week waiting for the results. | | informal | emotions |
+burnt out | exhausted from too much work or stress | After six months of overtime, I'm completely {{burnt out}}. | US: burned out. Noun: burnout. | informal | emotions |
+at the end of my tether | having no patience or strength left | Three hours on hold; I'm {{at the end of my tether}}. | US: "at the end of my rope". | informal | emotions |
+over the moon | extremely happy, usually about some news | She was {{over the moon}} about the job offer. | Also "on cloud nine". | informal | emotions |
+gutted | extremely disappointed | I was {{gutted}} when they cancelled the concert. | British informal. | informal | emotions | R
+torn | unable to choose between two options | I'm {{torn}} between the two job offers. | | informal | emotions |
+taken aback | surprised and a bit shocked | I was {{taken aback}} by how rude he was. | | neutral | emotions |
+a weight off my shoulders | a relief from a worry | Submitting the thesis was {{a weight off my shoulders}}. | | informal | emotions |
+a lump in my throat | a tight feeling when you're about to cry | Watching my sister's wedding, I had {{a lump in my throat}}. | | informal | emotions |
+wistful | sadly longing for something past or lost | She gave a {{wistful}} smile as she looked at old photos. | | neutral | emotions | R
+restless | unable to relax or stay still; wanting change | I've been feeling {{restless}} in this job lately. | | neutral | emotions |
+in two minds | undecided | I'm {{in two minds}} about moving to Berlin. | | informal | emotions |
+fed up with | annoyed and bored after too much of something | I'm {{fed up with}} the constant delays. | | informal | emotions |
+ambivalent | having mixed feelings | I'm {{ambivalent}} about social media. | Means mixed feelings, not indifference. | formal | emotions | R
+uneasy | slightly worried or uncomfortable | Something about the deal made me {{uneasy}}. | | neutral | emotions |
+elated | extremely happy and excited | We were {{elated}} when we won. | | formal | emotions |
+crestfallen | sad and disappointed (visibly) | He looked {{crestfallen}} when she said no. | Literary, precise. | formal | emotions | R
+# ---------- Expressing thoughts precisely ----------
+What I'm getting at is | the point I'm trying to make is | {{What I'm getting at is}} we need a plan B. | | informal | precision |
+To put it another way | to say it differently | {{To put it another way}}, we can't afford to fail. | | neutral | precision |
+It boils down to | ultimately, the whole thing can be reduced to | In the end, {{it boils down to}} trust. | | informal | precision |
+the crux of the matter | the central, decisive issue in a problem or argument | {{The crux of the matter}} is that nobody took responsibility. | | neutral | precision |
+for lack of a better word | admits the word isn't perfect | It was, {{for lack of a better word}}, weird. | | informal | precision |
+if anything | introduces a statement that suggests the opposite is true | It didn't hurt the business. {{If anything}}, it helped. | | neutral | precision |
+That's beside the point | that's not relevant to the main issue | Whether he's nice {{is beside the point}}; he broke the rules. | | neutral | precision |
+by the same token | for the same reason; similarly | You can't blame her alone; {{by the same token}}, you can't blame him alone. | | formal | precision |
+a far cry from | very different from | This job is {{a far cry from}} what I expected. | | neutral | precision |
+in a nutshell | in summary | {{In a nutshell}}, we're out of money. | | informal | precision |
+to be fair | introduces a balancing point in someone's favour | {{To be fair}}, he did warn us. | | informal | precision |
+not so much X as Y | it's more accurately Y than X | It's {{not so much}} the money {{as}} the principle. | Great for precise distinctions. | neutral | precision |
+more often than not | usually | {{More often than not}}, the simplest explanation is right. | | neutral | precision |
+in hindsight | looking back with what I know now | {{In hindsight}}, I should have taken the offer. | | neutral | precision |
+I'd hazard a guess that | I'll risk guessing that | {{I'd hazard a guess that}} he's nervous. | | neutral | precision |
+a grey area | a situation that isn't clearly right or wrong | Using AI for homework is still {{a grey area}}. | US: gray area. | neutral | precision |
+on the face of it | at first sight (but maybe not in reality) | {{On the face of it}}, the deal looks great. | | neutral | precision |
+the bottom line is | the final, decisive fact (often practical or financial) | {{The bottom line is}} that we can't afford it. | | informal | precision |
+I'm inclined to think that | I tend to believe that (soft opinion) | {{I'm inclined to think that}} she's right. | | formal | precision |
+# ---------- With friends: slang and banter ----------
+take the piss (out of someone) | to mock someone or not take something seriously | Are you {{taking the piss}}? That's not funny. | British. "Are you taking the piss?" = are you joking/mocking me? | vulgar | friends | R
+talk out of your ass | to say things you know nothing about | Ignore him, he's {{talking out of his ass}}. | US. British: "talking out of your arse". | vulgar | friends |
+full of shit | lying or talking nonsense | You never ran a marathon. You're {{full of shit}}. | | vulgar | friends |
+bust someone's balls | to tease someone relentlessly | Relax, I'm just {{busting your balls}}. | US. Means teasing, not real aggression. | vulgar | friends | R
+shoot the shit | to chat casually about nothing important | We sat on the balcony and {{shot the shit}} for hours. | US. | vulgar | friends | R
+can't be arsed | can't be bothered | I {{can't be arsed}} to cook tonight. | British. US: "can't be bothered". | vulgar | friends | R
+pissed | (UK) drunk / (US) angry | He got absolutely {{pissed}} at the wedding. | Know the difference! UK: pissed = drunk; pissed off = angry. | vulgar | friends | R
+fuck around and find out | if you cause trouble, you'll face the consequences | Keep insulting him and you'll {{fuck around and find out}}. | Often abbreviated FAFO. | vulgar | friends |
+no cap | no lie; I'm serious | That was the best burger I've ever had, {{no cap}}. | Gen Z slang. | slang | friends | R
+live rent-free in someone's head | to be thought about constantly (usually something annoying or funny) | That song has been {{living rent-free in my head}} all week. | | slang | friends |
+touch grass | go outside; stop being so online | You've been arguing on Reddit for six hours. Go {{touch grass}}. | | slang | friends | R
+I'm dead | that's extremely funny | You fell into the pool in a suit? {{I'm dead}}. | Also "I'm dying". | slang | friends |
+low-key | slightly, secretly, or a bit (opposite: high-key) | I'm {{low-key}} obsessed with this show. | | slang | friends | R
+out of pocket | behaving wildly or inappropriately | That comment was way {{out of pocket}}, bro. | Slang meaning, not the standard "out of pocket" (having lost money). | slang | friends | R
+Say less | I understand, no need to explain; I'm in | "Free pizza at mine?" "{{Say less}}." | | slang | friends | R
+a hot mess | a person or situation in total chaos | After the breakup, he was {{a hot mess}}. | | slang | friends |
+ghost someone | to stop replying to someone without explanation | She {{ghosted}} me after the second date. | | slang | friends |
+the ick | sudden feeling of disgust that kills attraction | He chewed with his mouth open and I got {{the ick}}. | | slang | friends | R
+spill the tea | to share the gossip | Come on, {{spill the tea}}: what happened last night? | Short: "Spill." | slang | friends |
+throw shade | to make subtle insulting remarks | Was she {{throwing shade}} at my outfit? | | slang | friends |
+my bad | my mistake; sorry | {{My bad}}, I thought you'd already left. | | slang | friends |
+be a third wheel | to be the extra person with a couple | I'm not coming. I don't want to {{be a third wheel}}. | | informal | friends |
+pull an all-nighter | to stay awake all night (usually working or studying) | I {{pulled an all-nighter}} to finish the essay. | | informal | friends |
+give someone shit | to criticise or tease someone | My mates still {{give me shit}} about that haircut. | | vulgar | friends |
+Fair play | (UK) well done; respect | You ran it in under four hours? {{Fair play}}. | British/Irish. | informal | friends |
+# ---------- Social life and dating ----------
+hit it off | to like each other immediately | We {{hit it off}} straight away. | | informal | social |
+we clicked | we connected naturally | We met at a party and just {{clicked}}. | | informal | social |
+This one's on me | I'll pay this time | Put your wallet away; {{this one's on me}}. | | informal | social |
+take a rain check | to postpone an invitation politely | Can I {{take a rain check}}? I'm exhausted tonight. | | informal | social |
+grab a drink sometime | to meet casually for a drink | We should {{grab a drink sometime}}. | | informal | social |
+What do you get up to in your free time? | what are your hobbies? | So, {{what do you get up to in your free time}}? | More natural than "What are your hobbies?" | informal | social |
+I'd love to take you out sometime | a clear, respectful date invitation | I really enjoyed talking. {{I'd love to take you out sometime}}. | | neutral | social |
+break the ice | to start a conversation and make people relaxed | He told a joke to {{break the ice}}. | | informal | social |
+be out of someone's league | to be too attractive or impressive for someone | Everyone told me she was {{out of my league}}. | | informal | social |
+have a lot in common | to share many interests | We {{have a lot in common}}. | | neutral | social |
+make plans | to arrange to do something | Let's {{make plans}} for the weekend. | | neutral | social |
+I'm more of a [night owl] | introduces a self-description by contrast | I'm {{more of a}} night owl, to be honest. | | informal | social |
+catch up | to talk about what's happened since you last met | We need to {{catch up}}; it's been ages! | | informal | social |
+It's been ages | it's been a long time | Hey! {{It's been ages}}! | | informal | social |
+Mind if I join you? | polite way to ask to sit or join | {{Mind if I join you}}? | | informal | social |
+# ---------- Support, sympathy and apologies ----------
+I'm so sorry for your loss | condolence when someone dies | {{I'm so sorry for your loss}}. He was a wonderful man. | | neutral | support |
+My thoughts are with you | I'm thinking of you in this hard time | {{My thoughts are with you}} and your family. | | neutral | support |
+If there's anything I can do | offers help sincerely | {{If there's anything I can do}}, just let me know. | Stronger: offer something specific ("I'll bring dinner on Friday"). | neutral | support |
+I owe you an apology | I need to say sorry to you | {{I owe you an apology}} for yesterday. | | neutral | support |
+That came out wrong | what I said sounded worse than I meant | Sorry, {{that came out wrong}}. I meant it as a compliment. | | informal | support |
+No hard feelings | no resentment; let's stay on good terms | We disagreed, but {{no hard feelings}}. | | informal | support |
+I didn't mean it like that | that wasn't my intention | {{I didn't mean it like that}}. | | informal | support |
+I've got your back | I'll support and defend you | Don't worry, {{I've got your back}}. | | informal | support |
+That must have been hard | validates someone's difficult experience | {{That must have been hard}} for you. | | neutral | support |
+take all the time you need | there's no pressure | {{Take all the time you need}}. | | neutral | support |
+I'm here for you | I'm available to support you | Whatever happens, {{I'm here for you}}. | | neutral | support |
+I stand corrected | I accept that I was wrong | You're right, {{I stand corrected}}. | Graceful way to admit a mistake. | neutral | support |
+# ---------- Dealing with services, landlords, offices ----------
+I'd like to make a complaint | I want to formally complain | {{I'd like to make a complaint}} about my last bill. | | neutral | admin |
+Is there any way to | is it possible to (polite request for flexibility) | {{Is there any way to}} move my appointment to Thursday? | | neutral | admin |
+That's not what we agreed | that contradicts our agreement | {{That's not what we agreed}}. The price was €80. | | neutral | admin |
+Could I speak to someone who can help with this? | politely asks for a supervisor or specialist | {{Could I speak to someone who can help with this}}? | Politer than "Can I speak to your manager?" | neutral | admin |
+I'd like to get this in writing | I want written confirmation | {{I'd like to get this in writing}}, please. | | neutral | admin |
+I've been going back and forth with | I've had repeated communication without resolution | {{I've been going back and forth with}} the landlord for weeks. | | informal | admin |
+What are my options? | what choices do I have? | The flight's cancelled? {{What are my options}}? | | neutral | admin |
+Could you walk me through | could you explain step by step | {{Could you walk me through}} the process? | | neutral | admin |
+I'm afraid there's been a mistake | politely points out an error | {{I'm afraid there's been a mistake}} with my order. | | neutral | admin |
+fall through the cracks | to be overlooked or forgotten by a system | My application seems to have {{fallen through the cracks}}. | | informal | admin |

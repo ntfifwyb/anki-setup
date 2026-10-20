@@ -15,9 +15,16 @@ My complete Anki setup: cards and review history, settings, add-ons, and a maste
 | `settings/preferences.txt` | App preferences (scheduling, reviewing, backups) |
 | `settings/collection_config.json` | Collection-level configuration |
 | `settings/note_types.json`, `settings/decks.json` | Note types (with fields and card templates) and decks |
+| `decks/` | Decks made with AI using the guide, each with its source files (see below) |
 | `addons/anki_dashboard/` | Installed add-on: [Anki Dashboard](https://github.com/montinaops/anki-dashboard) v0.6.6, including my `config.json` |
 
 Not included: `prefs21.db` (it contains the AnkiWeb sync login) and log files.
+
+## Decks
+
+| Deck | Notes | Description |
+|---|---|---|
+| [English Expressions](decks/english-expressions/) | 444 | Phrases, collocations and idioms by context: IELTS, work, emails, negotiating, emotions, friends and more |
 
 ## Restoring
 

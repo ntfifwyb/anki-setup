@@ -38,6 +38,7 @@ Follow these steps in order.
 4. **Write the cards** using the rules in §3, the card types in §4, and the relevant playbook (§5 or §6).
 5. **Self-review** every card against the checklist in §10. Delete or rewrite failures.
 6. **Deliver** in the format in §9, with a short summary: number of notes and cards, note types used, deck name, tags, and anything you left out or were unsure about.
+7. **Save the deck to this repository** in `decks/<deck-name>/`, with its importable file, its source data and build script, and a short README. Add it to the Decks table in the root `README.md`, then commit and push. (Details in `CLAUDE.md`.)
 
 ---
 
