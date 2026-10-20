@@ -25,10 +25,24 @@
 - **Produce** (every note): the front shows the meaning and an example sentence with a gap, plus a word count; you recall the expression.
 - **Recognise** (only for less common expressions): the front shows the expression; you recall the meaning.
 
+## Audio
+
+Each note has two audio fields, filled on your computer by the [Psittacus](https://github.com/ntfifwyb/psittacus) add-on, so the audio also plays in AnkiDroid and AnkiMobile:
+
+| Card | Front | Back |
+|---|---|---|
+| Produce | silent (audio would give the answer away) | the example sentence (`ExampleAudio`) |
+| Recognise | the expression (`ExpressionAudio`) | the example sentence (`ExampleAudio`) |
+
+After importing, in **Browse**, search `deck:"Languages::English::Expressions"`, select all notes, and run **Notes → Add Psittacus audio…** twice: `Expression` → `ExpressionAudio`, then `Example` → `ExampleAudio`, language `en_US`. Expect a few seconds per clip (about 45–60 minutes for the whole deck on a 4-core laptop). Filled notes are skipped, so you can stop it and run it again later. Then sync.
+
 ## Editing and rebuilding
 
 1. Edit `expressions.txt` or `contexts.txt`. One expression per line: `expression | meaning | example with {{the expression}} marked | notes | register | context | R` (R = also make a recognition card).
 2. Run `pip install genanki` and then `python build.py`.
 3. Re-import the new `.apkg`. Notes keep stable IDs, so existing cards are updated, not duplicated, and your review history is kept.
+4. Re-importing empties the audio fields, so run **Add Psittacus audio…** again. Psittacus caches its clips, so unchanged sentences are filled instantly.
+
+If you changed the note type's fields or templates, tick **Merge note types** in the import dialog, so the existing notes are updated instead of skipped.
 
 > Note: some cards in `10 With Friends` and `00 My Saved Phrases` are vulgar by design.

@@ -5,6 +5,7 @@ Each add-on lives in its own repository and is linked here as a git submodule, p
 | Add-on | Repository | Install |
 |---|---|---|
 | Ink | [ntfifwyb/ink](https://github.com/ntfifwyb/ink) | Download `ink.ankiaddon` from its [releases](https://github.com/ntfifwyb/ink/releases) |
+| Psittacus | [ntfifwyb/psittacus](https://github.com/ntfifwyb/psittacus) | Download `psittacus-<version>-windows.ankiaddon` from its [releases](https://github.com/ntfifwyb/psittacus/releases) |
 
 **Update the pinned version:**
 
