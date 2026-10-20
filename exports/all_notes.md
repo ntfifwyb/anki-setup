@@ -1,0 +1,73 @@
+# All notes (readable export)
+
+Generated from the collection. The importable backup is `collection/collection.colpkg`.
+
+
+## Deck: Artificial Intelligence
+
+- **Basic**
+  - *Front:* What does a neuron hold?
+  - *Back:* A number between 0 and 1 (its activation)
+- **Basic**
+  - *Front:* Why does the digit network have 784 inputs?
+  - *Back:* One per pixel of a 28×28 image
+- **Basic**
+  - *Front:* What do weights and biases do?
+  - *Back:* Weights say how much each input matters; the bias shifts how easily the neuron activates.
+- **Basic**
+  - *Front:* What is a Jupyter notebook?
+  - *Back:* A file of cells mixing code and text; each code cell runs and shows its output below it
+- **Basic**
+  - *Front:* How do you start Jupyter from PowerShell?
+  - *Back:* Type <i>jupyter notebook</i>; it opens in your browser
+- **Basic**
+  - *Front:* Python: 7/2&nbsp;vs 7//2?
+  - *Back:* <i></i>7/2 = 3.5 (true division); 7//2 = 3 (floor division)
+- **Basic**
+  - *Front:* How do you define a function in Python?
+  - *Back:* <i>def name(args):</i>, then an indented body that ends with <i>return value</i>
+- **Basic**
+  - *Front:* What does <i>help(f)</i> do?
+  - *Back:* Prints the documentation of function <i>f</i>
+- **Basic**
+  - *Front:* What do <i>and</i>, <i>or</i>, <i>not</i> do?
+  - *Back:* Combine or flip booleans: <i>True and False</i>&nbsp;is <i>False</i>, <i>True or False&nbsp;</i>is <i>True</i>
+- **Basic**
+  - *Front:* Last item of list L?
+  - *Back:* <i>L[-1]</i>
+- **Basic**
+  - *Front:* What does <i>L[1:3]</i>&nbsp;return?
+  - *Back:* Items at index 1 and 2 (the end index is excluded)
+- **Basic**
+  - *Front:* List comprehension of the square of 0 to 4?
+  - *Back:* <i>[n**2 for n in range(5)]</i>
+- **Basic**
+  - *Front:* In Python jargon, what does an&nbsp;<b>item</b>&nbsp;refer to?
+  - *Back:* A key, value pair
+- **Basic**
+  - *Front:* How do you read the value of key <i>a</i> in dict <i>d</i>?
+  - *Back:* <i>d[a]</i>&nbsp;(or&nbsp;<i>d.get(a)</i>, which returns&nbsp;<i>None</i>&nbsp;if missing)
+- **Basic**
+  - *Front:* What does <i>f"Hi {name}"</i> do?
+  - *Back:* An f-string: inserts the value of name into the text
+- **Basic**
+  - *Front:* How is NumPy usually imported?
+  - *Back:* <i>import numpy as np</i>
+- **Basic**
+  - *Front:* What does dir(x) show?
+  - *Back:* All the names (attributes and methods) you can use on object x
+- **Basic**
+  - *Front:* What does type(x) tell you?<br>
+  - *Back:* What kind of object x is, e.g. int, str, or numpy.ndarray
+- **Basic**
+  - *Front:* What do <i>ndim</i>, <i>shape </i>and <i>size </i>tell you about a NumPy array?
+  - *Back:* <i>ndim </i>= number of axes; <i>shape </i>= length of each axis, e.g. (3, 4); <i>size </i>= total number of elements (the product of the shape)
+- **Basic**
+  - *Front:* np.arange(2, 9, 2) vs np.linspace(0, 10, num=5)?
+  - *Back:* <i>arange </i>steps by 2 and excludes the stop: [2, 4, 6, 8]; <i>linspace </i>gives 5 evenly spaced values and includes the stop: [0, 2.5, 5, 7.5, 10]
+- **Basic**
+  - *Front:* <i>b = a[3:]</i>, then <i>b[0] = 40</i>. What happens to a?
+  - *Back:* a changes too: a slice is a view that shares memory with the original (use <i>.copy()</i> for an independent array)
+- **Basic**
+  - *Front:* Keep only the items of array a that are greater than 2 and less than 11?
+  - *Back:* <i>a[(a &gt; 2) &amp; (a &lt; 11)]</i> (a boolean mask; each condition needs its own parentheses)

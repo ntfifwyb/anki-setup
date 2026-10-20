@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1754500458811,
+    "name": "Basic",
+    "fields": [
+      "Front",
+      "Back"
+    ],
+    "card_templates": [
+      "Card 1"
+    ]
+  },
+  {
+    "id": 1754500458812,
+    "name": "Basic (and reversed card)",
+    "fields": [
+      "Front",
+      "Example",
+      "Back"
+    ],
+    "card_templates": [
+      "Card 1",
+      "Card 2"
+    ]
+  },
+  {
+    "id": 1516347233607,
+    "name": "Basic (and reversed card)-7c609",
+    "fields": [
+      "full_d",
+      "base_e",
+      "base_d",
+      "artikel_d",
+      "plural_d",
+      "audio_text_d",
+      "s1",
+      "s1e",
+      "s2",
+      "s2e",
+      "s3",
+      "s3e",
+      "s4",
+      "s4e",
+      "s5",
+      "s5e",
+      "s6",
+      "s6e",
+      "s7",
+      "s7e",
+      "s8",
+      "s8e",
+      "s9",
+      "s9e",
+      "original_order",
+      "base_a",
+      "s1a",
+      "s2a",
+      "s3a",
+      "s4a",
+      "s5a",
+      "s6a",
+      "s7a",
+      "s8a",
+      "s9a"
+    ],
+    "card_templates": [
+      "Card 1",
+      "Card 2"
+    ]
+  },
+  {
+    "id": 1754500458813,
+    "name": "Basic (optional reversed card)",
+    "fields": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "card_templates": [
+      "Card 1",
+      "Card 2"
+    ]
+  },
+  {
+    "id": 1754500458814,
+    "name": "Basic (type in the answer)",
+    "fields": [
+      "Front",
+      "Back"
+    ],
+    "card_templates": [
+      "Card 1"
+    ]
+  },
+  {
+    "id": 1754500458815,
+    "name": "Cloze",
+    "fields": [
+      "Text",
+      "Back Extra"
+    ],
+    "card_templates": [
+      "Cloze"
+    ]
+  },
+  {
+    "id": 1754500458816,
+    "name": "Image Occlusion",
+    "fields": [
+      "Occlusion",
+      "Image",
+      "Header",
+      "Back Extra",
+      "Comments"
+    ],
+    "card_templates": [
+      "Image Occlusion"
+    ]
+  },
+  {
+    "id": 1536623980781,
+    "name": "IPA Symbol",
+    "fields": [
+      "Symbol",
+      "Definition",
+      "Sound",
+      "Name of Symbol",
+      "Example Words",
+      "Production Instructions",
+      "Image"
+    ],
+    "card_templates": [
+      "Explain symbol",
+      "Give symbol",
+      "Name symbol",
+      "Give examples",
+      "Identify from examples",
+      "Transcribe",
+      "Make sound"
+    ]
+  },
+  {
+    "id": 1592402337200,
+    "name": "Phonetics Definition - List All",
+    "fields": [
+      "Term",
+      "Definition (list of items)",
+      "Image"
+    ],
+    "card_templates": [
+      "List all"
+    ]
+  },
+  {
+    "id": 1536621530818,
+    "name": "Phonetics Definitions",
+    "fields": [
+      "Term",
+      "Class of term",
+      "Definition",
+      "Examples",
+      "Image"
+    ],
+    "card_templates": [
+      "Define",
+      "Identify definition",
+      "Examples",
+      "Identify examples"
+    ]
+  }
+]

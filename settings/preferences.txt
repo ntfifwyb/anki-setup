@@ -1,0 +1,20 @@
+scheduling {
+  rollover: 4
+  learn_ahead_secs: 1200
+  new_timezone: true
+}
+reviewing {
+  interrupt_audio_when_answering: true
+  show_remaining_due_counts: true
+  show_intervals_on_buttons: true
+  load_balancer_enabled: true
+}
+editing {
+  adding_defaults_to_current_deck: true
+}
+backups {
+  daily: 12
+  weekly: 10
+  monthly: 9
+  minimum_interval_mins: 30
+}

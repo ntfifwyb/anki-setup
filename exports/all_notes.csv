@@ -1,0 +1,23 @@
+deck,note_type,tags,fields...
+Artificial Intelligence,Basic,,What does a neuron hold?,A number between 0 and 1 (its activation)
+Artificial Intelligence,Basic,,Why does the digit network have 784 inputs?,One per pixel of a 28×28 image
+Artificial Intelligence,Basic,,What do weights and biases do?,Weights say how much each input matters; the bias shifts how easily the neuron activates.
+Artificial Intelligence,Basic,,What is a Jupyter notebook?,A file of cells mixing code and text; each code cell runs and shows its output below it
+Artificial Intelligence,Basic,,How do you start Jupyter from PowerShell?,Type <i>jupyter notebook</i>; it opens in your browser
+Artificial Intelligence,Basic,,Python: 7/2&nbsp;vs 7//2?,<i></i>7/2 = 3.5 (true division); 7//2 = 3 (floor division)
+Artificial Intelligence,Basic,,How do you define a function in Python?,"<i>def name(args):</i>, then an indented body that ends with <i>return value</i>"
+Artificial Intelligence,Basic,,What does <i>help(f)</i> do?,Prints the documentation of function <i>f</i>
+Artificial Intelligence,Basic,,"What do <i>and</i>, <i>or</i>, <i>not</i> do?","Combine or flip booleans: <i>True and False</i>&nbsp;is <i>False</i>, <i>True or False&nbsp;</i>is <i>True</i>"
+Artificial Intelligence,Basic,,Last item of list L?,<i>L[-1]</i>
+Artificial Intelligence,Basic,,What does <i>L[1:3]</i>&nbsp;return?,Items at index 1 and 2 (the end index is excluded)
+Artificial Intelligence,Basic,,List comprehension of the square of 0 to 4?,<i>[n**2 for n in range(5)]</i>
+Artificial Intelligence,Basic,,"In Python jargon, what does an&nbsp;<b>item</b>&nbsp;refer to?","A key, value pair"
+Artificial Intelligence,Basic,,How do you read the value of key <i>a</i> in dict <i>d</i>?,"<i>d[a]</i>&nbsp;(or&nbsp;<i>d.get(a)</i>, which returns&nbsp;<i>None</i>&nbsp;if missing)"
+Artificial Intelligence,Basic,,"What does <i>f""Hi {name}""</i> do?",An f-string: inserts the value of name into the text
+Artificial Intelligence,Basic,,How is NumPy usually imported?,<i>import numpy as np</i>
+Artificial Intelligence,Basic,,What does dir(x) show?,All the names (attributes and methods) you can use on object x
+Artificial Intelligence,Basic,,What does type(x) tell you?<br>,"What kind of object x is, e.g. int, str, or numpy.ndarray"
+Artificial Intelligence,Basic,,"What do <i>ndim</i>, <i>shape </i>and <i>size </i>tell you about a NumPy array?","<i>ndim </i>= number of axes; <i>shape </i>= length of each axis, e.g. (3, 4); <i>size </i>= total number of elements (the product of the shape)"
+Artificial Intelligence,Basic,,"np.arange(2, 9, 2) vs np.linspace(0, 10, num=5)?","<i>arange </i>steps by 2 and excludes the stop: [2, 4, 6, 8]; <i>linspace </i>gives 5 evenly spaced values and includes the stop: [0, 2.5, 5, 7.5, 10]"
+Artificial Intelligence,Basic,,"<i>b = a[3:]</i>, then <i>b[0] = 40</i>. What happens to a?",a changes too: a slice is a view that shares memory with the original (use <i>.copy()</i> for an independent array)
+Artificial Intelligence,Basic,,Keep only the items of array a that are greater than 2 and less than 11?,<i>a[(a &gt; 2) &amp; (a &lt; 11)]</i> (a boolean mask; each condition needs its own parentheses)
