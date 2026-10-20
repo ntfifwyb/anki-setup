@@ -2,7 +2,7 @@
 
 444 English expressions (487 cards) for a fluent speaker who wants a wider, more precise range of phrases. Every card is labelled with its context and register (academic, formal, neutral, informal, slang, vulgar).
 
-**Import:** download `English_Expressions.apkg` and open it with Anki (or **File → Import**). It goes into `Languages::English::Expressions`.
+**Import:** download [`English_Expressions.apkg`](https://github.com/ntfifwyb/anki-setup/releases/download/english-expressions/English_Expressions.apkg) from the deck's [release](https://github.com/ntfifwyb/anki-setup/releases/tag/english-expressions) and open it with Anki (or **File → Import**). It goes into `Languages::English::Expressions`, with its audio.
 
 ## Subdecks
 
@@ -27,21 +27,26 @@
 
 ## Audio
 
-Each note has two audio fields, filled on your computer by the [Psittacus](https://github.com/ntfifwyb/psittacus) add-on, so the audio also plays in AnkiDroid and AnkiMobile:
+The deck comes with its audio, spoken by Kokoro (voice `af_heart`), the voice the [Psittacus](https://github.com/ntfifwyb/psittacus) add-on uses for English. The clips are ordinary MP3s, so they play on desktop, AnkiDroid and AnkiMobile without any add-on.
 
 | Card | Front | Back |
 |---|---|---|
 | Produce | silent (audio would give the answer away) | the example sentence (`ExampleAudio`) |
 | Recognise | the expression (`ExpressionAudio`) | the example sentence (`ExampleAudio`) |
 
-After importing, in **Browse**, search `deck:"Languages::English::Expressions"`, select all notes, and run **Notes → Add Psittacus audio…** twice: `Expression` → `ExpressionAudio`, then `Example` → `ExampleAudio`, language `en_US`. Expect a few seconds per clip (about 45–60 minutes for the whole deck on a 4-core laptop). Filled notes are skipped, so you can stop it and run it again later. Then sync.
+`ExpressionAudio` is only filled on notes with a Recognise card, since no other card plays it. The clips are in `audio/`, named as Psittacus names them, so a clip Psittacus already made for you isn't imported twice.
 
 ## Editing and rebuilding
 
 1. Edit `expressions.txt` or `contexts.txt`. One expression per line: `expression | meaning | example with {{the expression}} marked | notes | register | context | R` (R = also make a recognition card).
-2. Run `pip install genanki` and then `python build.py`.
-3. Re-import the new `.apkg`. Notes keep stable IDs, so existing cards are updated, not duplicated, and your review history is kept.
-4. Re-importing empties the audio fields, so run **Add Psittacus audio…** again. Psittacus caches its clips, so unchanged sentences are filled instantly.
+2. Make the audio for new or changed sentences (it needs the Psittacus submodule, `git submodule update --init`); clips already in `audio/` are skipped:
+   ```
+   uv run --no-project -p 3.13 --with genanki==0.13.1 --with kokoro-onnx==0.6.1 --with soundfile==0.13.1 python speak.py
+   ```
+3. Commit, then run `scripts/publish-deck.sh english-expressions` from the repository root. It builds the `.apkg` (`build.py`, which stops if a clip is missing) and uploads it to the deck's release.
+4. Re-import the new `.apkg`. Notes keep stable IDs, so existing cards are updated, not duplicated, and your review history is kept.
+
+Clips for removed or reworded sentences stay in `audio/`; delete those not listed in the built deck if they pile up.
 
 If you changed the note type's fields or templates, tick **Merge note types** in the import dialog, so the existing notes are updated instead of skipped.
 
