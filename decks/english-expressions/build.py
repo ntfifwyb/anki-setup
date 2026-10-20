@@ -59,24 +59,26 @@ PRODUCE_A = """{{FrontSide}}
 <div class="expr">{{Expression}}</div>
 <div class="example">{{Example}}</div>
 {{#Notes}}<div class="notes">{{Notes}}</div>{{/Notes}}
-{{tts en_US:Expression}}"""
+{{ExampleAudio}}"""
 
 RECOG_Q = """{{#Recognition}}<div class="ctx">{{Context}}</div> <div class="reg">{{Register}}</div>
 <div class="expr">{{Expression}}</div>
 <div class="hint">What does it mean?</div>
-{{tts en_US:Expression}}{{/Recognition}}"""
+{{ExpressionAudio}}{{/Recognition}}"""
 
 RECOG_A = """{{FrontSide}}
 <hr id="answer">
 <div class="meaning">{{Meaning}}</div>
 <div class="example">{{Example}}</div>
-{{#Notes}}<div class="notes">{{Notes}}</div>{{/Notes}}"""
+{{#Notes}}<div class="notes">{{Notes}}</div>{{/Notes}}
+{{ExampleAudio}}"""
 
 MODEL = genanki.Model(
     1844176211,
     "English Expression",
     fields=[{"name": n} for n in
-            ["Expression", "Meaning", "Example", "Gapped", "Hint", "Notes", "Register", "Recognition", "Context"]],
+            ["Expression", "Meaning", "Example", "Gapped", "Hint", "Notes", "Register", "Recognition", "Context",
+              "ExpressionAudio", "ExampleAudio"]],
     templates=[
         {"name": "Produce", "qfmt": PRODUCE_Q, "afmt": PRODUCE_A},
         {"name": "Recognise", "qfmt": RECOG_Q, "afmt": RECOG_A},
@@ -140,7 +142,8 @@ def build():
         n_recog += bool(r)
         deck(sub).add_note(genanki.Note(
             model=MODEL,
-            fields=[esc(expr), esc(meaning), ex_html, gapped, hint, esc(notes), register, r, label],
+            # The audio fields stay empty here; the Psittacus add-on fills them in Anki.
+            fields=[esc(expr), esc(meaning), ex_html, gapped, hint, esc(notes), register, r, label, "", ""],
             tags=tags,
             guid=genanki.guid_for("english-expressions", expr.lower()),
         ))
