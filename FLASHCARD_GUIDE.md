@@ -12,7 +12,7 @@ If a request conflicts with this guide, follow the request but say which rule yo
 2. [Why flashcards work: the evidence](#2-why-flashcards-work-the-evidence)
 3. [The core rules for every card](#3-the-core-rules-for-every-card)
 4. [Card types and when to use each](#4-card-types-and-when-to-use-each)
-5. [Language learning playbook](#5-language-learning-playbook)
+5. [Language learning playbook](#5-language-learning-playbook) (audio: [§5.6](#56-audio-ship-it-inside-the-deck))
 6. [Playbooks for other subjects](#6-playbooks-for-other-subjects)
 7. [Anti-patterns: cards to never make](#7-anti-patterns-cards-to-never-make)
 8. [Deck structure, tags and size](#8-deck-structure-tags-and-size)
@@ -186,7 +186,7 @@ One **note** per word or phrase. Recommended fields:
 2. **Definition (target language)** – short, simple wording, ideally from or modelled on a monolingual learner's dictionary (for German: Duden, DWDS, PONS Deutsch als Fremdsprache).
 3. **Example sentence** – natural, from real usage where possible, showing typical collocations.
 4. **Cloze sentence** – the example with the word deleted (used for the production card).
-5. **Audio** – pronunciation of the word and, ideally, the sentence.
+5. **Audio** – pronunciation of the word and, ideally, the sentence: `WordAudio` and `ExampleAudio`, made with the deck (§5.6).
 6. **Image** – only for concrete, picturable meanings.
 7. **Notes** – register (formal/colloquial), false friends, near-synonyms and how they differ, regional usage.
 8. **Translation (hint)** – optional, not tested, only when needed (see 5.1).
@@ -209,10 +209,32 @@ Cards generated from that note:
 - For irregular forms, make a card per form that's actually used, not per table.
 
 ### 5.5 Pronunciation
-- Add audio to every vocabulary card where possible (native recordings preferred, high-quality TTS otherwise).
+- Add audio to every vocabulary card: a native recording when the learner supplies one, otherwise the neural voices of §5.6, generated with the deck.
 - Early on, learn the sound system: IPA symbols, minimal pairs (*Hölle / Hülle*, *Miete / Mitte*), and spelling-to-sound rules. The owner's collection already includes IPA and phonetics note types.
 
-### 5.6 What to choose to learn
+### 5.6 Audio: ship it inside the deck
+Whenever a card's content is meant to be heard (any language deck, pronunciation, songs or poems), the deck comes with its own audio clips. Don't leave `{{tts}}` tags or empty audio fields to be filled in Anki later: that takes the owner up to an hour per deck, has to be redone after every re-import, and `{{tts}}` doesn't play on the phone.
+
+**How.** Make the clips when the deck is built, with the voices of the owner's [Psittacus](https://github.com/ntfifwyb/psittacus) add-on, linked in this repository as the submodule `addons/psittacus` (`git submodule update --init addons/psittacus`). Its modules `core.py` and `engines.py` don't need Anki. Copy the pattern of `decks/english-expressions/`:
+- `build.py` loads Psittacus without its Anki-only `__init__` (`psittacus()`), takes the **first** voice Psittacus picks for the deck's language from `voices.json` (`voice()`), and names each clip with `core.cache_name`, so a clip the add-on already made isn't imported twice. It stops if a clip is missing.
+- `speak.py` makes the missing clips into the deck's `audio/` with `core.Speaker` and only that first engine, so every clip has the name `build.py` expects. Clips already there are skipped, so rerunning it after editing a few notes is quick.
+- The clips are committed in `audio/`; the `.apkg` with them goes on the deck's release (`scripts/publish-deck.sh <deck>`), never into git.
+
+**Which voice.** Psittacus decides per language, from a listening test the owner did:
+
+| Engine | Languages | Package for `speak.py` (`uv run --with …`) |
+|---|---|---|
+| Kokoro (local) | English (US, UK), Spanish, Portuguese (BR), French, Italian, Hindi | `kokoro-onnx==0.6.1` |
+| Piper (local) | German, Dutch, Polish, Russian, Turkish, Arabic, Japanese, Korean | `piper-tts==1.8.0` |
+| Edge TTS (online, unofficial Microsoft service) | Chinese, Portuguese (PT), anything else | `edge-tts==7.3.1` |
+
+Every engine also needs `soundfile==0.13.1`; the exact versions are in the submodule's `requirements-addon.txt`. Models download once into `~/.cache/psittacus`. Use the language codes of `voices.json` (`en_US`, `de`, `pt-BR`…), the same ones as in a `{{tts}}` tag.
+
+**Which fields and sides.** One audio field per spoken field, named after it (`Word` → `WordAudio`, `Example` → `ExampleAudio`), holding `[sound:<clip>.mp3]`, and placed in the template as `{{WordAudio}}`. Speak the plain text: strip HTML and cloze markers first. Play a clip only where it doesn't give the answer away: on a production card the front stays silent and the back plays the word and the example; on a recognition card the front may play the word. Fill an audio field only on notes whose cards play it.
+
+**Check before delivering.** You can't listen, so check what you can: every audio field points to a clip that exists, no clip is empty or a fraction of a second long, and the clip count matches the fields. For a language you are less sure of, transcribe a sample of clips with Whisper and compare them with the text (Psittacus's `bench/` does this) to catch a voice reading the wrong words. Say in the delivery summary which voice spoke the deck.
+
+### 5.7 What to choose to learn
 - Prioritise by **frequency** (frequency lists, words met repeatedly in the learner's own reading) and by **personal relevance** (work, hobbies, upcoming exams).
 - Don't make cards for words the learner already knows.
 - Don't make cards for very rare words unless the learner asked for them.
@@ -284,7 +306,7 @@ Cards generated from that note:
 
 Pick one of the two formats below. In both cases, also give a short plain-text summary of what's in the deck.
 
-### Option A (preferred for text-only decks): a tab-separated `.txt` file with Anki import headers
+### Option A (preferred for text-only decks, never for decks with audio): a tab-separated `.txt` file with Anki import headers
 
 Anki 2.1.55+ reads these header lines, so the file imports with the right note type, deck and tags without any manual setup. Use **tab** as the separator (commas and semicolons occur in normal text).
 
@@ -322,7 +344,7 @@ Import: **File → Import**, choose the file, check the preview, click **Import*
 
 Generate it with the Python library [`genanki`](https://github.com/kerrickstaley/genanki):
 - Give each model and deck a fixed, random 64-bit ID, and use `genanki.guid_for(...)` on a stable key (e.g. the word or question) so re-importing an updated deck updates notes instead of duplicating them.
-- Add media files through `package.media_files`, and refer to them in fields by file name only: `[sound:verschieben.mp3]`, `<img src="besprechung.jpg">`.
+- Add media files through `package.media_files`, and refer to them in fields by file name only: `[sound:verschieben.mp3]`, `<img src="besprechung.jpg">`. Audio clips are made as in §5.6.
 - For a vocabulary note type, use the fields from §5.2 and generate a recognition template and a production template.
 
 ### General formatting rules
@@ -346,7 +368,7 @@ Check **every** card. Rewrite or delete any card that fails.
 - [ ] Is it something **worth remembering** for the learner's goal?
 - [ ] Does it avoid **sets, lists, yes/no** and copied paragraphs?
 - [ ] For look-alike items: is the **distinction** made explicit?
-- [ ] For languages: is the card in the **target language** to the degree the learner's level calls for (§5.1)? Does it include **article/plural/forms**, an **example** and, where possible, **audio**?
+- [ ] For languages: is the card in the **target language** to the degree the learner's level calls for (§5.1)? Does it include **article/plural/forms**, an **example** and the deck's own **audio** clips (§5.6)?
 - [ ] For conceptual topics: are there **why/how** cards, not only definitions?
 - [ ] Is the **note type**, **deck** and **tag** format correct for import (§9)?
 - [ ] No duplicates of existing cards? (The owner's current cards are listed in `backup/exports/all_notes.md`.)

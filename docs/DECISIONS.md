@@ -15,3 +15,11 @@
 **Choice:** a release per deck, tagged with the deck's folder name and moved by `scripts/publish-deck.sh` on each publish, so the download link stays the same. The `.apkg` is git-ignored. The clips are committed, in the deck's `audio/`.
 
 **Why:** a committed `.apkg` adds its full size to the history on every rebuild. Each clip is committed once, so the repository only grows when sentences change.
+
+## 2026-10-20: Every deck with spoken content ships its audio
+
+**Question:** the English Expressions deck makes its audio at build time. Is that a one-off, or the rule for new decks?
+
+**Choice:** the rule. `FLASHCARD_GUIDE.md` §5.6 tells whoever builds a deck (language learning, pronunciation, anything meant to be heard) to make the clips with Psittacus's voices, following `decks/english-expressions/`.
+
+**Why:** the owner builds their decks with Claude, so the audio should arrive with the deck rather than be added in Anki. The Psittacus add-on stays a standalone tool for cards written by hand (Psittacus `docs/DECISIONS.md`, same date).
