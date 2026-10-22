@@ -1,4 +1,4 @@
-"""Build the German Verbs Anki deck (.apkg) from verbs.txt.
+"""Build the German Verbs Anki deck (.apkg) from verbs.txt and senses.txt.
 
 The audio clips come from audio/, which speak.py fills.
 """
@@ -14,6 +14,7 @@ import genanki
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "verbs.txt")
+SENSES = os.path.join(HERE, "senses.txt")
 DECK = "Languages::German::Verbs"
 OUT = os.path.join(HERE, "German_Verbs.apkg")
 AUDIO = os.path.join(HERE, "audio")
@@ -54,6 +55,20 @@ PRODUCE_A = """{{FrontSide}}
 {{#Notes}}<div class="notes">{{Notes}}</div>{{/Notes}}
 {{VerbAudio}} {{ExampleAudio}}"""
 
+PRODUCE2_Q = """{{#Gapped2}}<div class="tag">Verb · Nr. {{Rank}} · 2. Bedeutung</div>
+<div class="def">{{Definition2}}</div>
+<div class="example">{{Gapped2}}</div>
+<div class="hint">{{Hint2}}</div>
+<div class="hint">{{hint:English2}}</div>{{/Gapped2}}"""
+
+PRODUCE2_A = """{{FrontSide}}
+<hr id="answer">
+<div class="verb">{{Verb}}</div>
+<div class="forms">{{Forms}}</div>
+<div class="example">{{Example2}}</div>
+<div class="en">{{ExampleEnglish2}}</div>
+{{VerbAudio}} {{Example2Audio}}"""
+
 RECOG_Q = """{{#Recognition}}<div class="tag">Verb · Nr. {{Rank}}</div>
 <div class="verb">{{Verb}}</div>
 <div class="hint">Was bedeutet das?</div>
@@ -69,7 +84,9 @@ RECOG_A = """{{FrontSide}}
 {{ExampleAudio}}"""
 
 FIELDS = ["Verb", "Forms", "Definition", "Example", "Gapped", "Hint", "English", "ExampleEnglish",
-          "Notes", "Rank", "Recognition", "VerbAudio", "ExampleAudio"]
+          "Notes", "Rank", "Recognition", "VerbAudio", "ExampleAudio",
+          # A second meaning (senses.txt), appended so Anki can merge the note type on import.
+          "Definition2", "Example2", "Gapped2", "Hint2", "English2", "ExampleEnglish2", "Example2Audio"]
 F = {name: i for i, name in enumerate(FIELDS)}
 
 MODEL = genanki.Model(
@@ -79,6 +96,7 @@ MODEL = genanki.Model(
     templates=[
         {"name": "Produce", "qfmt": PRODUCE_Q, "afmt": PRODUCE_A},
         {"name": "Recognise", "qfmt": RECOG_Q, "afmt": RECOG_A},
+        {"name": "Produce 2", "qfmt": PRODUCE2_Q, "afmt": PRODUCE2_A},
     ],
     css=CSS,
     sort_field_index=0,
@@ -98,6 +116,33 @@ def parse():
             sys.exit(f"line {ln}: expected 8 fields, got {len(parts)}: {line}")
         rows.append((ln, *parts))
     return rows
+
+
+def parse_senses():
+    """{verb: (definition, example, English, English example)} from senses.txt."""
+    out = {}
+    for ln, line in enumerate(open(SENSES, encoding="utf-8"), 1):
+        line = line.rstrip("\n")
+        if not line.strip() or line.startswith("#"):
+            continue
+        parts = [p.strip() for p in line.split(" | ")]
+        if len(parts) != 5:
+            sys.exit(f"senses.txt line {ln}: expected 5 fields, got {len(parts)}: {line}")
+        if parts[0] in out:
+            sys.exit(f"senses.txt line {ln}: duplicate {parts[0]}")
+        out[parts[0]] = tuple(parts[1:])
+    return out
+
+
+def gap(ln, example):
+    """(example with the verb's words in bold, gapped example, hint) for an example with {{ }} marks."""
+    segs = re.findall(r"\{\{(.+?)\}\}", example)
+    if not segs:
+        sys.exit(f"line {ln}: example has no {{{{ }}}} marker")
+    esc = html.escape(example, quote=False)
+    bold = re.sub(r"\{\{(.+?)\}\}", r"<b>\1</b>", esc)
+    gapped = re.sub(r"\{\{(.+?)\}\}", '<span class="gap">_____</span>', esc)
+    return bold, gapped, f"{len(segs)} Teile" if len(segs) > 1 else ""
 
 
 def tags(rank, forms, notes):
@@ -127,17 +172,13 @@ def notes():
     seen = set()
     out = []
     esc = lambda t: html.escape(t, quote=False)
+    senses = parse_senses()
     for ln, rank, verb, forms, definition, example, en, ex_en, note in parse():
         rank = int(rank)
-        segs = re.findall(r"\{\{(.+?)\}\}", example)
-        if not segs:
-            sys.exit(f"line {ln}: example has no {{{{ }}}} marker")
         if verb in seen:
             sys.exit(f"line {ln}: duplicate {verb}")
         seen.add(verb)
-        ex_html = re.sub(r"\{\{(.+?)\}\}", r"<b>\1</b>", esc(example))
-        gapped = re.sub(r"\{\{(.+?)\}\}", '<span class="gap">_____</span>', esc(example))
-        hint = f"{len(segs)} Teile" if len(segs) > 1 else ""
+        ex_html, gapped, hint = gap(ln, example)
         fields = [""] * len(FIELDS)
         fields[F["Verb"]] = esc(verb)
         fields[F["Forms"]] = esc(forms)
@@ -150,7 +191,18 @@ def notes():
         fields[F["Notes"]] = note  # may hold <i> markup
         fields[F["Rank"]] = str(rank)
         fields[F["Recognition"]] = "y" if rank >= RECOGNISE_FROM else ""
+        if verb in senses:
+            definition2, example2, en2, ex_en2 = senses.pop(verb)
+            ex2_html, gapped2, hint2 = gap(f"senses.txt {verb}", example2)
+            fields[F["Definition2"]] = esc(definition2)
+            fields[F["Example2"]] = ex2_html
+            fields[F["Gapped2"]] = gapped2
+            fields[F["Hint2"]] = hint2
+            fields[F["English2"]] = esc(en2)
+            fields[F["ExampleEnglish2"]] = esc(ex_en2)
         out.append((fields, tags(rank, forms, note), genanki.guid_for("german-verbs", verb)))
+    if senses:
+        sys.exit(f"senses.txt: not in verbs.txt: {', '.join(senses)}")
     return out
 
 
@@ -174,18 +226,21 @@ def voice():
 def clips(fields):
     """{audio field index: (text, clip file name)} for a note, named as Psittacus names them.
 
-    Every note speaks its verb (both cards play it) and its example sentence.
+    Every note speaks its verb (every card plays it), its example sentence and, if it has a
+    second meaning, that meaning's example.
     """
     core = psittacus()
     _, engine, v = voice()
     sources = {F["VerbAudio"]: fields[F["Verb"]], F["ExampleAudio"]: fields[F["Example"]]}
+    if fields[F["Example2"]]:
+        sources[F["Example2Audio"]] = fields[F["Example2"]]
     texts = {i: core.clean_text(f) for i, f in sources.items()}
     return {i: (t, core.cache_name(engine, v, t, 1.0)) for i, t in texts.items()}
 
 
 def build():
     deck = genanki.Deck(1716304582, DECK)
-    media, missing, n_recog = [], 0, 0
+    media, missing, n_recog, n_second = [], 0, 0, 0
     for fields, note_tags, guid in notes():
         for i, (_, name) in clips(fields).items():
             path = os.path.join(AUDIO, name)
@@ -193,6 +248,7 @@ def build():
             fields[i] = f"[sound:{name}]"
             media.append(path)
         n_recog += bool(fields[F["Recognition"]])
+        n_second += bool(fields[F["Gapped2"]])
         deck.add_note(genanki.Note(model=MODEL, fields=fields, tags=note_tags, guid=guid))
     if missing:
         sys.exit(f"{missing} audio clips missing from {AUDIO}: run speak.py")
@@ -200,7 +256,8 @@ def build():
     package.media_files = sorted(set(media))
     package.write_to_file(OUT)
     n = len(deck.notes)
-    print(f"{n} notes, {n + n_recog} cards ({n_recog} recognition), {len(set(media))} clips -> {OUT}")
+    print(f"{n} notes, {n + n_recog + n_second} cards ({n_recog} recognition, {n_second} second meaning),"
+          f" {len(set(media))} clips -> {OUT}")
 
 
 if __name__ == "__main__":

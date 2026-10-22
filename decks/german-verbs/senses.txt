@@ -1,0 +1,178 @@
+# Second meanings of verbs ranked 1–1000, each a second Produce card on the verb's note.
+# One per line, fields separated by " | ":
+# verb (as in verbs.txt) | German definition of this meaning | example ({{ }} marks the verb's words) | English | English example
+# Added by Claude: only meanings distinct enough from the first card to be worth learning on their own.
+können | möglich sein | Es {{kann}} sein, dass er später kommt. | can, may | He may come later.
+gehen | möglich sein; funktionieren | {{Geht}} es bei dir auch am Donnerstag? | to work, to be possible | Does Thursday work for you too?
+meinen | eine bestimmte Ansicht haben | Ich {{meine}}, wir sollten früher losfahren. | to think | I think we should leave earlier.
+denken | annehmen, vermuten | Ich {{denke}}, dass es morgen regnet. | to think, to suppose | I think it will rain tomorrow.
+lassen | veranlassen, dass jemand anderes etwas tut | Ich {{lasse}} mir morgen die Haare schneiden. | to have something done | I'm having my hair cut tomorrow.
+finden | etwas Gesuchtes entdecken | Ich habe meinen Schlüssel endlich {{gefunden}}. | to find | I've finally found my key.
+leben | am Leben sein | Ihre Großmutter {{lebt}} noch und ist schon 95. | to be alive | Her grandmother is still alive and already 95.
+bleiben | in einem Zustand verharren | Bitte {{bleib}} ruhig, es ist nichts passiert. | to stay, to remain | Please stay calm, nothing has happened.
+halten | etwas in der Hand haben | Kannst du kurz meine Tasche {{halten}}? | to hold | Can you hold my bag for a moment?
+sprechen | sich mit jemandem unterhalten | Ich muss dringend mit dir {{sprechen}}. | to speak, to talk | I urgently need to talk to you.
+heißen | bedeuten | Was {{heißt}} das auf Deutsch? | to mean | What does that mean in German?
+treffen | ein Ziel erreichen (mit einem Wurf, Schuss) | Der Pfeil {{traf}} genau die Mitte der Scheibe. | to hit | The arrow hit the exact centre of the target.
+spielen | ein Instrument oder eine Rolle spielen | Sie {{spielt}} seit zehn Jahren Klavier. | to play (an instrument, a role) | She has played the piano for ten years.
+laufen | verlaufen, sich entwickeln | Wie {{läuft}} es bei deinem neuen Job? | to go (well, badly) | How's it going at your new job?
+sorgen | sich um etwas kümmern (~ für) | Wer {{sorgt}} heute Abend für die Getränke? | to take care of, to provide | Who's taking care of the drinks tonight?
+verlieren | etwas nicht mehr haben, weil man es nicht mehr findet | Ich habe meinen Geldbeutel {{verloren}}. | to lose | I've lost my wallet.
+liegen | seinen Grund in etwas haben (an + Dat.) | Die Verspätung {{liegt}} am schlechten Wetter. | to be due to | The delay is due to the bad weather.
+vergessen | sich nicht mehr an etwas erinnern | Ich habe ihren Namen leider {{vergessen}}. | to forget | I'm afraid I've forgotten her name.
+entschuldigen | um Verzeihung bitten (sich ~ für) | Ich möchte mich für mein Verhalten {{entschuldigen}}. | to apologise | I'd like to apologise for my behaviour.
+fällen | einen Baum umschlagen | Die Arbeiter {{fällten}} die alte Eiche. | to fell, to cut down | The workers cut down the old oak.
+nennen | erwähnen, angeben | Können Sie mir einen Grund {{nennen}}? | to name, to give | Can you give me a reason?
+ziehen | etwas zu sich hin bewegen | Du musst an der Tür {{ziehen}}, nicht drücken. | to pull | You have to pull the door, not push it.
+tragen | etwas mit sich nehmen, halten | Kannst du mir helfen, den Koffer zu {{tragen}}? | to carry | Can you help me carry the suitcase?
+scheinen | den Eindruck machen (~ zu + Inf.) | Er {{scheint}} heute sehr müde zu sein. | to seem | He seems very tired today.
+führen | leiten, an der Spitze stehen | Sie {{führt}} das Familienunternehmen seit zwanzig Jahren. | to run, to lead | She has run the family business for twenty years.
+klingen | einen Eindruck machen (~ nach) | Das {{klingt}} nach einer guten Idee. | to sound | That sounds like a good idea.
+reichen | jemandem etwas geben | Kannst du mir bitte das Salz {{reichen}}? | to pass, to hand | Could you pass me the salt, please?
+gewinnen | mehr von etwas bekommen (an Bedeutung, Zeit ~) | Das Thema {{gewinnt}} immer mehr an Bedeutung. | to gain | The topic is gaining more and more importance.
+wünschen | etwas gern haben wollen (sich ~) | Ich {{wünsche}} mir ein Fahrrad zum Geburtstag. | to wish for | I'd like a bike for my birthday.
+stecken | etwas in etwas hineintun | Er {{steckte}} das Handy in die Jackentasche. | to put, to stick | He put the phone in his jacket pocket.
+feuern | schießen | Der Soldat {{feuerte}} in die Luft. | to fire | The soldier fired into the air.
+passen | zeitlich recht sein | {{Passt}} es dir am Dienstag um zehn? | to suit | Does Tuesday at ten suit you?
+fliegen | sich in der Luft fortbewegen | Viele Vögel {{fliegen}} im Herbst nach Süden. | to fly | Many birds fly south in autumn.
+verdienen | etwas wert sein, es zu Recht bekommen | Du hast dir den Urlaub wirklich {{verdient}}. | to deserve | You've really earned this holiday.
+schießen | den Ball kräftig treten | Er {{schoss}} den Ball ins Tor. | to shoot, to kick | He shot the ball into the goal.
+schätzen | hoch achten | Ich {{schätze}} deine Ehrlichkeit sehr. | to value, to appreciate | I really value your honesty.
+vorstellen | sich etwas denken (sich ~) | Ich kann mir gut {{vorstellen}}, dass das schwer war. | to imagine | I can well imagine that was hard.
+fehlen | vermisst werden | Du {{fehlst}} mir sehr. | to be missed | I miss you a lot.
+regeln | durch Regeln festlegen | Das Gesetz {{regelt}} den Umgang mit persönlichen Daten. | to regulate | The law regulates how personal data is handled.
+drehen | um eine Achse bewegen | {{Dreh}} den Schlüssel zweimal nach links. | to turn | Turn the key twice to the left.
+träumen | sich etwas sehr wünschen (~ von) | Sie {{träumt}} davon, einmal nach Japan zu reisen. | to dream | She dreams of travelling to Japan one day.
+treten | mit dem Fuß stoßen | Das Pferd hat ihn {{getreten}}. | to kick | The horse kicked him.
+teilen | in Teile zerlegen | Er {{teilte}} den Kuchen in zwölf Stücke. | to divide, to cut | He cut the cake into twelve pieces.
+merken | im Gedächtnis behalten (sich ~) | Ich kann mir einfach keine Namen {{merken}}. | to remember | I just can't remember names.
+steigen | nach oben gehen; einsteigen | Am Sonntag {{stiegen}} wir auf den höchsten Berg der Region. | to climb | On Sunday we climbed the highest mountain in the region.
+erwischen | etwas gerade noch erreichen | Wir haben den letzten Zug gerade noch {{erwischt}}. | to catch | We just caught the last train.
+handeln | um etwas gehen (es ~ sich um) | Es {{handelt}} sich wohl um ein Missverständnis. | to be about, to be a matter of | It's probably a misunderstanding.
+raten | etwas vermuten | {{Rate}} mal, wen ich heute getroffen habe! | to guess | Guess who I met today!
+verraten | ein Geheimnis weitersagen | {{Verrat}} es bitte niemandem! | to give away, to tell | Please don't tell anyone!
+schließen | eine Schlussfolgerung ziehen (~ aus) | Daraus {{schließe}} ich, dass er nicht mehr kommt. | to conclude | From that I conclude he isn't coming any more.
+erhalten | bewahren, nicht verloren gehen lassen | Das alte Rathaus soll unbedingt {{erhalten}} bleiben. | to preserve | The old town hall must be preserved.
+riechen | mit der Nase wahrnehmen | {{Riechst}} du das auch? Hier brennt etwas. | to smell | Can you smell that too? Something's burning.
+aufhalten | sich irgendwo befinden (sich ~) | Er {{hält}} sich zurzeit in Paris {{auf}}. | to stay, to be | He is currently staying in Paris.
+dienen | für jemanden arbeiten; Militärdienst leisten | Er {{diente}} zwanzig Jahre in der Armee. | to serve | He served in the army for twenty years.
+wirken | einen Eindruck machen | Du {{wirkst}} heute sehr müde. | to seem, to look | You look very tired today.
+behandeln | mit jemandem auf bestimmte Weise umgehen | Er {{behandelt}} seine Mitarbeiter mit Respekt. | to treat | He treats his staff with respect.
+treiben | vorwärtsbewegen | Der Wind {{trieb}} das Boot aufs offene Meer. | to drive, to push | The wind drove the boat out to the open sea.
+wählen | sich für etwas entscheiden | Du kannst zwischen drei Menüs {{wählen}}. | to choose | You can choose between three set menus.
+beschäftigen | jemanden gedanklich in Anspruch nehmen | Diese Frage {{beschäftigt}} mich schon lange. | to preoccupy | This question has been on my mind for a long time.
+leisten | erbringen, schaffen | Die Feuerwehr hat hervorragende Arbeit {{geleistet}}. | to do, to achieve | The fire brigade did an excellent job.
+kochen | zum Sieden bringen; sieden | Wasser {{kocht}} bei hundert Grad. | to boil | Water boils at a hundred degrees.
+aufgeben | (Paket, Bestellung, Anzeige) zur Bearbeitung übergeben | Ich muss noch ein Paket bei der Post {{aufgeben}}. | to send, to post | I still have to post a parcel.
+verbinden | zusammenbringen | Die neue Brücke {{verbindet}} die beiden Stadtteile. | to connect | The new bridge connects the two districts.
+trauen | den Mut haben (sich ~) | Ich {{traue}} mich nicht, ihn zu fragen. | to dare | I don't dare to ask him.
+aufnehmen | jemanden in eine Gruppe oder Einrichtung hineinlassen | Die Universität {{nimmt}} jedes Jahr 500 neue Studierende {{auf}}. | to admit, to take in | The university admits 500 new students every year.
+erscheinen | sichtbar werden; auftauchen | Plötzlich {{erschien}} ein Licht am Horizont. | to appear | Suddenly a light appeared on the horizon.
+gelten | angesehen werden (~ als) | Er {{gilt}} als einer der besten Ärzte der Stadt. | to be considered | He is considered one of the best doctors in town.
+herkommen | an diesen Ort kommen | {{Komm}} mal {{her}}, ich will dir etwas zeigen. | to come here | Come here, I want to show you something.
+bemerken | kurz äußern | „Das ist viel zu teuer“, {{bemerkte}} sie trocken. | to remark | "That's far too expensive," she remarked drily.
+decken | (Kosten, Bedarf) ausgleichen | Die Einnahmen {{decken}} kaum die Kosten. | to cover | The income barely covers the costs.
+richten | in eine Richtung lenken (~ an) | Bitte {{richten}} Sie Ihre Fragen an die Personalabteilung. | to direct, to address | Please address your questions to HR.
+spinnen | (umgs.) verrückt sein, Unsinn reden | Du {{spinnst}} wohl! Das mache ich nicht. | to be crazy | You must be mad! I'm not doing that.
+wechseln | austauschen, durch etwas anderes ersetzen | Lass uns lieber das Thema {{wechseln}}. | to change | Let's change the subject.
+betrügen | dem Partner untreu sein | Sie hat ihren Mann jahrelang {{betrogen}}. | to cheat on | She cheated on her husband for years.
+erfüllen | einer Forderung entsprechen | Er {{erfüllt}} alle Voraussetzungen für die Stelle. | to meet, to fulfil | He meets all the requirements for the job.
+probieren | versuchen | {{Probier}} es doch einfach noch einmal! | to try | Just try it again!
+vergeben | (Preis, Auftrag, Stelle) an jemanden geben | Der Preis wird jedes Jahr an junge Künstler {{vergeben}}. | to award | The prize is awarded to young artists every year.
+heilen | gesund machen | Die Ärzte konnten die Krankheit vollständig {{heilen}}. | to cure | The doctors were able to cure the disease completely.
+anbieten | vorschlagen, etwas für jemanden zu tun | Er {{bot}} mir {{an}}, mich nach Hause zu fahren. | to offer | He offered to drive me home.
+achten | respektieren | Alle {{achten}} sie wegen ihrer Ehrlichkeit. | to respect | Everyone respects her for her honesty.
+sichern | vor Gefahr schützen | Die Polizei {{sicherte}} die Unfallstelle. | to secure | The police secured the scene of the accident.
+betrachten | für etwas halten (~ als) | Ich {{betrachte}} ihn als meinen besten Freund. | to regard | I regard him as my best friend.
+stoßen | zufällig finden (~ auf + Akk.) | Beim Aufräumen {{stieß}} ich auf alte Fotos. | to come across | While tidying up I came across old photos.
+versagen | nicht leisten, was erwartet wird | Er hatte Angst, in der Prüfung zu {{versagen}}. | to fail | He was afraid of failing the exam.
+abschließen | beenden, zu Ende bringen | Sie hat ihr Studium letztes Jahr {{abgeschlossen}}. | to complete, to finish | She finished her degree last year.
+empfangen | (Signal, Sender) bekommen | Hier in den Bergen kann man kein Radio {{empfangen}}. | to receive | Here in the mountains you can't get any radio.
+anstellen | jemandem eine feste Stelle geben | Die Firma hat ihn als Ingenieur {{angestellt}}. | to employ, to hire | The company hired him as an engineer.
+leihen | sich etwas für eine Zeit geben lassen (sich ~) | Ich habe mir das Fahrrad von meinem Nachbarn {{geliehen}}. | to borrow | I borrowed the bike from my neighbour.
+sparen | weniger verbrauchen | Mit LED-Lampen {{spart}} man viel Strom. | to save | You save a lot of electricity with LED lamps.
+senden | schicken | Bitte {{senden}} Sie uns Ihre Bewerbung per E-Mail. | to send | Please send us your application by email.
+bilden | sich bilden: entstehen | Auf dem See {{bildete}} sich eine dünne Eisschicht. | to form | A thin layer of ice formed on the lake.
+versichern | gegen Schaden absichern | Ist dein Auto gegen Diebstahl {{versichert}}? | to insure | Is your car insured against theft?
+rühren | mit einem Löffel bewegen | Sie {{rührte}} langsam in ihrem Kaffee. | to stir | She slowly stirred her coffee.
+streichen | wegnehmen, abschaffen | Die Firma hat 200 Stellen {{gestrichen}}. | to cut | The company has cut 200 jobs.
+bestehen | sich zusammensetzen (~ aus) | Das Team {{besteht}} aus fünf Personen. | to consist of | The team consists of five people.
+verabschieden | Auf Wiedersehen sagen (sich ~) | Er {{verabschiedete}} sich von allen Kollegen. | to say goodbye | He said goodbye to all his colleagues.
+heulen | (umgs.) weinen | Hör auf zu {{heulen}}, so schlimm ist es doch nicht! | to cry, to bawl | Stop crying, it's not that bad!
+löschen | ein Feuer ausmachen | Die Feuerwehr {{löschte}} den Brand in einer Stunde. | to put out | The fire brigade put out the fire in an hour.
+rechnen | mit Zahlen arbeiten | In der Grundschule lernen Kinder lesen, schreiben und {{rechnen}}. | to calculate, to do sums | In primary school children learn to read, write and do sums.
+erheben | hochheben | Er {{erhob}} sein Glas auf das Brautpaar. | to raise | He raised his glass to the bride and groom.
+versetzen | (umgs.) eine Verabredung nicht einhalten | Sie hat mich gestern {{versetzt}}, ich habe eine Stunde gewartet. | to stand up | She stood me up yesterday; I waited an hour.
+fesseln | mit Seilen festbinden | Die Täter {{fesselten}} ihn an einen Stuhl. | to tie up | The attackers tied him to a chair.
+unterbrechen | eine Tätigkeit für eine Zeit anhalten | Wir müssen die Sitzung kurz {{unterbrechen}}. | to interrupt, to adjourn | We need to adjourn the meeting briefly.
+bedauern | Mitleid haben | Ich {{bedauere}} ihn, er hat es wirklich schwer. | to feel sorry for | I feel sorry for him, he really has a hard time.
+reizen | ärgern, provozieren | {{Reiz}} den Hund lieber nicht! | to provoke, to tease | Better not provoke the dog!
+herrschen | regieren | Der König {{herrschte}} vierzig Jahre über das Land. | to rule | The king ruled the country for forty years.
+verderben | kaputtmachen, die Freude nehmen | Der Streit hat uns den ganzen Abend {{verdorben}}. | to spoil, to ruin | The argument spoiled the whole evening for us.
+stillen | (Hunger, Durst, Bedürfnis) befriedigen | Das kalte Wasser {{stillte}} endlich seinen Durst. | to quench | The cold water finally quenched his thirst.
+betreiben | eine Maschine oder Anlage laufen lassen | Das Kraftwerk wird mit Gas {{betrieben}}. | to run, to operate | The power station runs on gas.
+eingehen | auf etwas reagieren, es berücksichtigen (~ auf) | Er {{ging}} auf meine Frage gar nicht {{ein}}. | to respond to, to address | He didn't address my question at all.
+verlegen | an einen anderen Ort oder Termin bringen | Das Treffen wurde auf Freitag {{verlegt}}. | to move, to postpone | The meeting has been moved to Friday.
+klagen | vor Gericht gehen (~ gegen) | Der Mieter {{klagte}} gegen seinen Vermieter. | to sue | The tenant sued his landlord.
+vertreten | jemanden für eine Zeit ersetzen | Während ihres Urlaubs {{vertritt}} sie ein Kollege. | to stand in for | A colleague stands in for her while she's on holiday.
+abhalten | eine Veranstaltung durchführen | Die Versammlung wird einmal im Jahr {{abgehalten}}. | to hold | The meeting is held once a year.
+ergreifen | fest greifen | Er {{ergriff}} ihre Hand und hielt sie fest. | to grab, to seize | He took her hand and held it tight.
+spritzen | Flüssigkeit verteilen | Das Auto fuhr durch die Pfütze und {{spritzte}} mich nass. | to splash | The car drove through the puddle and splashed me.
+bedienen | Gäste oder Kunden versorgen | Werden Sie schon {{bedient}}? | to serve | Are you being served?
+aussprechen | äußern | Er {{sprach}} offen seine Meinung {{aus}}. | to express, to voice | He openly voiced his opinion.
+anlegen | (ein Schiff) festmachen | Das Schiff {{legt}} um 14 Uhr im Hafen {{an}}. | to dock | The ship docks in the harbour at 2 p.m.
+ausmachen | vereinbaren | Wir haben einen Termin für Montag {{ausgemacht}}. | to arrange, to agree on | We arranged an appointment for Monday.
+beherrschen | die Macht über etwas haben | Wenige Konzerne {{beherrschen}} den Markt. | to dominate | A few corporations dominate the market.
+versorgen | mit etwas ausstatten (~ mit) | Das Kraftwerk {{versorgt}} die ganze Stadt mit Strom. | to supply | The power station supplies the whole city with electricity.
+wiegen | das Gewicht bestimmen | Die Hebamme {{wog}} das Neugeborene. | to weigh | The midwife weighed the newborn.
+aufheben | vom Boden nehmen | Er {{hob}} den Stift vom Boden {{auf}}. | to pick up | He picked the pen up off the floor.
+aussetzen | (ein Tier) im Stich lassen | Jeden Sommer werden Hunde an Autobahnen {{ausgesetzt}}. | to abandon | Every summer dogs are abandoned by motorways.
+hacken | in ein Computersystem eindringen | Unbekannte haben das Konto der Politikerin {{gehackt}}. | to hack | Unknown people hacked the politician's account.
+drängen | schieben, sich mit Kraft bewegen | Die Leute {{drängten}} sich in den vollen Bus. | to push, to crowd | People crowded into the full bus.
+knacken | (ein Schloss, einen Code) mit Gewalt oder List öffnen | Die Diebe {{knackten}} den Tresor in wenigen Minuten. | to crack | The thieves cracked the safe in a few minutes.
+umlegen | (umgs.) töten, erschießen | Im Film {{legt}} der Gangster seinen Rivalen eiskalt {{um}}. | to bump off | In the film the gangster coldly bumps off his rival.
+verbessern | korrigieren | Die Lehrerin {{verbesserte}} die Fehler mit Rotstift. | to correct | The teacher corrected the mistakes in red pen.
+pflegen | (Kontakt, Gewohnheit) aufrechterhalten | Sie {{pflegt}} den Kontakt zu ihren alten Freunden. | to keep up | She keeps in touch with her old friends.
+engagieren | sich einsetzen (sich ~ für) | Er {{engagiert}} sich seit Jahren für den Umweltschutz. | to be committed to | He has been committed to protecting the environment for years.
+ausführen | (Waren) exportieren | Deutschland {{führt}} vor allem Autos und Maschinen {{aus}}. | to export | Germany mainly exports cars and machinery.
+vertreiben | Waren verkaufen | Die Firma {{vertreibt}} ihre Produkte in ganz Europa. | to sell, to distribute | The company sells its products all over Europe.
+stehen | (Kleidung) gut zu jemandem passen | Das Kleid {{steht}} dir wirklich gut. | to suit | The dress really suits you.
+ersparen | jemandem etwas Unangenehmes nicht zumuten | {{Erspar}} mir bitte die Einzelheiten! | to spare | Please spare me the details!
+einnehmen | einen Platz besetzen | Bitte {{nehmen}} Sie Ihre Plätze {{ein}}. | to take | Please take your seats.
+ausschließen | für unmöglich halten | Die Polizei {{schließt}} ein Verbrechen nicht {{aus}}. | to rule out | The police aren't ruling out a crime.
+übertragen | (eine Aufgabe) an jemand anderen geben | Der Chef hat ihr die Leitung des Projekts {{übertragen}}. | to hand over, to assign | The boss put her in charge of the project.
+anliegen | zu tun sein | Was {{liegt}} heute noch {{an}}? | to be on the agenda | What else is on today?
+erregen | aufregen (sich ~ über) | Er {{erregt}} sich über jede Kleinigkeit. | to get worked up | He gets worked up about every little thing.
+abschneiden | mit einem Messer abtrennen | Kannst du mir ein Stück Brot {{abschneiden}}? | to cut off | Can you cut me a piece of bread?
+aufstellen | (Plan, Regel, Rekord) erstellen | Zuerst müssen wir einen Zeitplan {{aufstellen}}. | to draw up, to set | First we need to draw up a schedule.
+deuten | interpretieren | Wie {{deutest}} du diesen Traum? | to interpret | How do you interpret this dream?
+checken | (umgs.) verstehen | Er {{checkt}} einfach nicht, was los ist. | to get | He just doesn't get what's going on.
+abschalten | (ein Gerät) ausschalten | Vergiss nicht, den Computer {{abzuschalten}}. | to switch off | Don't forget to switch off the computer.
+zurückgehen | zurückkehren | Nach dem Studium {{ging}} sie in ihre Heimatstadt {{zurück}}. | to go back | After university she went back to her home town.
+kleben | fest an etwas haften | Der Kaugummi {{klebt}} an meinem Schuh. | to stick | The chewing gum is stuck to my shoe.
+befördern | transportieren | Die Bahn {{befördert}} täglich Millionen Fahrgäste. | to carry, to transport | The railway carries millions of passengers every day.
+auftreten | auf der Bühne spielen | Die Band {{tritt}} heute Abend in Hamburg {{auf}}. | to perform | The band is performing in Hamburg tonight.
+losgehen | sich auf den Weg machen | Wir müssen jetzt {{losgehen}}, sonst verpassen wir den Zug. | to set off | We need to set off now or we'll miss the train.
+ablegen | (eine Prüfung, einen Eid) machen | Sie hat die Prüfung im Juni {{abgelegt}}. | to take | She took the exam in June.
+anrichten | Essen auf Tellern zurechtmachen | Der Koch {{richtet}} das Essen auf großen Tellern {{an}}. | to arrange, to plate | The chef plates the food on large plates.
+verleihen | (einen Preis, Titel) geben | Ihr wurde der Nobelpreis {{verliehen}}. | to award | She was awarded the Nobel Prize.
+streifen | leicht berühren | Beim Einparken {{streifte}} das Auto die Mauer. | to brush, to graze | The car grazed the wall while parking.
+angehen | (Licht, Gerät) zu leuchten oder laufen beginnen | Plötzlich {{ging}} das Licht {{an}}. | to come on | Suddenly the light came on.
+absetzen | aus einem Amt entfernen | Das Militär {{setzte}} den Präsidenten {{ab}}. | to depose, to remove | The military deposed the president.
+erfassen | verstehen, begreifen | Sie hat die Lage sofort {{erfasst}}. | to grasp | She grasped the situation at once.
+anzeigen | (ein Gerät) zeigen | Das Display {{zeigt}} die aktuelle Temperatur {{an}}. | to show, to display | The display shows the current temperature.
+beziehen | auf etwas Bezug nehmen (sich ~ auf) | Ich {{beziehe}} mich auf Ihre E-Mail vom 3. Mai. | to refer to | I'm referring to your email of 3 May.
+schlingen | um etwas wickeln | Sie {{schlang}} die Arme um seinen Hals. | to wrap | She wrapped her arms around his neck.
+belasten | seelisch schwer machen | Die Sorgen um ihren Sohn {{belasten}} sie sehr. | to weigh on | Her worries about her son weigh heavily on her.
+ernähren | mit Nahrung versorgen (sich ~) | Sie {{ernährt}} sich hauptsächlich vegetarisch. | to eat, to feed | She mainly eats a vegetarian diet.
+antreten | (eine Stelle, Reise, Strafe) beginnen | Er {{tritt}} seine neue Stelle im Oktober {{an}}. | to start, to take up | He starts his new job in October.
+frieren | zu Eis werden | Über Nacht ist das Wasser im Teich {{gefroren}}. | to freeze | Overnight the water in the pond froze.
+ausliefern | einem anderen Staat übergeben | Der Verdächtige wurde an die USA {{ausgeliefert}}. | to extradite | The suspect was extradited to the USA.
+überwältigen | besiegen, festhalten | Passanten {{überwältigten}} den Dieb. | to overpower | Passers-by overpowered the thief.
+belegen | (einen Kurs) besuchen | Dieses Semester habe ich einen Spanischkurs {{belegt}}. | to take, to enrol in | This semester I've enrolled in a Spanish course.
+aufklären | (einen Fall) lösen | Die Polizei konnte den Mord schnell {{aufklären}}. | to solve | The police were able to solve the murder quickly.
+stürmen | (Wetter) mit heftigem Wind | Draußen {{stürmt}} und regnet es seit Stunden. | to be stormy | It's been storming and raining outside for hours.
+aufziehen | (umgs.) necken, sich über jemanden lustig machen | Hör auf, mich ständig {{aufzuziehen}}! | to tease | Stop teasing me all the time!
+eintreten | geschehen | Genau das, was wir befürchtet hatten, ist {{eingetreten}}. | to happen, to occur | Exactly what we had feared has happened.
+zuschlagen | (Täter) plötzlich handeln, angreifen | Der Einbrecher {{schlug}} mitten in der Nacht {{zu}}. | to strike | The burglar struck in the middle of the night.
+ausfallen | nicht mehr funktionieren | Gestern ist bei uns der Strom {{ausgefallen}}. | to fail, to go off | Our power went off yesterday.

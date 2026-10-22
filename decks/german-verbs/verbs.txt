@@ -29,7 +29,7 @@
 25 | reden | redet – redete – hat geredet | sprechen; sich unterhalten | Sie {{reden}} schon seit einer Stunde miteinander. | to talk, to speak | They've been talking to each other for an hour. | reden über + Akk. / mit + Dat.
 26 | lieben | liebt – liebte – hat geliebt | starke Zuneigung für jemanden oder etwas empfinden | Er {{liebt}} seine Familie über alles. | to love | He loves his family more than anything. |
 27 | warten | wartet – wartete – hat gewartet | an einem Ort bleiben, bis jemand kommt oder etwas geschieht | Ich {{warte}} seit zwanzig Minuten auf den Bus. | to wait | I've been waiting for the bus for twenty minutes. | warten auf + Akk.
-28 | nehmen | nimmt – nahm – hat genommen | etwas greifen und an sich bringen | {{Nimm}} bitte deinen Regenschirm mit. | to take | Please take your umbrella with you. | Hier: <i>mitnehmen</i> (Nimm … mit).
+28 | nehmen | nimmt – nahm – hat genommen | etwas greifen und an sich bringen | Ich {{nehme}} jeden Morgen den Bus zur Arbeit. | to take | I take the bus to work every morning. | Vgl. <i>mitnehmen</i> (Nimm … mit).
 29 | bringen | bringt – brachte – hat gebracht | etwas oder jemanden an einen Ort tragen oder begleiten | Kannst du mir ein Glas Wasser {{bringen}}? | to bring | Can you bring me a glass of water? |
 30 | kennen | kennt – kannte – hat gekannt | jemanden oder etwas aus Erfahrung vertraut sein | {{Kennst}} du diesen Mann? | to know, to be familiar with | Do you know this man? | <i>kennen</i> = Personen, Orte; <i>wissen</i> = Fakten
 31 | fragen | fragt – fragte – hat gefragt | sich mit einer Frage an jemanden wenden | Darf ich dich etwas {{fragen}}? | to ask | May I ask you something? | jdn. etw. fragen; fragen nach + Dat.
@@ -148,7 +148,7 @@
 144 | klappen | klappt – klappte – hat geklappt | gelingen; wie geplant funktionieren | Hoffentlich {{klappt}} alles wie geplant. | to work out | Hopefully everything works out as planned. | Umgangssprachlich
 145 | singen | singt – sang – hat gesungen | mit der Stimme Melodien hervorbringen | Meine Tochter {{singt}} im Schulchor. | to sing | My daughter sings in the school choir. |
 146 | opfern | opfert – opferte – hat geopfert | auf etwas Wertvolles verzichten, um etwas anderes zu erreichen | Die Eltern {{opferten}} viel Zeit für ihre Kinder. | to sacrifice | The parents sacrificed a lot of time for their children. |
-147 | werfen | wirft – warf – hat geworfen | etwas mit Schwung durch die Luft fliegen lassen | Er {{warf}} den Ball seinem Freund {{zu}}. | to throw | He threw the ball to his friend. | Hier: <i>zuwerfen</i> (jdm. etw. zuwerfen)
+147 | werfen | wirft – warf – hat geworfen | etwas mit Schwung durch die Luft fliegen lassen | Er {{warf}} den Ball über den Zaun. | to throw | He threw the ball over the fence. | Vgl. <i>zuwerfen</i> (jdm. etw. zuwerfen)
 148 | erkennen | erkennt – erkannte – hat erkannt | wissen, wen oder was man vor sich hat | Ich {{erkenne}} dich kaum wieder. | to recognize | I hardly recognize you. |
 149 | vermissen | vermisst – vermisste – hat vermisst | traurig sein, weil jemand oder etwas nicht da ist | Ich {{vermisse}} meine Familie sehr. | to miss | I miss my family very much. |
 150 | zahlen | zahlt – zahlte – hat gezahlt | Geld für etwas geben | Können wir bitte {{zahlen}}? | to pay | Can we pay, please? |
@@ -426,7 +426,7 @@
 422 | tauchen | taucht – tauchte – hat/ist getaucht | unter Wasser schwimmen | Wir wollen im Urlaub {{tauchen}} lernen. | to dive | We want to learn to dive on vacation. |
 423 | stoßen | stößt – stieß – hat/ist gestoßen | heftig an etwas kommen; schubsen | Er {{stieß}} versehentlich gegen den Tisch. | to push, to bump | He accidentally bumped into the table. | stoßen gegen/an + Akk.; auf etw. stoßen = finden
 424 | verarschen | verarscht – verarschte – hat verarscht | jemanden täuschen oder sich über ihn lustig machen | Willst du mich {{verarschen}}? | to mess with, to fool | Are you messing with me? | Vulgär
-425 | pfeifen | pfeift – pfiff – hat gepfiffen | mit dem Mund oder einer Pfeife einen hohen Ton erzeugen | Der Schiedsrichter {{pfiff}} das Spiel {{ab}}. | to whistle | The referee blew the whistle to end the game. | Hier: <i>abpfeifen</i> (Spiel beenden)
+425 | pfeifen | pfeift – pfiff – hat gepfiffen | mit dem Mund oder einer Pfeife einen hohen Ton erzeugen | Er {{pfiff}} beim Kochen ein fröhliches Lied. | to whistle | He whistled a cheerful tune while cooking. | Vgl. <i>abpfeifen</i> (Spiel beenden)
 426 | erfinden | erfindet – erfand – hat erfunden | etwas Neues ausdenken und herstellen | Wer hat eigentlich das Telefon {{erfunden}}? | to invent | Who actually invented the telephone? |
 427 | heben | hebt – hob – hat gehoben | nach oben bewegen | Kannst du mir helfen, diese Kiste zu {{heben}}? | to lift | Can you help me lift this box? |
 428 | proben | probt – probte – hat geprobt | für eine Aufführung üben | Die Schauspieler {{proben}} täglich für die Premiere. | to rehearse | The actors rehearse daily for the premiere. |
@@ -445,7 +445,7 @@
 441 | telefonieren | telefoniert – telefonierte – hat telefoniert | mit jemandem am Telefon sprechen | Ich {{telefoniere}} gerade mit meiner Mutter. | to phone | I'm currently on the phone with my mother. | telefonieren mit + Dat.
 442 | einstellen | stellt ein – stellte ein – hat eingestellt | jemandem eine Arbeitsstelle geben | Die Firma will zehn neue Mitarbeiter {{einstellen}}. | to hire, to adjust | The company wants to hire ten new employees. | Auch: regulieren; beenden
 443 | aufmachen | macht auf – machte auf – hat aufgemacht | öffnen | {{Mach}} bitte die Tür {{auf}}, es klingelt. | to open | Please open the door, someone's ringing. |
-444 | bewahren | bewahrt – bewahrte – hat bewahrt | an einem Ort aufheben; erhalten | Sie {{bewahrt}} alle alten Briefe in einer Kiste {{auf}}. | to preserve, to keep safe | She keeps all the old letters in a box. | Hier: <i>aufbewahren</i>
+444 | bewahren | bewahrt – bewahrte – hat bewahrt | an einem Ort aufheben; erhalten | Trotz des Stresses {{bewahrte}} sie die Ruhe. | to preserve, to keep safe | Despite the stress, she kept calm. | <i>die Ruhe bewahren</i>; <i>jdn. vor etw. bewahren</i> (schützen). Vgl. <i>aufbewahren</i>
 445 | empfinden | empfindet – empfand – hat empfunden | ein Gefühl haben | Ich {{empfinde}} großen Respekt für ihre Arbeit. | to feel, to perceive | I feel great respect for her work. |
 446 | schämen | schämt – schämte – hat geschämt | ein unangenehmes Gefühl wegen eigener Fehler haben | Er {{schämt}} sich für sein schlechtes Benehmen. | to be ashamed | He's ashamed of his bad behavior. | sich schämen für + Akk.
 447 | wenden | wendet – wendete – hat gewendet | mit einem Fahrzeug die Richtung umkehren | Bitte {{wenden}} Sie an der nächsten Ecke. | to turn | Please turn around at the next corner. | sich wenden an + Akk.: wandte – gewandt
@@ -476,7 +476,7 @@
 472 | sparen | spart – sparte – hat gespart | Geld zurücklegen; weniger verbrauchen | Wir {{sparen}} für ein neues Auto. | to save | We're saving up for a new car. | sparen für/auf + Akk.
 473 | zielen | zielt – zielte – hat gezielt | eine Waffe auf ein Ziel richten | Er {{zielte}} sorgfältig, bevor er den Pfeil abschoss. | to aim | He aimed carefully before shooting the arrow. | zielen auf + Akk.
 474 | durchsuchen | durchsucht – durchsuchte – hat durchsucht | gründlich nach etwas suchen in | Der Zoll {{durchsuchte}} unser Gepäck. | to search | Customs searched our luggage. | Untrennbar
-475 | senden | sendet – sandte/sendete – hat gesandt/gesendet | schicken; ausstrahlen (Radio, TV) | Wir {{senden}} Ihnen die Unterlagen morgen {{zu}}. | to send, to broadcast | We'll send you the documents tomorrow. | Hier: <i>zusenden</i>. Rundfunk: sendete – gesendet
+475 | senden | sendet – sandte/sendete – hat gesandt/gesendet | schicken; ausstrahlen (Radio, TV) | Der Sender {{sendet}} die Nachrichten jeden Abend um acht. | to send, to broadcast | The station broadcasts the news every evening at eight. | Rundfunk: sendete – gesendet; schicken: sandte – gesandt. Vgl. <i>zusenden</i>
 476 | langen | langt – langte – hat gelangt | ausreichen | Zwei Tassen Mehl {{langen}} für dieses Rezept. | to be enough, to reach | Two cups of flour are enough for this recipe. | Umgangssprachlich. <i>Mir langt's!</i> = Ich habe genug.
 477 | bilden | bildet – bildete – hat gebildet | formen; entstehen lassen | Diese Wörter {{bilden}} zusammen einen Satz. | to form, to educate | These words together form a sentence. | sich bilden = entstehen; Wissen erwerben
 478 | bereuen | bereut – bereute – hat bereut | wünschen, etwas nicht getan zu haben | Ich {{bereue}} diese Entscheidung sehr. | to regret | I deeply regret this decision. |
@@ -484,7 +484,7 @@
 480 | versichern | versichert – versicherte – hat versichert | fest zusagen, dass etwas stimmt; gegen Schaden absichern | Ich {{versichere}} dir, dass alles gut wird. | to assure, to insure | I assure you that everything will be fine. |
 481 | trainieren | trainiert – trainierte – hat trainiert | sich durch Übungen auf etwas vorbereiten | Sie {{trainiert}} dreimal die Woche im Fitnessstudio. | to train | She trains three times a week at the gym. |
 482 | äußern | äußert – äußerte – hat geäußert | eine Meinung aussprechen | Er {{äußerte}} seine Meinung sehr offen. | to express | He expressed his opinion very openly. | sich äußern zu + Dat.
-483 | rühren | rührt – rührte – hat gerührt | mit einem Löffel bewegen; emotional bewegen | {{Rühr}} die Soße ständig {{um}}, damit sie nicht anbrennt. | to stir, to move | Keep stirring the sauce so it doesn't burn. | Hier: <i>umrühren</i>
+483 | rühren | rührt – rührte – hat gerührt | mit einem Löffel bewegen; emotional bewegen | Die Geschichte hat mich zu Tränen {{gerührt}}. | to stir, to move | The story moved me to tears. | <i>zu Tränen gerührt</i>. Vgl. <i>umrühren</i>
 484 | streichen | streicht – strich – hat gestrichen | Farbe auf eine Fläche auftragen; durchstreichen | Wir {{streichen}} das Wohnzimmer nächstes Wochenende. | to paint, to cross out | We're painting the living room next weekend. |
 485 | fordern | fordert – forderte – hat gefordert | nachdrücklich verlangen | Die Mitarbeiter {{fordern}} eine bessere Bezahlung. | to demand | The employees are demanding better pay. |
 486 | schultern | schultert – schulterte – hat geschultert | auf die Schulter nehmen | Er {{schulterte}} den schweren Rucksack. | to shoulder | He shouldered the heavy backpack. |
@@ -591,7 +591,7 @@
 588 | stillen | stillt – stillte – hat gestillt | ein Baby an der Brust trinken lassen; befriedigen (Hunger, Durst) | Sie {{stillt}} ihr Baby alle drei Stunden. | to breastfeed, to satisfy | She breastfeeds her baby every three hours. |
 589 | wegnehmen | nimmt weg – nahm weg – hat weggenommen | jemandem etwas fortnehmen | {{Nimm}} dem Kind nicht einfach das Spielzeug {{weg}}. | to take away | Don't just take the toy away from the child. |
 590 | bekämpfen | bekämpft – bekämpfte – hat bekämpft | gegen etwas kämpfen | Die Ärzte {{bekämpfen}} die Krankheit mit neuen Medikamenten. | to fight, to combat | The doctors are fighting the disease with new medications. |
-591 | locken | lockt – lockte – hat gelockt | jemanden durch etwas Angenehmes anziehen | Der Duft frischer Waffeln {{lockte}} viele Besucher {{an}}. | to lure | The smell of fresh waffles attracted many visitors. | Hier: <i>anlocken</i>
+591 | locken | lockt – lockte – hat gelockt | jemanden durch etwas Angenehmes anziehen | Das schöne Wetter {{lockte}} uns ans Meer. | to lure | The lovely weather lured us to the seaside. | Vgl. <i>anlocken</i>
 592 | durchführen | führt durch – führte durch – hat durchgeführt | ausführen; verwirklichen | Die Forscher {{führten}} mehrere Experimente {{durch}}. | to carry out | The researchers carried out several experiments. |
 593 | bewaffnen | bewaffnet – bewaffnete – hat bewaffnet | mit Waffen ausrüsten | Im Mittelalter {{bewaffneten}} sich die Bauern mit einfachen Werkzeugen. | to arm | In the Middle Ages, the peasants armed themselves with simple tools. |
 594 | versauen | versaut – versaute – hat versaut | verderben; schmutzig machen | Der Regen hat unseren ganzen Plan {{versaut}}. | to mess up (informal) | The rain totally messed up our whole plan. | Umgangssprachlich, derb
@@ -688,7 +688,7 @@
 685 | absagen | sagt ab – sagte ab – hat abgesagt | etwas Geplantes nicht stattfinden lassen | Wir mussten die Party leider {{absagen}}. | to cancel | We unfortunately had to cancel the party. |
 686 | gefährden | gefährdet – gefährdete – hat gefährdet | in Gefahr bringen | Rauchen {{gefährdet}} deine Gesundheit. | to endanger | Smoking endangers your health. |
 687 | versorgen | versorgt – versorgte – hat versorgt | sich um jemanden oder etwas kümmern; mit etwas ausstatten | Wer {{versorgt}} die Blumen, während wir im Urlaub sind? | to supply, to look after | Who's taking care of the flowers while we're on vacation? |
-688 | wiegen | wiegt – wog – hat gewogen | das Gewicht bestimmen; ein Gewicht haben | Der Bäcker {{wiegt}} das Mehl genau {{ab}}. | to weigh | The baker weighs the flour precisely. | Hier: <i>abwiegen</i>
+688 | wiegen | wiegt – wog – hat gewogen | das Gewicht bestimmen; ein Gewicht haben | Der Koffer {{wiegt}} über zwanzig Kilo. | to weigh | The suitcase weighs over twenty kilos. | Vgl. <i>abwiegen</i>
 689 | gestatten | gestattet – gestattete – hat gestattet | erlauben | Der Chef {{gestattet}} uns heute, früher zu gehen. | to permit | The boss allows us to leave earlier today. | Formell
 690 | zurücklassen | lässt zurück – ließ zurück – hat zurückgelassen | nicht mitnehmen | Sie mussten ihr ganzes Gepäck {{zurücklassen}}. | to leave behind | They had to leave all their luggage behind. |
 691 | vergleichen | vergleicht – verglich – hat verglichen | Gemeinsamkeiten und Unterschiede feststellen | {{Vergleiche}} bitte die Preise, bevor du kaufst. | to compare | Please compare the prices before you buy. | vergleichen mit + Dat.
@@ -750,7 +750,7 @@
 747 | bescheißen | bescheißt – beschiss – hat beschissen | betrügen | Er fühlte sich vom Verkäufer {{beschissen}}. | to cheat, to rip off (vulgar) | He felt ripped off by the salesman. | Vulgär
 748 | ausführen | führt aus – führte aus – hat ausgeführt | durchführen; erklären; (Waren) exportieren | Der Plan wurde perfekt {{ausgeführt}}. | to carry out, to export | The plan was carried out perfectly. |
 749 | anklagen | klagt an – klagte an – hat angeklagt | vor Gericht beschuldigen | Der Staatsanwalt {{klagte}} ihn wegen Betrugs {{an}}. | to accuse, to charge | The prosecutor charged him with fraud. | jdn. wegen + Gen. anklagen
-750 | knallen | knallt – knallte – hat/ist geknallt | einen lauten, kurzen Knall machen | Die Tür {{knallte}} laut im Wind {{zu}}. | to bang, to slam | The door slammed shut loudly in the wind. | Hier: <i>zuknallen</i>
+750 | knallen | knallt – knallte – hat/ist geknallt | einen lauten, kurzen Knall machen | In der Silvesternacht {{knallen}} überall Böller. | to bang, to slam | On New Year's Eve, firecrackers go off everywhere. | Vgl. <i>zuknallen</i>
 751 | lehnen | lehnt – lehnte – hat gelehnt | schräg gegen etwas stellen, sodass es gestützt wird | {{Lehn}} die Leiter bitte gegen die Wand. | to lean | Please lean the ladder against the wall. | sich lehnen an/gegen + Akk.
 752 | läuten | läutet – läutete – hat geläutet | (Glocke) klingen; eine Glocke ertönen lassen | Die Kirchenglocken {{läuten}} jeden Sonntag um zehn. | to ring | The church bells ring every Sunday at ten. |
 753 | klettern | klettert – kletterte – ist geklettert | mit Händen und Füßen nach oben steigen | Die Kinder {{klettern}} gerne auf Bäume. | to climb | The children like to climb trees. |
@@ -895,7 +895,7 @@
 892 | aufbrechen | bricht auf – brach auf – ist aufgebrochen | sich auf den Weg machen | Wir {{brechen}} morgen früh zu unserer Reise {{auf}}. | to break open, to set off | We're setting off on our trip early tomorrow morning. | etw. aufbrechen = gewaltsam öffnen (<i>hat</i>)
 893 | erfassen | erfasst – erfasste – hat erfasst | aufnehmen und speichern; verstehen | Das System {{erfasst}} automatisch alle Daten. | to grasp, to record | The system automatically records all data. |
 894 | nähen | näht – nähte – hat genäht | mit Nadel und Faden herstellen oder flicken | Meine Oma {{näht}} mir immer meine Kleider. | to sew | My grandma always sews my clothes for me. |
-895 | zünden | zündet – zündete – hat gezündet | in Brand setzen | Er {{zündete}} vorsichtig das Streichholz {{an}}. | to ignite | He carefully lit the match. | Hier: <i>anzünden</i>
+895 | zünden | zündet – zündete – hat gezündet | in Brand setzen; (Motor, Rakete) zu brennen beginnen | Die zweite Stufe der Rakete {{zündete}} planmäßig. | to ignite | The rocket's second stage ignited as planned. | Vgl. <i>anzünden</i>
 896 | ernten | erntet – erntete – hat geerntet | reife Früchte und Feldfrüchte einsammeln | Die Bauern {{ernten}} im Herbst den Weizen. | to harvest | The farmers harvest the wheat in autumn. |
 897 | verstoßen | verstößt – verstieß – hat verstoßen | gegen eine Regel handeln | Dieses Verhalten {{verstößt}} gegen die Regeln. | to violate, to disown | This behavior violates the rules. | verstoßen gegen + Akk.
 898 | verschweigen | verschweigt – verschwieg – hat verschwiegen | etwas absichtlich nicht sagen | Er {{verschwieg}} ihr die ganze Wahrheit. | to conceal, to withhold | He concealed the whole truth from her. |
@@ -1213,7 +1213,7 @@
 1210 | einhalten | hält ein – hielt ein – hat eingehalten | sich an etwas halten (Termin, Regel) | Bitte {{halten}} Sie den vereinbarten Termin {{ein}}. | to comply with, to keep | Please keep the agreed appointment. |
 1211 | fingern | fingert – fingerte – hat gefingert | mit den Fingern an etwas herumspielen | Er {{fingerte}} nervös an seiner Krawatte {{herum}}. | to fiddle, to finger | He fiddled nervously with his tie. |
 1212 | wegbringen | bringt weg – brachte weg – hat weggebracht | an einen anderen Ort bringen | Kannst du den alten Schrank zum Sperrmüll {{wegbringen}}? | to take away | Can you take the old cupboard away for bulky waste collection? |
-1213 | knöpfen | knöpft – knöpfte – hat geknöpft | mit Knöpfen schließen | {{Knöpf}} bitte deine Jacke {{zu}}, es ist kalt. | to button | Please button up your jacket, it's cold. | Hier: <i>zuknöpfen</i>
+1213 | knöpfen | knöpft – knöpfte – hat geknöpft | mit Knöpfen schließen | Die Hose wird an der Seite {{geknöpft}}. | to button | The trousers button at the side. | Vgl. <i>zuknöpfen</i>
 1214 | installieren | installiert – installierte – hat installiert | einrichten (Software, Geräte) | Ich muss die neue Software noch {{installieren}}. | to install | I still need to install the new software. |
 1215 | befriedigen | befriedigt – befriedigte – hat befriedigt | zufriedenstellen | Diese Lösung {{befriedigt}} leider niemanden. | to satisfy | Unfortunately, this solution satisfies no one. |
 1216 | rauschen | rauscht – rauschte – hat gerauscht | ein gleichmäßiges, starkes Geräusch machen | Der Wasserfall {{rauschte}} laut im Wald. | to rustle, to roar | The waterfall roared loudly in the forest. |
@@ -1747,7 +1747,7 @@
 1748 | vertauschen | vertauscht – vertauschte – hat vertauscht | versehentlich verwechseln | Wir haben aus Versehen unsere Koffer {{vertauscht}}. | to swap, to mix up | We accidentally swapped our suitcases. |
 1749 | sausen | saust – sauste – ist gesaust | sich sehr schnell bewegen | Der Sportwagen {{sauste}} an uns vorbei. | to zoom, to whiz | The sports car zoomed past us. |
 1750 | nachholen | holt nach – holte nach – hat nachgeholt | später erledigen, was man versäumt hat | Sie muss den verpassten Unterricht {{nachholen}}. | to catch up on, to make up for | She has to make up the missed class. |
-1751 | fauchen | faucht – fauchte – hat gefaucht | (Katze) drohend zischen | Die Katze {{fauchte}} den fremden Hund {{an}}. | to hiss, to snarl | The cat hissed at the unfamiliar dog. | Hier: <i>anfauchen</i>
+1751 | fauchen | faucht – fauchte – hat gefaucht | (Katze) drohend zischen | Die Katze {{fauchte}}, als der Hund näher kam. | to hiss, to snarl | The cat hissed when the dog came closer. | Vgl. <i>anfauchen</i>
 1752 | spezialisieren | spezialisiert – spezialisierte – hat spezialisiert | sich auf ein Fachgebiet konzentrieren | Er hat sich auf Kinderchirurgie {{spezialisiert}}. | to specialize | He specialized in pediatric surgery. | sich spezialisieren auf + Akk.
 1753 | abschlagen | schlägt ab – schlug ab – hat abgeschlagen | ablehnen | Sie {{schlug}} seinen Vorschlag höflich {{ab}}. | to refuse, to knock off | She politely turned down his suggestion. | jdm. eine Bitte abschlagen
 1754 | abwerfen | wirft ab – warf ab – hat abgeworfen | fallen lassen; (Gewinn) bringen | Der Baum {{warf}} im Herbst seine Blätter {{ab}}. | to drop, to throw off | The tree shed its leaves in autumn. |
@@ -1994,5 +1994,5 @@
 1996 | auffüllen | füllt auf – füllte auf – hat aufgefüllt | wieder voll machen | Kannst du bitte das Regal wieder {{auffüllen}}? | to refill, to replenish | Can you please restock the shelf? |
 1997 | fummeln | fummelt – fummelte – hat gefummelt | ungeschickt mit den Fingern hantieren | Er {{fummelte}} nervös an seinem Schlüsselbund. | to fumble, to fiddle | He fumbled nervously with his keychain. |
 1998 | auslegen | legt aus – legte aus – hat ausgelegt | (Boden) bedecken; deuten | Wir {{legen}} den Boden mit neuen Fliesen {{aus}}. | to lay out, to interpret | We're laying out the floor with new tiles. |
-1999 | zwinkern | zwinkert – zwinkerte – hat gezwinkert | ein Auge kurz schließen (als Zeichen) | Sie {{zwinkerte}} mir verschwörerisch {{zu}}. | to wink | She winked at me conspiratorially. | Hier: <i>zuzwinkern</i>
+1999 | zwinkern | zwinkert – zwinkerte – hat gezwinkert | ein Auge kurz schließen (als Zeichen) | Er {{zwinkerte}} mit dem linken Auge. | to wink | He winked with his left eye. | Vgl. <i>zuzwinkern</i>
 2000 | infiltrieren | infiltriert – infiltrierte – hat infiltriert | heimlich eindringen | Dem Agenten gelang es, die Organisation zu {{infiltrieren}}. | to infiltrate | The agent managed to infiltrate the organization. |
