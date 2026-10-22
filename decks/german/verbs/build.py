@@ -1,4 +1,4 @@
-"""Build the German Verbs Anki deck (.apkg) from verbs.txt and senses.txt.
+"""The German Verbs subdeck, from verbs.txt and senses.txt. ../build.py packages it.
 
 The audio clips come from audio/, which speak.py fills.
 """
@@ -16,10 +16,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "verbs.txt")
 SENSES = os.path.join(HERE, "senses.txt")
 DECK = "Languages::German::Verbs"
-OUT = os.path.join(HERE, "German_Verbs.apkg")
 AUDIO = os.path.join(HERE, "audio")
 LANG = "de"
-PSITTACUS = os.path.join(HERE, "..", "..", "addons", "psittacus", "addon")
+PSITTACUS = os.path.join(HERE, "..", "..", "..", "addons", "psittacus", "addon")
 # Verbs ranked above this also get a Recognise card. The first 500 are everyday verbs a B2
 # learner already understands; producing them is still worth practising, recognising is not.
 RECOGNISE_FROM = 501
@@ -239,6 +238,7 @@ def clips(fields):
 
 
 def build():
+    """(decks, media files) of the subdeck."""
     deck = genanki.Deck(1716304582, DECK)
     media, missing, n_recog, n_second = [], 0, 0, 0
     for fields, note_tags, guid in notes():
@@ -252,13 +252,8 @@ def build():
         deck.add_note(genanki.Note(model=MODEL, fields=fields, tags=note_tags, guid=guid))
     if missing:
         sys.exit(f"{missing} audio clips missing from {AUDIO}: run speak.py")
-    package = genanki.Package(deck)
-    package.media_files = sorted(set(media))
-    package.write_to_file(OUT)
     n = len(deck.notes)
-    print(f"{n} notes, {n + n_recog + n_second} cards ({n_recog} recognition, {n_second} second meaning),"
-          f" {len(set(media))} clips -> {OUT}")
+    print(f"Verbs: {n} notes, {n + n_recog + n_second} cards ({n_recog} recognition, {n_second} second meaning),"
+          f" {len(set(media))} clips")
+    return [deck], media
 
-
-if __name__ == "__main__":
-    build()

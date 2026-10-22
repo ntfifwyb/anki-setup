@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Build a deck and publish its .apkg on the deck's GitHub Release, whose tag is the deck's
-# folder name (english-expressions). The tag moves to the current commit, so the download
+# folder name (german). The tag moves to the current commit, so the download
 # link stays the same: releases/download/<deck>/<file>.apkg
-#   scripts/publish-deck.sh english-expressions
+#   scripts/publish-deck.sh german
 set -euo pipefail
 cd "$(dirname "$0")/.."
 deck=${1:?usage: scripts/publish-deck.sh <deck folder>}

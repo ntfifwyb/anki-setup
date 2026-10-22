@@ -2,7 +2,7 @@
 
 The 2,000 most common German verbs, in frequency order, for a B2 learner working towards C1. Built from the 2000-verb list in my "Deutsch" study notes: 1,994 notes (3,662 cards), each with the verb's principal parts, a German definition, an example sentence, its English translation and usage notes (prepositions, case, reflexive use, register). 174 of the top 1,000 verbs also have a second meaning with its own example.
 
-**Import:** download [`German_Verbs.apkg`](https://github.com/ntfifwyb/anki-setup/releases/download/german-verbs/German_Verbs.apkg) from the deck's [release](https://github.com/ntfifwyb/anki-setup/releases/tag/german-verbs) and open it with Anki (or **File → Import**). It goes into `Languages::German::Verbs`, with its audio. When you update a version imported before the second-meaning cards were added, tick **Merge note types** in the import dialog: the note type gained fields, and without merging Anki won't update the existing notes.
+**Import:** this is a subdeck of the [German deck](../): download [`German.apkg`](https://github.com/ntfifwyb/anki-setup/releases/download/german/German.apkg) from its [release](https://github.com/ntfifwyb/anki-setup/releases/tag/german) and open it with Anki (or **File → Import**). This part goes into `Languages::German::Verbs`, with its audio. When you update a version imported before the second-meaning cards were added, tick **Merge note types** in the import dialog: the note type gained fields, and without merging Anki won't update the existing notes.
 
 ## Structure
 
@@ -17,7 +17,7 @@ One deck, no subdecks: new cards come in frequency order (the most useful verbs 
 | `verb::reflexive` | Usually or often used with *sich* |
 | `register::colloquial`, `register::formal`, `register::vulgar` | Register, when it isn't neutral |
 
-`Languages::German` is the parent for German decks. Later decks of other kinds (expressions, nouns) go next to this one as `Languages::German::<Name>`, since each needs its own note type and card layout.
+`Languages::German` is the German deck. Other kinds of cards (expressions, nouns) go next to this one as `Languages::German::<Name>`, each in its own folder under `decks/german/`, since each needs its own note type and card layout.
 
 ## Card types
 
@@ -44,7 +44,7 @@ Every note has two clips, the verb (`VerbAudio`) and the example sentence (`Exam
    ```
    uv run --no-project -p 3.13 --with genanki==0.13.1 --with piper-tts==1.8.0 --with soundfile==0.13.1 python speak.py
    ```
-3. Commit, then run `scripts/publish-deck.sh german-verbs` from the repository root. It builds the `.apkg` (`build.py`, which stops if a clip is missing) and uploads it to the deck's release.
+3. Commit, then run `scripts/publish-deck.sh german` from the repository root. It builds `German.apkg` (`../build.py` packages this folder's `build.py`, which stops if a clip is missing) and uploads it to the deck's release.
 4. Re-import the new `.apkg`. Notes keep stable IDs (from the verb), so existing cards are updated, not duplicated.
 
 ## Changes from the source list

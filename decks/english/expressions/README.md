@@ -2,7 +2,7 @@
 
 444 English expressions (487 cards) for a fluent speaker who wants a wider, more precise range of phrases. Every card is labelled with its context and register (academic, formal, neutral, informal, slang, vulgar).
 
-**Import:** download [`English_Expressions.apkg`](https://github.com/ntfifwyb/anki-setup/releases/download/english-expressions/English_Expressions.apkg) from the deck's [release](https://github.com/ntfifwyb/anki-setup/releases/tag/english-expressions) and open it with Anki (or **File → Import**). It goes into `Languages::English::Expressions`, with its audio.
+**Import:** this is a subdeck of the [English deck](../): download [`English.apkg`](https://github.com/ntfifwyb/anki-setup/releases/download/english/English.apkg) from its [release](https://github.com/ntfifwyb/anki-setup/releases/tag/english) and open it with Anki (or **File → Import**). This part goes into `Languages::English::Expressions`, with its audio.
 
 ## Subdecks
 
@@ -43,7 +43,7 @@ The deck comes with its audio, spoken by Kokoro (voice `af_heart`), the voice th
    ```
    uv run --no-project -p 3.13 --with genanki==0.13.1 --with kokoro-onnx==0.6.1 --with soundfile==0.13.1 python speak.py
    ```
-3. Commit, then run `scripts/publish-deck.sh english-expressions` from the repository root. It builds the `.apkg` (`build.py`, which stops if a clip is missing) and uploads it to the deck's release.
+3. Commit, then run `scripts/publish-deck.sh english` from the repository root. It builds `English.apkg` (`../build.py` packages this folder's `build.py`, which stops if a clip is missing) and uploads it to the deck's release.
 4. Re-import the new `.apkg`. Notes keep stable IDs, so existing cards are updated, not duplicated, and your review history is kept.
 
 Clips for removed or reworded sentences stay in `audio/`; delete those not listed in the built deck if they pile up.
