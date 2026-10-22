@@ -6,7 +6,7 @@ If you're asked to create Anki flashcards or a deck from this repository:
 2. Check `backup/exports/all_notes.md` so you don't duplicate existing cards.
 3. Use the note types listed in `backup/settings/note_types.json` where possible.
 4. Deliver the deck in one of the formats in section 9 of the guide.
-5. **Save every deck you create to this repository**, in its own folder `decks/<deck-name>/` (lowercase, hyphenated). Include:
+5. **Save every deck you create to this repository**: one deck per language or subject, `decks/<deck>/` (lowercase, hyphenated, e.g. `german`), whose `build.py` packages its subdeck folders `decks/<deck>/<subdeck>/` into one `.apkg`. A new kind of card for an existing deck is a new subdeck folder there (listed in that `build.py`'s `PARTS`), not a new deck. Include:
    - the importable file (`.apkg`, or the `.txt` import files),
    - the source data and any build script, so the deck can be edited and rebuilt,
    - a short `README.md`: what the deck covers, its subdecks, how to import and rebuild it.

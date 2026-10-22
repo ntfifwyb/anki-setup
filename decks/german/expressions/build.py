@@ -1,4 +1,4 @@
-"""Build the German Expressions Anki deck (.apkg) from data/*.txt, one file per subdeck.
+"""The German Expressions subdeck, from data/*.txt, one file per subdeck. ../build.py packages it.
 
 The audio clips come from audio/, which speak.py fills.
 """
@@ -15,10 +15,9 @@ import genanki
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 ROOT = "Languages::German::Expressions"
-OUT = os.path.join(HERE, "German_Expressions.apkg")
 AUDIO = os.path.join(HERE, "audio")
 LANG = "de"
-PSITTACUS = os.path.join(HERE, "..", "..", "addons", "psittacus", "addon")
+PSITTACUS = os.path.join(HERE, "..", "..", "..", "addons", "psittacus", "addon")
 
 # data file -> (subdeck, label shown on the card)
 SUBDECKS = {
@@ -194,6 +193,7 @@ def clips(fields):
 
 
 def build():
+    """(decks, media files) of the subdeck."""
     media, missing, n_recog = [], 0, 0
     for file, fields, tags, guid in notes():
         for i, (_, name) in clips(fields).items():
@@ -205,13 +205,8 @@ def build():
         deck(file).add_note(genanki.Note(model=MODEL, fields=fields, tags=tags, guid=guid))
     if missing:
         sys.exit(f"{missing} audio clips missing from {AUDIO}: run speak.py")
-    package = genanki.Package(list(DECKS.values()))
-    package.media_files = sorted(set(media))
-    package.write_to_file(OUT)
     n = sum(len(d.notes) for d in DECKS.values())
     per = ", ".join(f"{name.split('::')[-1][:2]}: {len(d.notes)}" for name, d in sorted(DECKS.items()))
-    print(f"{n} notes ({per}), {n + n_recog} cards ({n_recog} recognition), {len(set(media))} clips -> {OUT}")
+    print(f"Expressions: {n} notes ({per}), {n + n_recog} cards ({n_recog} recognition), {len(set(media))} clips")
+    return list(DECKS.values()), media
 
-
-if __name__ == "__main__":
-    build()

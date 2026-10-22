@@ -1,4 +1,4 @@
-"""Build the English Expressions Anki deck (.apkg) from expressions.txt and contexts.txt.
+"""The English Expressions subdeck, from expressions.txt and contexts.txt. ../build.py packages it.
 
 The audio clips come from audio/, which speak.py fills.
 """
@@ -38,10 +38,9 @@ SAVED_LABELS = {
     "disagreement": "Disagreeing", "warnings": "Warnings", "situations": "Describing situations",
     "money": "Money", "feelings": "Feelings", "sayings": "Sayings and proverbs",
 }
-OUT = os.path.join(HERE, "English_Expressions.apkg")
 AUDIO = os.path.join(HERE, "audio")
 LANG = "en_US"
-PSITTACUS = os.path.join(HERE, "..", "..", "addons", "psittacus", "addon")
+PSITTACUS = os.path.join(HERE, "..", "..", "..", "addons", "psittacus", "addon")
 
 CSS = """
 .card { font-family: -apple-system, "Segoe UI", Roboto, sans-serif; font-size: 20px;
@@ -184,6 +183,7 @@ def clips(fields):
 
 
 def build():
+    """(decks, media files) of the subdeck."""
     media, missing, n_recog = [], 0, 0
     for sub, fields, tags, guid in notes():
         for i, (_, name) in clips(fields).items():
@@ -195,12 +195,7 @@ def build():
         deck(sub).add_note(genanki.Note(model=MODEL, fields=fields, tags=tags, guid=guid))
     if missing:
         sys.exit(f"{missing} audio clips missing from {AUDIO}: run speak.py")
-    package = genanki.Package(list(DECKS.values()))
-    package.media_files = sorted(set(media))
-    package.write_to_file(OUT)
     n = sum(len(d.notes) for d in DECKS.values())
-    print(f"{n} notes, {n + n_recog} cards ({n_recog} recognition), {len(set(media))} clips -> {OUT}")
+    print(f"Expressions: {n} notes, {n + n_recog} cards ({n_recog} recognition), {len(set(media))} clips")
+    return list(DECKS.values()), media
 
-
-if __name__ == "__main__":
-    build()

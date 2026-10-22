@@ -38,7 +38,7 @@ Follow these steps in order.
 4. **Write the cards** using the rules in §3, the card types in §4, and the relevant playbook (§5 or §6).
 5. **Self-review** every card against the checklist in §10. Delete or rewrite failures.
 6. **Deliver** in the format in §9, with a short summary: number of notes and cards, note types used, deck name, tags, and anything you left out or were unsure about.
-7. **Save the deck to this repository** in `decks/<deck-name>/`, with its importable file, its source data and build script, and a short README. Add it to the Decks table in the root `README.md`, then commit and push. (Details in `CLAUDE.md`.)
+7. **Save the deck to this repository** in `decks/<deck>/` (one deck per language or subject; a new kind of card for an existing deck is a subdeck folder in it), with its importable file, its source data and build script, and a short README. Add it to the Decks table in the root `README.md`, then commit and push. (Details in `CLAUDE.md`.)
 
 ---
 
@@ -215,8 +215,8 @@ Cards generated from that note:
 ### 5.6 Audio: ship it inside the deck
 Whenever a card's content is meant to be heard (any language deck, pronunciation, songs or poems), the deck comes with its own audio clips. Don't leave `{{tts}}` tags or empty audio fields to be filled in Anki later: that takes the owner up to an hour per deck, has to be redone after every re-import, and `{{tts}}` doesn't play on the phone.
 
-**How.** Make the clips when the deck is built, with the voices of the owner's [Psittacus](https://github.com/ntfifwyb/psittacus) add-on, linked in this repository as the submodule `addons/psittacus` (`git submodule update --init addons/psittacus`). Its modules `core.py` and `engines.py` don't need Anki. Copy the pattern of `decks/english-expressions/`:
-- `build.py` loads Psittacus without its Anki-only `__init__` (`psittacus()`), takes the **first** voice Psittacus picks for the deck's language from `voices.json` (`voice()`), and names each clip with `core.cache_name`, so a clip the add-on already made isn't imported twice. It stops if a clip is missing.
+**How.** Make the clips when the deck is built, with the voices of the owner's [Psittacus](https://github.com/ntfifwyb/psittacus) add-on, linked in this repository as the submodule `addons/psittacus` (`git submodule update --init addons/psittacus`). Its modules `core.py` and `engines.py` don't need Anki. Copy the pattern of `decks/english/` and its subdeck `decks/english/expressions/`:
+- `build.py` loads Psittacus without its Anki-only `__init__` (`psittacus()`), takes the **first** voice Psittacus picks for the deck's language from `voices.json` (`voice()`), and names each clip with `core.cache_name`, so a clip the add-on already made isn't imported twice. It stops if a clip is missing. The deck's own `build.py` (`decks/english/build.py`) packages its subdecks into one `.apkg`.
 - `speak.py` makes the missing clips into the deck's `audio/` with `core.Speaker` and only that first engine, so every clip has the name `build.py` expects. Clips already there are skipped, so rerunning it after editing a few notes is quick.
 - The clips are committed in `audio/`; the `.apkg` with them goes on the deck's release (`scripts/publish-deck.sh <deck>`), never into git.
 

@@ -39,3 +39,11 @@
 **Choice:** a separate deck, German Expressions (`Languages::German::Expressions`), 514 C1-focused notes, in subdecks by type like English Expressions: Funktionsverbgefüge, verb + preposition + case, collocations, discourse and work/email phrases, Redewendungen.
 
 **Why:** an expression needs a different card than a verb (the whole chunk is the answer, not one verb in its forms), and subdecks let the owner study one kind at a time.
+
+## 2026-10-22: One deck per language, with subdecks
+
+**Question:** English Expressions, German Verbs and German Expressions were three folders, three `.apkg` files and three releases. Keep one deck per topic, or one per language with the topics as subdecks?
+
+**Choice:** one per language: `decks/german/` (subdecks `verbs/`, `expressions/`) and `decks/english/` (`expressions/`), each with a `build.py` that packages its subdecks into one `.apkg` (`German.apkg`, `English.apkg`) on one release (`german`, `english`). Anki's deck names don't change (`Languages::German::Verbs` …), nor do GUIDs, deck IDs or note types: the combined files hold exactly the notes of the old ones.
+
+**Why:** in Anki they already were one deck per language; the repository now matches. A new kind of card is a subdeck folder, not a new deck, release and README row. The cost is a bigger download: re-importing after a fix to one subdeck re-imports the whole language, which updates unchanged notes in place.
