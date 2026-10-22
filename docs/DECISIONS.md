@@ -31,3 +31,11 @@
 **Choice:** the top 1,000, and only where the second meaning is distinct enough to learn on its own: 174 verbs, listed in `decks/german-verbs/senses.txt`. Each is a third card type, *Produce 2*, on the verb's existing note, with fields appended to the note type.
 
 **Why:** the verbs met most often are where a second meaning pays off; for rare verbs it would mostly add load. Keeping it on the same note keeps the GUIDs, so re-importing updates the deck (with **Merge note types** ticked) instead of adding notes. A semicolon in a definition often just rephrases one meaning (*beginnen*: starten; den Anfang machen), so those verbs got no card.
+
+## 2026-10-22: German expressions get their own deck
+
+**Question:** the verb deck tests single verbs, but most of the gap from B2 to C1 is in chunks: *eine Entscheidung treffen*, *sich verlassen auf + Akk.*, *zur Verfügung stellen*. Add those to the verb deck, or make a separate deck?
+
+**Choice:** a separate deck, German Expressions (`Languages::German::Expressions`), 514 C1-focused notes, in subdecks by type like English Expressions: Funktionsverbgefüge, verb + preposition + case, collocations, discourse and work/email phrases, Redewendungen.
+
+**Why:** an expression needs a different card than a verb (the whole chunk is the answer, not one verb in its forms), and subdecks let the owner study one kind at a time.

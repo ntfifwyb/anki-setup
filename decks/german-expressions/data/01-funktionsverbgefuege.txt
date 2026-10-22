@@ -1,0 +1,112 @@
+# Funktionsverbgefüge: a noun and a "light" verb that together mean one thing (eine Entscheidung treffen = entscheiden).
+# expression | German meaning | example ({{ }} = the expression's words) | English | English example | notes | register | R
+eine Entscheidung treffen | entscheiden | Wir müssen bis Freitag {{eine Entscheidung treffen}}. | to make a decision | We have to make a decision by Friday. | Nicht: <i>eine Entscheidung machen</i> | neutral |
+eine Frage stellen | fragen | Darf ich Ihnen {{eine Frage stellen}}? | to ask a question | May I ask you a question? | Nicht: <i>eine Frage fragen</i> | neutral |
+Kritik üben (an + Dat.) | kritisieren | Die Opposition {{übte}} scharfe {{Kritik an der}} Regierung. | to criticise | The opposition sharply criticised the government. | | formal |
+in Frage kommen | möglich oder geeignet sein | Für die Stelle {{kommen}} nur zwei Bewerber {{in Frage}}. | to be an option | Only two applicants are in the running for the job. | Verneint: <i>Das kommt nicht in Frage!</i> = auf keinen Fall | neutral |
+in Frage stellen | bezweifeln | Die neue Studie {{stellt}} die bisherigen Ergebnisse {{in Frage}}. | to call into question | The new study calls the previous results into question. | | neutral |
+zur Verfügung stellen | anbieten, bereitstellen | Die Firma {{stellt}} jedem Mitarbeiter einen Laptop {{zur Verfügung}}. | to provide | The company provides every employee with a laptop. | | formal |
+zur Verfügung stehen | verfügbar sein | Der Raum {{steht}} uns bis 18 Uhr {{zur Verfügung}}. | to be available | The room is available to us until 6 p.m. | In E-Mails: <i>Für Rückfragen stehe ich Ihnen gern zur Verfügung.</i> | formal |
+in Kraft treten | gültig werden (Gesetz, Regel) | Das neue Gesetz {{tritt}} am 1. Januar {{in Kraft}}. | to come into force | The new law comes into force on 1 January. | | formal |
+außer Kraft setzen | ungültig machen | Die Regierung {{setzte}} die alte Regelung {{außer Kraft}}. | to repeal, to suspend | The government repealed the old rule. | | formal | R
+zum Ausdruck bringen | ausdrücken | In seiner Rede {{brachte}} er seine Dankbarkeit {{zum Ausdruck}}. | to express | In his speech he expressed his gratitude. | | formal |
+zum Ausdruck kommen | sich zeigen | In dem Brief {{kommt}} ihre Enttäuschung deutlich {{zum Ausdruck}}. | to be expressed, to show | Her disappointment comes through clearly in the letter. | | formal |
+in Betracht ziehen | als Möglichkeit überlegen | Wir {{ziehen}} auch einen Umzug ins Ausland {{in Betracht}}. | to consider | We're also considering moving abroad. | | formal |
+in Betracht kommen | als Möglichkeit gelten | Als Ursache {{kommt}} auch menschliches Versagen {{in Betracht}}. | to be a possibility | Human error is also a possible cause. | | formal | R
+Rücksicht nehmen (auf + Akk.) | an andere denken, sie nicht stören | Bitte {{nehmen}} Sie {{Rücksicht auf die}} Nachbarn. | to be considerate of | Please be considerate of the neighbours. | | neutral |
+Bezug nehmen (auf + Akk.) | sich beziehen | Ich {{nehme Bezug auf}} unser Telefonat von gestern. | to refer to | I'm referring to our phone call yesterday. | Sehr formell; Briefanfang | formal | R
+Einfluss nehmen (auf + Akk.) | beeinflussen | Die Lobby versucht, {{auf die}} Gesetzgebung {{Einfluss}} zu {{nehmen}}. | to influence | The lobby is trying to influence legislation. | | formal |
+Stellung nehmen (zu + Dat.) | seine Meinung sagen | Der Minister wollte {{zu den}} Vorwürfen nicht {{Stellung nehmen}}. | to comment on | The minister declined to comment on the allegations. | Nomen: <i>die Stellungnahme</i> | formal |
+in Anspruch nehmen | nutzen; (Zeit) brauchen | Das Projekt {{nimmt}} viel Zeit {{in Anspruch}}. | to take up, to make use of | The project takes up a lot of time. | Auch: <i>Hilfe in Anspruch nehmen</i> | formal |
+Abschied nehmen (von + Dat.) | sich verabschieden | Am Bahnhof {{nahmen}} sie {{Abschied voneinander}}. | to say goodbye | At the station they said goodbye to each other. | | formal | R
+Platz nehmen | sich setzen | Bitte {{nehmen}} Sie {{Platz}}. | to take a seat | Please take a seat. | Höflich, formell | formal |
+in Empfang nehmen | entgegennehmen | Der Nachbar hat das Paket für uns {{in Empfang genommen}}. | to receive, to accept | The neighbour took delivery of the parcel for us. | | formal | R
+Maßnahmen ergreifen | handeln, um etwas zu erreichen | Die Stadt muss endlich {{Maßnahmen}} gegen den Lärm {{ergreifen}}. | to take measures | The city must finally take measures against the noise. | | formal |
+die Initiative ergreifen | als Erster handeln | Wenn niemand etwas tut, {{ergreife}} ich eben {{die Initiative}}. | to take the initiative | If nobody does anything, I'll take the initiative myself. | | neutral |
+das Wort ergreifen | zu sprechen beginnen | Nach der Pause {{ergriff}} die Vorsitzende {{das Wort}}. | to take the floor | After the break the chair took the floor. | | formal | R
+Bescheid geben / sagen | informieren | {{Gib}} mir bitte {{Bescheid}}, wenn du angekommen bist. | to let someone know | Let me know when you've arrived. | <i>Bescheid sagen</i> ist etwas lockerer | neutral |
+Bescheid wissen (über + Akk.) | informiert sein | Weiß dein Chef schon {{Bescheid}}? | to know (about) | Does your boss know already? | | neutral |
+Auskunft geben | informieren (auf Anfrage) | Am Schalter {{gibt}} man Ihnen gern {{Auskunft}}. | to give information | You can get information at the counter. | | formal |
+einen Rat geben | raten | Kannst du mir {{einen Rat geben}}? | to give advice | Can you give me some advice? | | neutral |
+die Schuld geben | beschuldigen | Er {{gibt}} immer den anderen {{die Schuld}}. | to blame | He always blames the others. | jdm. die Schuld an etw. geben | neutral |
+Gas geben | beschleunigen; sich beeilen | Wir müssen jetzt {{Gas geben}}, sonst schaffen wir es nicht. | to step on it | We need to get a move on or we won't make it. | Wörtlich: im Auto beschleunigen | colloquial |
+sich Mühe geben | sich anstrengen | Sie {{gibt sich}} wirklich {{Mühe}} mit ihren Hausaufgaben. | to make an effort | She really makes an effort with her homework. | | neutral |
+eine Rolle spielen | wichtig sein | Geld {{spielt}} für ihn keine {{Rolle}}. | to matter | Money doesn't matter to him. | | neutral |
+in Ordnung bringen | reparieren, klären | Ich werde das {{in Ordnung bringen}}, versprochen. | to sort out | I'll sort it out, I promise. | | neutral |
+zur Sprache bringen | ein Thema ansprechen | In der Sitzung {{brachte}} sie das Problem {{zur Sprache}}. | to raise | She raised the problem in the meeting. | | formal |
+zur Sprache kommen | besprochen werden | Das Thema Gehalt {{kam}} gar nicht {{zur Sprache}}. | to come up | The subject of pay didn't come up at all. | | formal | R
+in Gang bringen / setzen | starten | Die Reform soll die Wirtschaft wieder {{in Gang bringen}}. | to get going | The reform is meant to get the economy going again. | | neutral |
+in Gang kommen | beginnen, anlaufen | Das Gespräch {{kam}} nur langsam {{in Gang}}. | to get going | The conversation only slowly got going. | | neutral |
+zum Abschluss bringen | beenden | Wir wollen das Projekt bis Ende des Jahres {{zum Abschluss bringen}}. | to complete | We want to complete the project by the end of the year. | | formal |
+ums Leben kommen | sterben (durch Unfall, Gewalt) | Bei dem Unfall {{kamen}} drei Menschen {{ums Leben}}. | to lose one's life | Three people died in the accident. | Nur bei unnatürlichem Tod | formal |
+zu Wort kommen | sprechen dürfen | In der Talkshow {{kam}} der Experte kaum {{zu Wort}}. | to get a word in | The expert could hardly get a word in on the talk show. | | neutral |
+zu dem Schluss kommen | schlussfolgern | Die Kommission {{kam zu dem Schluss}}, dass die Pläne zu teuer sind. | to come to the conclusion | The commission concluded that the plans were too expensive. | Auch: <i>zum Schluss kommen</i> | formal |
+zur Ruhe kommen | ruhig werden | Nach dem Umzug {{kommen}} wir endlich {{zur Ruhe}}. | to settle down | After the move we're finally settling down. | | neutral |
+in Betrieb nehmen | zum ersten Mal benutzen | Die neue Anlage wird im März {{in Betrieb genommen}}. | to put into operation | The new plant will be put into operation in March. | Gegenteil: <i>außer Betrieb</i> | formal | R
+Anwendung finden | angewendet werden | Die Regel {{findet}} hier keine {{Anwendung}}. | to apply | The rule doesn't apply here. | | formal | R
+Zustimmung finden | Zustimmung bekommen | Der Vorschlag {{fand}} breite {{Zustimmung}}. | to meet with approval | The proposal met with broad approval. | | formal |
+stattfinden | geschehen (Veranstaltung) | Das Konzert {{findet}} trotz des Regens {{statt}}. | to take place | The concert is taking place despite the rain. | Trennbares Verb, aber wie ein FVG gebaut | neutral |
+eine Vereinbarung treffen | etwas vereinbaren | Wir haben mit dem Vermieter {{eine Vereinbarung getroffen}}. | to reach an agreement | We've reached an agreement with the landlord. | | formal |
+Vorbereitungen treffen | vorbereiten | Die Stadt {{trifft}} schon {{Vorbereitungen}} für das Fest. | to make preparations | The town is already making preparations for the festival. | | formal |
+eine Wahl treffen | wählen | Du musst jetzt {{eine Wahl treffen}}. | to make a choice | You have to make a choice now. | | neutral |
+Vorkehrungen treffen | Sicherheitsmaßnahmen planen | Wir haben alle nötigen {{Vorkehrungen}} gegen Hochwasser {{getroffen}}. | to take precautions | We've taken all the necessary precautions against flooding. | | formal | R
+einen Antrag stellen | offiziell um etwas bitten | Sie hat {{einen Antrag}} auf Elterngeld {{gestellt}}. | to apply (for) | She has applied for parental allowance. | <i>einen Antrag auf + Akk. stellen</i> | formal |
+eine Forderung stellen | fordern | Die Gewerkschaft {{stellt}} hohe {{Forderungen}}. | to make a demand | The union is making high demands. | | formal |
+unter Beweis stellen | zeigen, beweisen | Im Finale {{stellte}} sie ihr Talent {{unter Beweis}}. | to demonstrate | In the final she demonstrated her talent. | | formal | R
+in Aussicht stellen | versprechen (ohne Garantie) | Der Chef hat mir eine Beförderung {{in Aussicht gestellt}}. | to hold out the prospect of | My boss has held out the prospect of a promotion. | | formal | R
+zur Diskussion stellen | zur Diskussion vorlegen | Ich möchte einen neuen Vorschlag {{zur Diskussion stellen}}. | to put up for discussion | I'd like to put a new proposal up for discussion. | | formal |
+eine Diagnose stellen | diagnostizieren | Der Arzt konnte schnell {{eine Diagnose stellen}}. | to make a diagnosis | The doctor was quickly able to make a diagnosis. | | neutral |
+in Rechnung stellen | berechnen | Die Anfahrt wird Ihnen extra {{in Rechnung gestellt}}. | to charge | You'll be charged separately for the call-out. | | formal | R
+Anforderungen stellen (an + Akk.) | etwas verlangen | Die Stelle {{stellt}} hohe {{Anforderungen an die}} Bewerber. | to make demands on | The job makes high demands on applicants. | | formal |
+Wert legen (auf + Akk.) | etwas wichtig finden | Unser Team {{legt}} großen {{Wert auf}} Pünktlichkeit. | to attach importance to | Our team attaches great importance to punctuality. | | neutral |
+den Grundstein legen (für + Akk.) | die Basis schaffen | Dieses Studium {{legte den Grundstein für}} ihre Karriere. | to lay the foundation | Her degree laid the foundation for her career. | | formal | R
+Bescheid bekommen | eine Antwort erhalten | Wann {{bekomme}} ich {{Bescheid}}, ob ich die Stelle habe? | to hear back | When will I hear back about the job? | | neutral |
+Angst haben (vor + Dat.) | sich fürchten | Viele Kinder {{haben Angst vor der}} Dunkelheit. | to be afraid of | Many children are afraid of the dark. | | neutral |
+eine Auswirkung haben (auf + Akk.) | beeinflussen | Der Klimawandel {{hat}} große {{Auswirkungen auf die}} Landwirtschaft. | to have an effect on | Climate change has big effects on agriculture. | | neutral |
+Interesse haben (an + Dat.) | interessiert sein | Hätten Sie {{Interesse an einer}} Zusammenarbeit? | to be interested in | Would you be interested in working together? | | neutral |
+Schuld haben (an + Dat.) | verantwortlich sein | Wer {{hat}} denn {{Schuld an dem}} Unfall? | to be to blame | Who's to blame for the accident? | <i>Du bist schuld!</i> (Adjektiv, klein) | neutral |
+in der Lage sein | können, fähig sein | Er war nicht {{in der Lage}}, klar zu denken. | to be able to | He wasn't able to think clearly. | | neutral |
+im Begriff sein | gerade etwas tun wollen | Ich {{war}} gerade {{im Begriff}} zu gehen, als das Telefon klingelte. | to be about to | I was just about to leave when the phone rang. | | formal | R
+der Meinung sein | meinen | Ich {{bin der Meinung}}, dass wir mehr investieren sollten. | to be of the opinion | I'm of the opinion that we should invest more. | Auch: <i>der Ansicht sein</i> | neutral |
+in Gefahr sein / geraten | gefährdet sein / werden | Durch den Sturm {{gerieten}} mehrere Schiffe {{in Gefahr}}. | to be / get in danger | Several ships got into danger in the storm. | | neutral |
+in Schwierigkeiten geraten | Probleme bekommen | Die Firma ist {{in}} finanzielle {{Schwierigkeiten geraten}}. | to get into difficulties | The company has run into financial difficulties. | | neutral |
+in Vergessenheit geraten | vergessen werden | Viele alte Bräuche {{geraten}} langsam {{in Vergessenheit}}. | to fall into oblivion | Many old customs are slowly being forgotten. | | formal | R
+außer Kontrolle geraten | nicht mehr kontrollierbar sein | Das Feuer {{geriet}} schnell {{außer Kontrolle}}. | to get out of control | The fire quickly got out of control. | | neutral |
+in Panik geraten | panisch werden | Bleib ruhig und {{gerate}} nicht {{in Panik}}! | to panic | Stay calm and don't panic! | | neutral |
+Aufmerksamkeit schenken | aufmerksam beachten | Bitte {{schenken}} Sie mir kurz Ihre {{Aufmerksamkeit}}. | to pay attention | May I have your attention for a moment, please. | | formal |
+Glauben schenken | glauben | Niemand wollte seiner Geschichte {{Glauben schenken}}. | to believe | Nobody wanted to believe his story. | | formal | R
+Beachtung finden / schenken | beachtet werden / beachten | Ihre Warnung {{fand}} leider keine {{Beachtung}}. | to receive attention | Unfortunately her warning went unheeded. | | formal | R
+einen Beitrag leisten (zu + Dat.) | beitragen | Jeder kann {{einen Beitrag zum}} Klimaschutz {{leisten}}. | to contribute | Everyone can contribute to climate protection. | | formal |
+Hilfe leisten | helfen | Die Passanten {{leisteten}} sofort Erste {{Hilfe}}. | to give help | The passers-by gave first aid immediately. | <i>Erste Hilfe leisten</i> | formal |
+Widerstand leisten | sich wehren | Die Bevölkerung {{leistete}} heftigen {{Widerstand}}. | to resist | The population put up fierce resistance. | | formal |
+Folge leisten | befolgen | Er {{leistete}} der Aufforderung der Polizei {{Folge}}. | to comply with | He complied with the police's request. | Sehr formell, Amtssprache | formal | R
+sich (Dat.) Sorgen machen (um + Akk.) | sich sorgen | Ich {{mache mir Sorgen um}} meinen Bruder. | to worry about | I'm worried about my brother. | | neutral |
+einen Vorschlag machen | vorschlagen | Darf ich {{einen Vorschlag machen}}? | to make a suggestion | May I make a suggestion? | | neutral |
+Erfahrungen machen / sammeln | erleben, lernen | Im Ausland habe ich viele neue {{Erfahrungen gesammelt}}. | to gain experience | I gained a lot of new experience abroad. | | neutral |
+Fortschritte machen | besser werden | Du {{machst}} im Deutschen große {{Fortschritte}}. | to make progress | You're making great progress in German. | | neutral |
+eine Ausnahme machen | einmal anders handeln | Heute {{mache}} ich {{eine Ausnahme}}. | to make an exception | I'll make an exception today. | | neutral |
+Anstalten machen (zu + Dat.) | zeigen, dass man etwas tun will | Er {{machte}} keine {{Anstalten}}, aufzustehen. | to make a move to | He made no move to get up. | Fast immer verneint | formal | R
+Druck machen / ausüben (auf + Akk.) | unter Druck setzen | Die Eltern {{üben}} großen {{Druck auf die}} Kinder {{aus}}. | to put pressure on | The parents put a lot of pressure on the children. | | neutral |
+unter Druck setzen | Druck ausüben | Lass dich von ihm nicht {{unter Druck setzen}}. | to pressure | Don't let him pressure you. | | neutral |
+in Verbindung setzen (sich ~ mit) | Kontakt aufnehmen | Bitte {{setzen}} Sie {{sich mit}} unserem Kundendienst {{in Verbindung}}. | to get in touch with | Please get in touch with our customer service. | | formal |
+Kontakt aufnehmen (mit + Dat.) | sich melden | Ich werde morgen {{mit dem}} Anwalt {{Kontakt aufnehmen}}. | to get in contact with | I'll contact the lawyer tomorrow. | | formal |
+in Kauf nehmen | akzeptieren (etwas Negatives) | Für die schöne Lage {{nehmen}} wir die hohe Miete {{in Kauf}}. | to put up with, to accept | We accept the high rent for the lovely location. | | neutral |
+Verantwortung tragen / übernehmen (für + Akk.) | verantwortlich sein | Der Vorstand {{trägt}} die {{Verantwortung für den}} Verlust. | to bear responsibility | The board bears responsibility for the loss. | | formal |
+Rechnung tragen (+ Dat.) | berücksichtigen | Das neue Gesetz {{trägt}} den veränderten Bedingungen {{Rechnung}}. | to take into account | The new law takes the changed conditions into account. | Sehr formell | formal | R
+zur Kenntnis nehmen | bemerken und akzeptieren | Ich habe Ihre Beschwerde {{zur Kenntnis genommen}}. | to take note of | I've taken note of your complaint. | | formal |
+zu Ende gehen | enden | Der Urlaub {{geht}} leider schon {{zu Ende}}. | to come to an end | Sadly the holiday is already coming to an end. | | neutral |
+in Erfüllung gehen | wahr werden | Ihr größter Traum ist {{in Erfüllung gegangen}}. | to come true | Her biggest dream has come true. | | neutral |
+auf die Nerven gehen | stören, nerven | Sein ständiges Pfeifen {{geht}} mir {{auf die Nerven}}. | to get on one's nerves | His constant whistling gets on my nerves. | | colloquial |
+Abstand nehmen (von + Dat.) | verzichten | Die Firma hat {{von dem}} Plan {{Abstand genommen}}. | to refrain from, to drop | The company has dropped the plan. | | formal | R
+in Erwägung ziehen | ernsthaft überlegen | Wir {{ziehen}} eine Klage {{in Erwägung}}. | to consider | We're considering legal action. | Formeller als <i>in Betracht ziehen</i> | formal | R
+zur Rechenschaft ziehen | verantwortlich machen und bestrafen | Die Verantwortlichen müssen {{zur Rechenschaft gezogen}} werden. | to hold to account | Those responsible must be held to account. | | formal | R
+Bilanz ziehen | Ergebnis zusammenfassen | Nach einem Jahr {{ziehen}} wir {{Bilanz}}. | to take stock | After a year we're taking stock. | | formal |
+die Konsequenzen ziehen | aus einem Fehler handeln (oft: zurücktreten) | Nach dem Skandal {{zog}} der Minister {{die Konsequenzen}}. | to accept the consequences | After the scandal the minister accepted the consequences. | | formal |
+Schlüsse ziehen (aus + Dat.) | folgern | Welche {{Schlüsse ziehen}} wir {{aus den}} Zahlen? | to draw conclusions | What conclusions do we draw from the figures? | | formal |
+Anklage erheben (gegen + Akk.) | anklagen | Die Staatsanwaltschaft {{erhob Anklage gegen den}} Manager. | to bring charges | The prosecution brought charges against the manager. | | formal | R
+Einspruch erheben (gegen + Akk.) | widersprechen (offiziell) | Er {{erhob Einspruch gegen den}} Bescheid. | to lodge an objection | He lodged an objection to the decision. | | formal | R
+Anspruch erheben (auf + Akk.) | etwas für sich fordern | Beide Länder {{erheben Anspruch auf die}} Insel. | to lay claim to | Both countries lay claim to the island. | | formal | R
+eine Rede halten | sprechen (vor Publikum) | Der Bürgermeister {{hielt eine}} kurze {{Rede}}. | to give a speech | The mayor gave a short speech. | Nicht: <i>eine Rede geben</i> | neutral |
+ein Versprechen halten | tun, was man versprochen hat | Er {{hält}} immer {{sein Versprechen}}. | to keep a promise | He always keeps his promise. | | neutral |
+in Grenzen halten (sich ~) | nicht groß sein | Der Schaden {{hält sich in Grenzen}}. | to be limited | The damage is limited. | | neutral |
+auf dem Laufenden halten | regelmäßig informieren | Bitte {{halten}} Sie mich {{auf dem Laufenden}}. | to keep up to date | Please keep me posted. | Auch: <i>auf dem Laufenden sein</i> | neutral |

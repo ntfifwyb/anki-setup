@@ -1,0 +1,117 @@
+# Verbs with a fixed preposition and case. The gap holds the verb and the preposition with its article, so the card tests the case too.
+# Pairs already on a German Verbs card (bestehen aus, sich beziehen auf, stoßen auf, eingehen auf, liegen an, sorgen für,
+# gelten als, betrachten als, träumen von, klingen nach, schließen aus, richten an, sich engagieren für, klagen gegen,
+# sich erregen über, sich entschuldigen für, es handelt sich um) are left out.
+# expression | German meaning | example | English | English example | notes | register | R
+sich verlassen auf + Akk. | jemandem vertrauen, dass er hilft | Du kannst {{dich auf}} mich {{verlassen}}. | to rely on | You can rely on me. | | neutral |
+abhängen von + Dat. | bestimmt werden durch | Ob wir fahren, {{hängt vom}} Wetter {{ab}}. | to depend on | Whether we go depends on the weather. | <i>Das hängt davon ab, ob …</i> | neutral |
+sich beschäftigen mit + Dat. | sich mit etwas befassen | In meiner Arbeit {{beschäftige}} ich {{mich mit der}} Geschichte Berlins. | to deal with, to work on | In my thesis I deal with the history of Berlin. | | neutral |
+sich befassen mit + Dat. | sich intensiv beschäftigen | Der Ausschuss {{befasst sich mit dem}} Thema Wohnungsnot. | to deal with | The committee is dealing with the housing shortage. | Formeller als <i>sich beschäftigen mit</i> | formal |
+sich auseinandersetzen mit + Dat. | sich kritisch beschäftigen | Wir müssen {{uns}} ernsthaft {{mit den}} Argumenten {{auseinandersetzen}}. | to engage with | We need to engage seriously with the arguments. | Nomen: <i>die Auseinandersetzung</i> (auch: Streit) | formal |
+sich kümmern um + Akk. | sorgen für, erledigen | Wer {{kümmert sich um den}} Hund, wenn wir weg sind? | to take care of | Who'll look after the dog while we're away? | | neutral |
+sich bemühen um + Akk. | versuchen, etwas zu bekommen | Sie {{bemüht sich um eine}} Stelle im Ausland. | to try to get | She's trying to get a job abroad. | | formal |
+sich bewerben um + Akk. / bei + Dat. | sich um eine Stelle bemühen | Ich {{habe mich um die}} Stelle als Projektleiterin {{beworben}}. | to apply for | I've applied for the job as project manager. | <i>bei einer Firma</i>, <i>um eine Stelle</i> | neutral |
+bitten um + Akk. | etwas höflich verlangen | Darf ich Sie {{um einen}} Gefallen {{bitten}}? | to ask for | May I ask you a favour? | | neutral |
+es geht um + Akk. | das Thema ist | In dem Film {{geht es um eine}} Familie in der DDR. | to be about | The film is about a family in the GDR. | | neutral |
+sich ärgern über + Akk. | wütend sein wegen | Ich {{ärgere mich über den}} ständigen Lärm. | to be annoyed about | I'm annoyed about the constant noise. | | neutral |
+sich freuen auf + Akk. | sich auf etwas Zukünftiges freuen | Ich {{freue mich}} schon {{auf den}} Urlaub. | to look forward to | I'm already looking forward to the holiday. | Zukunft: <i>auf</i>; Gegenwart/Vergangenheit: <i>über</i> | neutral |
+sich freuen über + Akk. | froh sein wegen etwas, das passiert ist | Sie {{hat sich}} sehr {{über das}} Geschenk {{gefreut}}. | to be pleased about | She was very pleased with the present. | Vgl. <i>sich freuen auf</i> (Zukunft) | neutral |
+sich beschweren über + Akk. / bei + Dat. | sagen, dass man unzufrieden ist | Die Gäste {{beschwerten sich über das}} kalte Essen. | to complain about | The guests complained about the cold food. | <i>bei jdm. über etw.</i> | neutral |
+sich aufregen über + Akk. | sich ärgern, nervös werden | {{Reg dich}} nicht {{über die}} Kleinigkeit {{auf}}! | to get worked up about | Don't get worked up about such a small thing! | | colloquial |
+sich wundern über + Akk. | überrascht sein | Ich {{wundere mich über}} seine schnelle Antwort. | to be surprised at | I'm surprised at his quick reply. | | neutral |
+sich gewöhnen an + Akk. | normal finden mit der Zeit | Ich {{habe mich}} noch nicht {{an das}} frühe Aufstehen {{gewöhnt}}. | to get used to | I still haven't got used to getting up early. | | neutral |
+sich erinnern an + Akk. | im Gedächtnis haben | {{Erinnerst}} du {{dich an unseren}} ersten Urlaub? | to remember | Do you remember our first holiday? | | neutral |
+denken an + Akk. | in Gedanken bei etwas sein | {{Denk}} bitte {{an den}} Termin morgen! | to think of, to remember | Please remember the appointment tomorrow! | | neutral |
+nachdenken über + Akk. | gründlich überlegen | Ich muss {{über dein}} Angebot {{nachdenken}}. | to think about | I need to think about your offer. | | neutral |
+sich entscheiden für + Akk. | wählen | Wir {{haben uns für das}} kleinere Auto {{entschieden}}. | to decide on | We decided on the smaller car. | Gegenteil: <i>sich entscheiden gegen</i> | neutral |
+sich interessieren für + Akk. | Interesse haben | Er {{interessiert sich für}} alte Motorräder. | to be interested in | He's interested in old motorbikes. | | neutral |
+sich einsetzen für + Akk. | kämpfen für, unterstützen | Die Organisation {{setzt sich für die}} Rechte von Kindern {{ein}}. | to stand up for | The organisation stands up for children's rights. | | neutral |
+sich bedanken bei + Dat. / für + Akk. | danken | Ich möchte {{mich bei}} Ihnen {{für die}} Hilfe {{bedanken}}. | to thank | I'd like to thank you for your help. | | neutral |
+danken für + Akk. | Dank sagen | Wir {{danken}} Ihnen {{für Ihr}} Verständnis. | to thank for | Thank you for your understanding. | Häufig in Durchsagen und Briefen | formal |
+sich bereit erklären zu + Dat. | zustimmen, etwas zu tun | Er {{erklärte sich zur}} Mitarbeit {{bereit}}. | to agree to | He agreed to help. | Meist mit Infinitiv: <i>sich bereit erklären, … zu</i> | formal | R
+neigen zu + Dat. | die Tendenz haben | Er {{neigt zu}} Übertreibungen. | to tend to | He tends to exaggerate. | | formal |
+führen zu + Dat. | als Folge haben | Die Kürzungen {{führten zu}} großem Protest. | to lead to | The cuts led to major protests. | | neutral |
+beitragen zu + Dat. | ein Teil des Ergebnisses sein | Sport {{trägt zur}} Gesundheit {{bei}}. | to contribute to | Exercise contributes to good health. | | neutral |
+gehören zu + Dat. | Teil von etwas sein | Diese Insel {{gehört zu}} Griechenland. | to belong to, to be part of | This island is part of Greece. | Besitz ohne <i>zu</i>: <i>Das gehört mir.</i> | neutral |
+zwingen zu + Dat. | gegen den Willen bringen | Niemand kann dich {{zu}} etwas {{zwingen}}. | to force to | Nobody can force you to do anything. | | neutral |
+überreden zu + Dat. | durch Reden dazu bringen | Sie {{hat}} mich {{zu einem}} Kinobesuch {{überredet}}. | to talk into | She talked me into going to the cinema. | | neutral |
+gratulieren zu + Dat. | Glück wünschen | Ich {{gratuliere}} dir {{zum}} Geburtstag! | to congratulate on | Happy birthday! | | neutral |
+passen zu + Dat. | gut zusammengehen | Die Schuhe {{passen}} perfekt {{zum}} Kleid. | to go with | The shoes go perfectly with the dress. | | neutral |
+warten auf + Akk. | bleiben, bis etwas kommt | Wir {{warten}} schon seit einer Stunde {{auf den}} Bus. | to wait for | We've been waiting for the bus for an hour. | | neutral |
+achten auf + Akk. | aufpassen, beachten | Bitte {{achten}} Sie {{auf Ihr}} Gepäck. | to watch, to mind | Please keep an eye on your luggage. | | neutral |
+aufpassen auf + Akk. | beschützen, beobachten | Kannst du kurz {{auf meine}} Tasche {{aufpassen}}? | to keep an eye on | Can you keep an eye on my bag for a moment? | | neutral |
+antworten auf + Akk. | eine Antwort geben | Sie {{hat}} noch nicht {{auf meine}} E-Mail {{geantwortet}}. | to answer, to reply to | She hasn't replied to my email yet. | | neutral |
+reagieren auf + Akk. | eine Reaktion zeigen | Wie {{hat}} er {{auf die}} Nachricht {{reagiert}}? | to react to | How did he react to the news? | | neutral |
+verzichten auf + Akk. | etwas nicht nehmen | Ich {{verzichte}} heute {{auf den}} Nachtisch. | to do without | I'll skip dessert today. | | neutral |
+hinweisen auf + Akk. | aufmerksam machen | Ich möchte Sie {{auf einen}} Fehler {{hinweisen}}. | to point out | I'd like to point out a mistake. | Nomen: <i>der Hinweis</i> | formal |
+sich konzentrieren auf + Akk. | die Aufmerksamkeit richten | Ich kann {{mich}} heute nicht {{auf die}} Arbeit {{konzentrieren}}. | to concentrate on | I can't concentrate on work today. | | neutral |
+sich vorbereiten auf + Akk. | sich bereit machen | Sie {{bereitet sich auf die}} Prüfung {{vor}}. | to prepare for | She's preparing for the exam. | | neutral |
+sich einstellen auf + Akk. | sich vorbereiten, anpassen | Wir müssen {{uns auf}} längere Wartezeiten {{einstellen}}. | to prepare for, to adjust to | We have to prepare for longer waiting times. | | neutral |
+sich einigen auf + Akk. | eine gemeinsame Lösung finden | Die Parteien {{haben sich auf einen}} Kompromiss {{geeinigt}}. | to agree on | The parties have agreed on a compromise. | | neutral |
+hoffen auf + Akk. | wünschen und erwarten | Wir {{hoffen auf}} besseres Wetter. | to hope for | We're hoping for better weather. | | neutral |
+zählen auf + Akk. | sich verlassen | Ich {{zähle auf}} dich! | to count on | I'm counting on you! | | neutral |
+ankommen auf + Akk. | abhängen von; wichtig sein | Es {{kommt auf die}} Situation {{an}}. | to depend on | It depends on the situation. | <i>Darauf kommt es an.</i> = Das ist das Wichtige. | neutral |
+sich verlieben in + Akk. | Liebe zu fühlen beginnen | Er {{hat sich in}} seine Nachbarin {{verliebt}}. | to fall in love with | He fell in love with his neighbour. | | neutral |
+einladen zu + Dat. | bitten zu kommen | Wir {{laden}} euch {{zu unserer}} Hochzeit {{ein}}. | to invite to | We're inviting you to our wedding. | | neutral |
+gehören zu den … | einer von vielen sein | Sie {{gehört zu den}} besten Spielerinnen der Welt. | to be one of | She's one of the best players in the world. | | neutral |
+leiden an + Dat. / unter + Dat. | eine Krankheit haben / unter etwas leiden | Viele Menschen {{leiden unter dem}} Stress im Job. | to suffer from | Many people suffer from stress at work. | <i>an</i> für Krankheiten, <i>unter</i> für Belastungen | neutral |
+teilnehmen an + Dat. | mitmachen | Wie viele Leute {{nehmen an dem}} Kurs {{teil}}? | to take part in | How many people are taking part in the course? | | neutral |
+sich beteiligen an + Dat. | mitmachen, beitragen | Alle {{beteiligten sich an den}} Kosten. | to contribute to, to share | Everyone shared the costs. | | neutral |
+zweifeln an + Dat. | unsicher sein | Ich {{zweifle}} nicht {{an deiner}} Ehrlichkeit. | to doubt | I don't doubt your honesty. | | neutral |
+arbeiten an + Dat. | an etwas tätig sein | Ich {{arbeite}} gerade {{an einem}} neuen Projekt. | to work on | I'm currently working on a new project. | | neutral |
+festhalten an + Dat. | nicht aufgeben | Die Regierung {{hält an ihrem}} Plan {{fest}}. | to stick to | The government is sticking to its plan. | | neutral |
+sich orientieren an + Dat. | als Maßstab nehmen | Wir {{orientieren uns an den}} Wünschen der Kunden. | to be guided by | We're guided by what customers want. | | formal |
+erkennen an + Dat. | durch ein Merkmal identifizieren | Ich {{habe}} ihn {{an der}} Stimme {{erkannt}}. | to recognise by | I recognised him by his voice. | | neutral |
+sich rächen an + Dat. / für + Akk. | Rache nehmen | Er wollte {{sich an}} seinem Feind {{rächen}}. | to take revenge on | He wanted to take revenge on his enemy. | | neutral | R
+sterben an + Dat. | wegen einer Krankheit sterben | Er {{starb an}} Krebs. | to die of | He died of cancer. | | neutral |
+schuld sein an + Dat. | verantwortlich sein | Du {{bist}} doch selbst {{schuld an der}} Situation. | to be to blame for | You're to blame for the situation yourself. | | neutral |
+sich halten an + Akk. | befolgen | Bitte {{halten Sie sich an die}} Regeln. | to stick to, to follow | Please stick to the rules. | | neutral |
+sich wenden an + Akk. | um Hilfe fragen | Bei Fragen {{wenden}} Sie {{sich an die}} Rezeption. | to contact, to turn to | If you have any questions, please contact reception. | | formal |
+glauben an + Akk. | für wahr halten, vertrauen | Ich {{glaube an}} dich. | to believe in | I believe in you. | | neutral |
+sich anpassen an + Akk. | sich einstellen auf | Die Tiere {{haben sich an das}} Klima {{angepasst}}. | to adapt to | The animals have adapted to the climate. | | neutral |
+schreiben an + Akk. | eine Nachricht schicken | Ich {{schreibe an die}} Bank, um mich zu beschweren. | to write to | I'm writing to the bank to complain. | <i>an etw. schreiben</i> (Dat.) = daran arbeiten | neutral |
+fragen nach + Dat. | Auskunft wollen über | Ein Mann {{hat nach}} dir {{gefragt}}. | to ask about | A man was asking about you. | | neutral |
+sich erkundigen nach + Dat. | sich informieren | Ich {{habe mich nach den}} Öffnungszeiten {{erkundigt}}. | to enquire about | I enquired about the opening hours. | | formal |
+suchen nach + Dat. | versuchen zu finden | Die Polizei {{sucht nach dem}} Täter. | to look for | The police are looking for the perpetrator. | | neutral |
+sich sehnen nach + Dat. | sich stark wünschen | Sie {{sehnt sich nach}} Ruhe. | to long for | She longs for peace and quiet. | | neutral | R
+riechen nach + Dat. | den Geruch von etwas haben | Hier {{riecht}} es {{nach}} frischem Kaffee. | to smell of | It smells of fresh coffee here. | | neutral |
+schmecken nach + Dat. | den Geschmack von etwas haben | Die Soße {{schmeckt nach}} Knoblauch. | to taste of | The sauce tastes of garlic. | | neutral |
+sich richten nach + Dat. | sich anpassen an | Wir {{richten uns nach}} Ihren Wünschen. | to go by, to fit in with | We'll fit in with your wishes. | | formal |
+sich verabreden mit + Dat. | ein Treffen vereinbaren | Ich {{habe mich mit}} Anna fürs Kino {{verabredet}}. | to arrange to meet | I've arranged to go to the cinema with Anna. | | neutral |
+aufhören mit + Dat. | beenden | Er {{hat mit dem}} Rauchen {{aufgehört}}. | to stop | He's stopped smoking. | | neutral |
+anfangen mit + Dat. | beginnen | Wir {{fangen mit der}} Sitzung um neun {{an}}. | to start with | We start the meeting at nine. | | neutral |
+rechnen mit + Dat. | erwarten | {{Mit}} so vielen Gästen {{haben}} wir nicht {{gerechnet}}. | to expect | We didn't expect so many guests. | | neutral |
+übereinstimmen mit + Dat. | gleich sein, gleich denken | Ich {{stimme mit}} Ihnen völlig {{überein}}. | to agree with | I agree with you completely. | | formal |
+vergleichen mit + Dat. | Unterschiede und Gemeinsamkeiten prüfen | Man kann Äpfel nicht {{mit}} Birnen {{vergleichen}}. | to compare with | You can't compare apples with oranges. | Redewendung: Äpfel mit Birnen vergleichen | neutral |
+sich abfinden mit + Dat. | akzeptieren (ungern) | Er {{hat sich mit der}} Niederlage {{abgefunden}}. | to come to terms with | He has come to terms with the defeat. | | neutral | R
+zufrieden sein mit + Dat. | froh sein über | Der Chef {{ist}} sehr {{zufrieden mit}} deiner Arbeit. | to be satisfied with | The boss is very satisfied with your work. | | neutral |
+sich streiten mit + Dat. / über + Akk. | Streit haben | Die Geschwister {{streiten sich}} ständig {{über die}} Fernbedienung. | to argue about | The siblings constantly argue about the remote. | | neutral |
+sich unterhalten mit + Dat. / über + Akk. | reden | Wir {{haben uns}} lange {{über den}} Film {{unterhalten}}. | to talk about | We talked about the film for a long time. | | neutral |
+diskutieren über + Akk. | Argumente austauschen | Im Parlament {{wird über das}} neue Gesetz {{diskutiert}}. | to discuss | Parliament is discussing the new law. | Auch transitiv: <i>etw. diskutieren</i> | neutral |
+verfügen über + Akk. | haben, besitzen | Die Wohnung {{verfügt über einen}} großen Balkon. | to have | The flat has a large balcony. | Formell, oft in Anzeigen | formal |
+informieren über + Akk. | Auskunft geben | Wir {{informieren}} Sie rechtzeitig {{über alle}} Änderungen. | to inform about | We'll inform you of any changes in good time. | | formal |
+klagen über + Akk. | sich beschweren | Viele Patienten {{klagen über}} lange Wartezeiten. | to complain of | Many patients complain of long waiting times. | | neutral |
+lachen über + Akk. | lustig finden | Alle {{lachten über}} seinen Witz. | to laugh at | Everyone laughed at his joke. | | neutral |
+sich schämen für + Akk. | sich peinlich fühlen | Ich {{schäme mich für}} mein Verhalten. | to be ashamed of | I'm ashamed of my behaviour. | Gehoben auch mit Genitiv | neutral |
+sich eignen für + Akk. | passend sein | Das Buch {{eignet sich}} gut {{für}} Anfänger. | to be suitable for | The book is well suited to beginners. | | neutral |
+halten für + Akk. | meinen, dass jemand/etwas … ist | Ich {{halte}} ihn {{für einen}} guten Lehrer. | to consider | I consider him a good teacher. | <i>halten von</i> = Meinung haben | neutral |
+halten von + Dat. | eine Meinung haben über | Was {{hältst}} du {{von der}} Idee? | to think of | What do you think of the idea? | | neutral |
+sich verabschieden von + Dat. | Auf Wiedersehen sagen | Wir {{haben uns von den}} Gästen {{verabschiedet}}. | to say goodbye to | We said goodbye to the guests. | | neutral |
+sich erholen von + Dat. | wieder gesund oder entspannt werden | Er {{hat sich}} gut {{von der}} Operation {{erholt}}. | to recover from | He's recovered well from the operation. | | neutral |
+überzeugen von + Dat. | glauben machen | Sie {{hat}} mich {{von ihrem}} Plan {{überzeugt}}. | to convince of | She convinced me of her plan. | | neutral |
+ausgehen von + Dat. | annehmen | Ich {{gehe davon aus}}, dass alle kommen. | to assume | I assume everyone is coming. | | neutral |
+profitieren von + Dat. | Vorteile haben | Alle {{profitieren von der}} neuen Regelung. | to benefit from | Everyone benefits from the new rule. | | neutral |
+sich unterscheiden von + Dat. | anders sein als | Das neue Modell {{unterscheidet sich}} kaum {{vom}} alten. | to differ from | The new model hardly differs from the old one. | | neutral |
+abraten von + Dat. | empfehlen, etwas nicht zu tun | Ich {{rate}} dir {{vom}} Kauf {{ab}}. | to advise against | I'd advise you against buying it. | | neutral |
+schützen vor + Dat. | sicher halten vor | Die Creme {{schützt vor der}} Sonne. | to protect from | The cream protects against the sun. | | neutral |
+warnen vor + Dat. | auf Gefahr hinweisen | Die Polizei {{warnt vor}} Glatteis. | to warn of | The police are warning of black ice. | | neutral |
+sich fürchten vor + Dat. | Angst haben | Das Kind {{fürchtet sich vor dem}} Gewitter. | to be afraid of | The child is afraid of the thunderstorm. | | neutral |
+sich drücken vor + Dat. | (umgs.) einer Pflicht ausweichen | Er {{drückt sich}} immer {{vor dem}} Abwasch. | to get out of | He always gets out of doing the washing up. | | colloquial | R
+fliehen vor + Dat. | wegen einer Gefahr weggehen | Viele Menschen {{fliehen vor dem}} Krieg. | to flee from | Many people are fleeing from the war. | | neutral |
+sich wehren gegen + Akk. | sich verteidigen | Die Anwohner {{wehren sich gegen den}} Bau der Straße. | to fight against | The residents are fighting the construction of the road. | | neutral |
+verstoßen gegen + Akk. | eine Regel brechen | Das {{verstößt gegen das}} Gesetz. | to violate | That's against the law. | | formal |
+protestieren gegen + Akk. | öffentlich widersprechen | Tausende {{protestierten gegen die}} Reform. | to protest against | Thousands protested against the reform. | | neutral |
+sich verwandeln in + Akk. | zu etwas anderem werden | Der Frosch {{verwandelte sich in einen}} Prinzen. | to turn into | The frog turned into a prince. | | neutral |
+investieren in + Akk. | Geld anlegen | Die Firma {{investiert}} viel {{in die}} Forschung. | to invest in | The company invests a lot in research. | | neutral |
+geraten in + Akk. | ohne Absicht in eine Lage kommen | Wir {{sind in einen}} Stau {{geraten}}. | to get caught in | We got caught in a traffic jam. | | neutral |
+bestehen auf + Dat. | fest fordern | Er {{bestand auf einer}} Entschuldigung. | to insist on | He insisted on an apology. | <i>auf</i> + Dativ, nicht Akkusativ | neutral |

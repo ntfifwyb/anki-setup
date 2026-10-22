@@ -1,0 +1,90 @@
+# Collocations: words that go together where another word would sound wrong (Zähne putzen, not Zähne waschen).
+# expression | German meaning | example | English | English example | notes | register | R
+Zähne putzen | Zähne sauber machen | Hast du dir schon die {{Zähne geputzt}}? | to brush one's teeth | Have you brushed your teeth yet? | Nicht: <i>Zähne waschen</i> | neutral |
+einen Termin vereinbaren | eine Zeit für ein Treffen festlegen | Ich möchte gern {{einen Termin}} beim Zahnarzt {{vereinbaren}}. | to make an appointment | I'd like to make an appointment with the dentist. | Auch: <i>ausmachen</i> (umgs.) | neutral |
+einen Termin absagen | sagen, dass man nicht kommt | Leider muss ich {{den Termin}} morgen {{absagen}}. | to cancel an appointment | Unfortunately I have to cancel tomorrow's appointment. | | neutral |
+einen Termin verschieben | auf eine andere Zeit legen | Können wir {{den Termin}} auf Donnerstag {{verschieben}}? | to postpone an appointment | Can we move the appointment to Thursday? | | neutral |
+eine Frist einhalten | bis zum Termin fertig sein | Wir konnten {{die Frist}} leider nicht {{einhalten}}. | to meet a deadline | Unfortunately we couldn't meet the deadline. | | formal |
+eine Frist verlängern | mehr Zeit geben | Könnten Sie {{die Frist}} um eine Woche {{verlängern}}? | to extend a deadline | Could you extend the deadline by a week? | | formal |
+ein Ziel verfolgen | auf ein Ziel hinarbeiten | Welches {{Ziel verfolgt}} die Kampagne? | to pursue a goal | What goal is the campaign pursuing? | | neutral |
+ein Ziel erreichen | schaffen, was man wollte | Wir haben unser {{Ziel}} früher als geplant {{erreicht}}. | to reach a goal | We reached our goal earlier than planned. | | neutral |
+ein Problem lösen | eine Lösung finden | Mit diesem Trick {{lösen}} Sie das {{Problem}} in Sekunden. | to solve a problem | With this trick you'll solve the problem in seconds. | | neutral |
+Probleme bereiten | Schwierigkeiten verursachen | Die neue Software {{bereitet}} uns große {{Probleme}}. | to cause problems | The new software is causing us big problems. | Auch: <i>Freude/Sorgen bereiten</i> | neutral |
+eine Lösung finden | ein Problem lösen | Wir müssen schnell {{eine Lösung finden}}. | to find a solution | We need to find a solution quickly. | | neutral |
+einen Kompromiss schließen / eingehen | sich in der Mitte einigen | Beide Seiten mussten {{einen Kompromiss eingehen}}. | to compromise | Both sides had to compromise. | | neutral |
+einen Vertrag abschließen | einen Vertrag machen | Wir haben {{einen}} neuen {{Vertrag}} mit dem Lieferanten {{abgeschlossen}}. | to conclude a contract | We've signed a new contract with the supplier. | | formal |
+einen Vertrag kündigen | einen Vertrag beenden | Ich habe meinen {{Handyvertrag gekündigt}}. | to cancel a contract | I've cancelled my mobile phone contract. | Auch: <i>die Wohnung, die Stelle kündigen</i> | neutral |
+ein Risiko eingehen | etwas Gefährliches wagen | Ich möchte kein unnötiges {{Risiko eingehen}}. | to take a risk | I don't want to take an unnecessary risk. | | neutral |
+eine Gelegenheit nutzen | eine Chance verwenden | Ich {{nutze die Gelegenheit}}, mich bei allen zu bedanken. | to take the opportunity | I'll take this opportunity to thank everyone. | | neutral |
+einen Fehler begehen / machen | etwas falsch machen | Er hat einen schweren {{Fehler begangen}}. | to make a mistake | He made a serious mistake. | <i>begehen</i> ist formeller; auch: <i>ein Verbrechen begehen</i> | formal |
+ein Verbrechen begehen | eine Straftat tun | Wer hat das {{Verbrechen begangen}}? | to commit a crime | Who committed the crime? | | neutral |
+eine Prüfung ablegen / bestehen | eine Prüfung machen / schaffen | Sie hat die {{Prüfung}} mit Auszeichnung {{bestanden}}. | to pass an exam | She passed the exam with distinction. | Durchfallen: <i>durch die Prüfung fallen</i> | neutral |
+Geld abheben | Geld vom Konto nehmen | Ich muss noch {{Geld}} am Automaten {{abheben}}. | to withdraw money | I still need to get some money out at the cashpoint. | | neutral |
+Geld überweisen | Geld von Konto zu Konto schicken | Ich {{überweise}} dir das {{Geld}} heute noch. | to transfer money | I'll transfer the money to you today. | | neutral |
+Bedenken äußern | Zweifel sagen | Mehrere Kollegen {{äußerten Bedenken}} gegen den Plan. | to voice concerns | Several colleagues voiced concerns about the plan. | | formal |
+einen Verdacht hegen | etwas vermuten (Negatives) | Die Polizei {{hegte}} schon lange einen {{Verdacht}}. | to harbour a suspicion | The police had long harboured a suspicion. | <i>hegen</i> nur mit Gefühlen: Zweifel, Hoffnung | formal | R
+Zweifel hegen | zweifeln | Ich {{hege}} keine {{Zweifel}} an seiner Ehrlichkeit. | to have doubts | I have no doubts about his honesty. | | formal | R
+ein Gerücht verbreiten | etwas Unbestätigtes weitererzählen | Wer hat dieses {{Gerücht verbreitet}}? | to spread a rumour | Who spread this rumour? | | neutral |
+eine Meinung vertreten | eine Ansicht haben und verteidigen | Ich {{vertrete}} da eine andere {{Meinung}}. | to hold an opinion | I take a different view on that. | | neutral |
+einen Standpunkt vertreten | eine Position haben | Die Partei {{vertritt}} einen klaren {{Standpunkt}}. | to take a position | The party takes a clear position. | | formal |
+Einwände erheben | widersprechen | Mehrere Abgeordnete {{erhoben Einwände}} gegen den Entwurf. | to raise objections | Several MPs raised objections to the draft. | | formal | R
+Vorurteile abbauen | Vorurteile kleiner machen | Begegnungen helfen, {{Vorurteile abzubauen}}. | to break down prejudices | Encounters help to break down prejudices. | Gegenteil: <i>Vorurteile haben/hegen</i> | formal |
+Kosten senken | billiger machen | Die Firma will die {{Kosten}} um zehn Prozent {{senken}}. | to cut costs | The company wants to cut costs by ten percent. | | neutral |
+Preise erhöhen | teurer machen | Die Bahn {{erhöht}} wieder die {{Preise}}. | to raise prices | The railway is raising prices again. | | neutral |
+Erwartungen erfüllen | so gut sein wie erwartet | Das Hotel hat unsere {{Erwartungen}} voll {{erfüllt}}. | to meet expectations | The hotel fully met our expectations. | Gegenteil: <i>Erwartungen enttäuschen</i> | neutral |
+Erwartungen übertreffen | besser sein als erwartet | Das Ergebnis {{übertraf}} alle {{Erwartungen}}. | to exceed expectations | The result exceeded all expectations. | | formal |
+die Aufmerksamkeit lenken (auf + Akk.) | aufmerksam machen | Der Bericht {{lenkt die Aufmerksamkeit auf}} ein vergessenes Problem. | to draw attention to | The report draws attention to a forgotten problem. | | formal |
+Vertrauen gewinnen / verlieren | Vertrauen bekommen / nicht mehr haben | Die Regierung hat das {{Vertrauen}} der Bürger {{verloren}}. | to win / lose trust | The government has lost the citizens' trust. | | neutral |
+Vertrauen schenken | vertrauen | Ich {{schenke}} dir mein {{Vertrauen}}. | to place trust in | I'm placing my trust in you. | | formal | R
+Zeit verschwenden | Zeit sinnlos verbrauchen | Wir sollten keine {{Zeit}} mehr {{verschwenden}}. | to waste time | We shouldn't waste any more time. | | neutral |
+Zeit sparen | weniger Zeit brauchen | Mit dem neuen Programm {{sparen}} wir viel {{Zeit}}. | to save time | We save a lot of time with the new program. | | neutral |
+sich Zeit nehmen | sich nicht beeilen; Zeit für etwas reservieren | {{Nimm dir}} ruhig {{Zeit}} für die Antwort. | to take one's time | Take your time with the answer. | | neutral |
+die Zeit vertreiben (sich ~) | etwas tun, damit die Zeit schneller vergeht | Im Zug {{vertreiben}} wir {{uns die Zeit}} mit Kartenspielen. | to pass the time | On the train we pass the time playing cards. | | neutral |
+eine Pause einlegen | eine Pause machen | Lass uns kurz {{eine Pause einlegen}}. | to take a break | Let's take a short break. | | neutral |
+Rat suchen | Hilfe in Form von Ratschlägen wollen | Viele {{suchen Rat}} bei einer Beratungsstelle. | to seek advice | Many people seek advice from a counselling centre. | | formal |
+Schaden anrichten | etwas beschädigen | Der Sturm hat großen {{Schaden angerichtet}}. | to cause damage | The storm caused a lot of damage. | | neutral |
+eine Wirkung erzielen | ein Ergebnis bewirken | Die Kampagne hat {{die}} gewünschte {{Wirkung erzielt}}. | to have the desired effect | The campaign had the desired effect. | | formal |
+Erfolg haben / erzielen | erfolgreich sein | Mit dem neuen Produkt {{erzielte}} die Firma großen {{Erfolg}}. | to achieve success | The company had great success with the new product. | | neutral |
+Gewinn erzielen | Profit machen | Im letzten Jahr {{erzielte}} die Firma einen {{Gewinn}} von zwei Millionen. | to make a profit | Last year the company made a profit of two million. | | formal |
+ein Gesetz verabschieden | ein Gesetz beschließen | Der Bundestag hat {{das Gesetz}} gestern {{verabschiedet}}. | to pass a law | The Bundestag passed the law yesterday. | | formal |
+eine Rolle übernehmen | eine Aufgabe annehmen | Wer {{übernimmt}} die {{Rolle}} des Moderators? | to take on a role | Who's taking on the role of host? | | neutral |
+einen Vortrag halten | vor Publikum über ein Thema sprechen | Sie {{hält}} morgen {{einen Vortrag}} über KI. | to give a talk | She's giving a talk on AI tomorrow. | | neutral |
+ein Gespräch führen | miteinander reden | Wir {{führten ein}} langes {{Gespräch}} über die Zukunft. | to have a conversation | We had a long conversation about the future. | Auch: <i>ein Interview, eine Diskussion führen</i> | neutral |
+Krieg führen | kämpfen (Staaten) | Die beiden Länder {{führten}} jahrelang {{Krieg}}. | to wage war | The two countries waged war for years. | | neutral |
+ein Tagebuch führen | regelmäßig aufschreiben | Als Kind habe ich {{Tagebuch geführt}}. | to keep a diary | As a child I kept a diary. | | neutral |
+ein Protokoll führen | eine Sitzung mitschreiben | Wer {{führt}} heute das {{Protokoll}}? | to take the minutes | Who's taking the minutes today? | | formal |
+eine Beziehung führen | eine Partnerschaft haben | Sie {{führen}} seit drei Jahren eine {{Fernbeziehung}}. | to be in a relationship | They've been in a long-distance relationship for three years. | | neutral |
+einen Beruf ausüben | in einem Beruf arbeiten | Welchen {{Beruf üben}} Sie {{aus}}? | to practise a profession | What do you do for a living? | | formal |
+Sport treiben | Sport machen | Wie oft {{treibst}} du {{Sport}}? | to do sport | How often do you do sport? | | neutral |
+Handel treiben | kaufen und verkaufen | Die Stadt {{trieb}} schon im Mittelalter {{Handel}} mit Italien. | to trade | The town already traded with Italy in the Middle Ages. | | formal |
+einen Antrag ablehnen / genehmigen | Nein / Ja zu einem Antrag sagen | Mein {{Antrag}} wurde leider {{abgelehnt}}. | to reject / approve an application | Unfortunately my application was rejected. | | formal |
+eine Rechnung begleichen | eine Rechnung bezahlen | Bitte {{begleichen}} Sie die {{Rechnung}} innerhalb von 14 Tagen. | to settle a bill | Please settle the invoice within 14 days. | | formal | R
+Schulden machen / tilgen | Geld leihen / zurückzahlen | Er hat hohe {{Schulden gemacht}}. | to run up / pay off debts | He's run up heavy debts. | | neutral |
+eine Wohnung kündigen | den Mietvertrag beenden | Wir haben unsere {{Wohnung}} zum Monatsende {{gekündigt}}. | to give notice on a flat | We've given notice on our flat for the end of the month. | | neutral |
+Wurzeln schlagen | heimisch werden | In Berlin hat sie schnell {{Wurzeln geschlagen}}. | to put down roots | She soon put down roots in Berlin. | | neutral | R
+Alarm schlagen | warnen | Die Ärzte {{schlagen Alarm}}: Es gibt zu wenig Personal. | to sound the alarm | Doctors are sounding the alarm: there aren't enough staff. | | neutral |
+einen Weg einschlagen | eine Richtung wählen | Nach der Schule {{schlug}} er {{einen}} ganz anderen {{Weg ein}}. | to take a path | After school he took a completely different path. | | formal |
+eine Brücke schlagen | eine Verbindung herstellen | Der Film {{schlägt eine Brücke}} zwischen den Generationen. | to bridge | The film bridges the gap between generations. | | formal | R
+starker Verkehr | viele Autos auf der Straße | Wegen {{starken Verkehrs}} kam ich zu spät. | heavy traffic | I was late because of heavy traffic. | Nicht: <i>schwerer Verkehr</i> | neutral |
+starker Raucher | jemand, der viel raucht | Mein Opa war ein {{starker Raucher}}. | heavy smoker | My grandad was a heavy smoker. | | neutral |
+hohes Fieber | Fieber mit hoher Temperatur | Das Kind hat {{hohes Fieber}}. | a high temperature | The child has a high temperature. | | neutral |
+dichter Nebel | Nebel, durch den man wenig sieht | Bei {{dichtem Nebel}} fahren Sie bitte langsam. | thick fog | Please drive slowly in thick fog. | | neutral |
+heftiger Regen | sehr starker Regen | {{Heftiger Regen}} führte zu Überschwemmungen. | heavy rain | Heavy rain led to flooding. | | neutral |
+ein schwerer Fehler | ein großer, ernster Fehler | Das war ein {{schwerer Fehler}}. | a serious mistake | That was a serious mistake. | | neutral |
+eine wichtige Entscheidung | eine Entscheidung mit großen Folgen | Wir stehen vor einer {{wichtigen Entscheidung}}. | an important decision | We're facing an important decision. | | neutral |
+eine scharfe Kritik | eine sehr deutliche Kritik | Der Plan stieß auf {{scharfe Kritik}}. | sharp criticism | The plan met with sharp criticism. | <i>auf Kritik stoßen</i> | neutral |
+ein dringender Verdacht | ein starker Verdacht | Gegen ihn besteht ein {{dringender Verdacht}}. | strong suspicion | He is under strong suspicion. | Juristisch: <i>dringend tatverdächtig</i> | formal | R
+eine knappe Mehrheit | eine sehr kleine Mehrheit | Der Antrag wurde mit {{knapper Mehrheit}} angenommen. | a narrow majority | The motion was passed by a narrow majority. | | formal |
+eine heikle Frage | eine schwierige, unangenehme Frage | Das ist eine {{heikle Frage}}. | a delicate question | That's a delicate question. | | neutral |
+ein triftiger Grund | ein überzeugender Grund | Ohne {{triftigen Grund}} darf man nicht fehlen. | a good reason | You may not be absent without good reason. | <i>triftig</i> fast nur mit <i>Grund</i> | formal | R
+ein reges Interesse | großes, lebhaftes Interesse | Die Ausstellung stieß auf {{reges Interesse}}. | keen interest | The exhibition attracted keen interest. | | formal | R
+ein fester Bestandteil | ein Teil, der immer dazugehört | Sport ist ein {{fester Bestandteil}} meines Alltags. | an integral part | Sport is an integral part of my daily life. | | neutral |
+ein offenes Geheimnis | etwas, das alle wissen | Dass er gehen will, ist ein {{offenes Geheimnis}}. | an open secret | It's an open secret that he wants to leave. | | neutral |
+eine bittere Enttäuschung | eine sehr schmerzhafte Enttäuschung | Das Ergebnis war eine {{bittere Enttäuschung}}. | a bitter disappointment | The result was a bitter disappointment. | | neutral |
+ein dringendes Anliegen | eine wichtige Bitte | Ich habe ein {{dringendes Anliegen}}. | an urgent matter | I have an urgent matter. | | formal |
+ein zentrales Anliegen | ein sehr wichtiges Ziel | Bildung ist ein {{zentrales Anliegen}} der Regierung. | a central concern | Education is a central concern of the government. | | formal |
+in hohem Maße | sehr stark | Die Region ist {{in hohem Maße}} vom Tourismus abhängig. | to a large extent | The region depends to a large extent on tourism. | | formal |
+von großer Bedeutung | sehr wichtig | Diese Entdeckung ist {{von großer Bedeutung}}. | of great importance | This discovery is of great importance. | | formal |
+mit Nachdruck | mit Betonung, energisch | Sie forderte {{mit Nachdruck}} eine Erklärung. | emphatically | She emphatically demanded an explanation. | | formal | R
+in aller Ruhe | ganz ohne Eile | Lies den Vertrag {{in aller Ruhe}} durch. | at one's leisure | Read through the contract at your leisure. | | neutral |
+auf Anhieb | sofort, beim ersten Versuch | Er hat die Prüfung {{auf Anhieb}} bestanden. | at the first attempt | He passed the exam at the first attempt. | | neutral |

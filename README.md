@@ -19,6 +19,7 @@ Everything Anki in one place: the decks I make, the add-ons I build, and a backu
 |---|---|---|
 | [English Expressions](decks/english-expressions/) ([download](https://github.com/ntfifwyb/anki-setup/releases/download/english-expressions/English_Expressions.apkg)) | 444 | Phrases, collocations and idioms by context: IELTS, work, emails, negotiating, emotions, friends and more, with audio |
 | [German Verbs](decks/german-verbs/) ([download](https://github.com/ntfifwyb/anki-setup/releases/download/german-verbs/German_Verbs.apkg)) | 1,994 | The 2,000 most common German verbs by frequency: German definition, principal parts, gapped example sentence, a second meaning for 174 common verbs, with audio |
+| [German Expressions](decks/german-expressions/) ([download](https://github.com/ntfifwyb/anki-setup/releases/download/german-expressions/German_Expressions.apkg)) | 514 | Funktionsverbgefüge, verb + preposition + case, collocations, discussion, work/email phrases and idioms for B2→C1, in subdecks by type, with audio |
 
 ## Add-ons
 

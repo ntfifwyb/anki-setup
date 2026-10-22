@@ -1,0 +1,60 @@
+# Work, meetings and formal emails: the set phrases Germans actually write and say at work.
+# expression | German meaning | example | English | English example | notes | register | R
+Sehr geehrte Damen und Herren, | formelle Anrede, wenn man den Namen nicht kennt | {{Sehr geehrte Damen und Herren}}, ich schreibe Ihnen wegen meiner Bestellung. | Dear Sir or Madam | Dear Sir or Madam, I'm writing to you about my order. | Danach klein weiter: <i>ich schreibe …</i> | formal |
+Mit freundlichen Grüßen | formeller Gruß am Ende | {{Mit freundlichen Grüßen}}, Anna Schmidt | Kind regards, Yours faithfully | Kind regards, Anna Schmidt | Kein Komma danach; Abkürzung <i>MfG</i> nur intern | formal |
+Viele Grüße / Beste Grüße | halbformeller Gruß | {{Beste Grüße}} aus Hamburg, Jan | Best wishes | Best wishes from Hamburg, Jan | Unter Kollegen üblich | neutral |
+Vielen Dank für Ihre Nachricht | Dank für eine E-Mail | {{Vielen Dank für Ihre Nachricht}} vom 12. März. | thank you for your message | Thank you for your message of 12 March. | | formal |
+Bezug nehmend auf … / Bezugnehmend auf … | was … betrifft (Briefanfang) | {{Bezug nehmend auf}} unser Gespräch sende ich Ihnen das Angebot. | with reference to | With reference to our conversation, I'm sending you the quote. | Gilt als steif; moderner: <i>wie besprochen</i> | formal | R
+wie besprochen | wie wir es vereinbart haben | {{Wie besprochen}} schicke ich Ihnen die Unterlagen. | as discussed | As discussed, I'm sending you the documents. | | neutral |
+im Anhang finden Sie … | angehängt ist … | {{Im Anhang finden Sie}} meinen Lebenslauf. | please find attached | Please find attached my CV. | Auch: <i>Anbei sende ich Ihnen …</i> | formal |
+anbei | mit dieser Nachricht zusammen | {{Anbei}} sende ich Ihnen die Rechnung. | enclosed, attached | Please find the invoice attached. | | formal |
+Ich wende mich an Sie, weil … | ich schreibe Ihnen, weil … | {{Ich wende mich an Sie, weil}} ich ein Problem mit meinem Vertrag habe. | I'm contacting you because | I'm contacting you because I have a problem with my contract. | | formal |
+Ich möchte mich nach … erkundigen | ich möchte Informationen über … | {{Ich möchte mich nach}} dem Stand meiner Bewerbung {{erkundigen}}. | I'd like to enquire about | I'd like to enquire about the status of my application. | | formal |
+Könnten Sie mir bitte mitteilen, … | bitte sagen Sie mir, … | {{Könnten Sie mir bitte mitteilen}}, wann die Lieferung kommt? | could you please let me know | Could you please let me know when the delivery will arrive? | | formal |
+Ich wäre Ihnen dankbar, wenn … | bitte (sehr höflich) | {{Ich wäre Ihnen dankbar, wenn}} Sie mir bis Freitag antworten könnten. | I would be grateful if | I'd be grateful if you could reply by Friday. | | formal |
+für Rückfragen stehe ich gern zur Verfügung | bei Fragen können Sie mich kontaktieren | {{Für Rückfragen stehe ich}} Ihnen {{gern zur Verfügung}}. | I'm happy to answer any questions | I'm happy to answer any further questions. | | formal |
+Ich freue mich auf Ihre Antwort | ich hoffe, Sie antworten bald | {{Ich freue mich auf Ihre Antwort}}. | I look forward to hearing from you | I look forward to hearing from you. | | formal |
+Ich melde mich (bei Ihnen) | ich nehme wieder Kontakt auf | Ich prüfe das und {{melde mich}} morgen {{bei Ihnen}}. | I'll get back to you | I'll check it and get back to you tomorrow. | | neutral |
+Leider muss ich Ihnen mitteilen, dass … | ich habe eine schlechte Nachricht | {{Leider muss ich Ihnen mitteilen, dass}} die Stelle bereits vergeben ist. | I regret to inform you that | I regret to inform you that the position has already been filled. | | formal |
+Entschuldigen Sie die späte Antwort | Entschuldigung für die Verzögerung | {{Entschuldigen Sie die späte Antwort}}, ich war im Urlaub. | sorry for the late reply | Sorry for the late reply, I was on holiday. | | neutral |
+Ich bin bis … nicht im Büro | Abwesenheitsnotiz | {{Ich bin bis}} zum 20. August {{nicht im Büro}}. | I'm out of the office until | I'm out of the office until 20 August. | In dringenden Fällen wenden Sie sich bitte an … | neutral |
+in dringenden Fällen | wenn es eilig ist | {{In dringenden Fällen}} erreichen Sie mich mobil. | in urgent cases | In urgent cases you can reach me on my mobile. | | formal |
+auf dem neuesten Stand | aktuell | Ist die Liste {{auf dem neuesten Stand}}? | up to date | Is the list up to date? | | neutral |
+den Überblick behalten / verlieren | die Übersicht haben / nicht mehr haben | Bei so vielen E-Mails {{verliere}} ich {{den Überblick}}. | to keep / lose track | With so many emails I lose track. | | neutral |
+etwas auf den Punkt bringen | kurz und genau sagen | Sie hat das Problem {{auf den Punkt gebracht}}. | to get to the point | She put her finger on the problem. | | neutral |
+auf die Tagesordnung setzen | als Thema für eine Sitzung planen | Wir sollten das Thema {{auf die Tagesordnung setzen}}. | to put on the agenda | We should put the topic on the agenda. | | formal |
+Tagesordnungspunkt | ein Thema in einer Sitzung | Kommen wir zu {{Tagesordnungspunkt}} drei. | agenda item | Let's move on to item three. | Abkürzung: <i>TOP</i> | formal |
+eine Besprechung ansetzen | eine Sitzung planen | Ich {{setze}} für Montag eine {{Besprechung an}}. | to schedule a meeting | I'm scheduling a meeting for Monday. | | neutral |
+Feierabend machen | mit der Arbeit für heute aufhören | Ich {{mache}} heute früher {{Feierabend}}. | to finish work | I'm finishing work early today. | | neutral |
+Überstunden machen | länger als vereinbart arbeiten | Diese Woche musste ich viele {{Überstunden machen}}. | to work overtime | This week I had to do a lot of overtime. | | neutral |
+krankgeschrieben sein | vom Arzt für arbeitsunfähig erklärt sein | Sie {{ist}} noch bis Freitag {{krankgeschrieben}}. | to be on sick leave | She's on sick leave until Friday. | Sich krankmelden = dem Arbeitgeber sagen, dass man krank ist | neutral |
+sich krankmelden | dem Arbeitgeber sagen, dass man krank ist | Ich muss {{mich}} heute {{krankmelden}}. | to call in sick | I have to call in sick today. | | neutral |
+Urlaub nehmen / beantragen | freie Tage haben wollen | Ich {{habe}} zwei Wochen {{Urlaub beantragt}}. | to take / request leave | I've requested two weeks' leave. | | neutral |
+im Homeoffice arbeiten | von zu Hause arbeiten | Freitags {{arbeite}} ich {{im Homeoffice}}. | to work from home | On Fridays I work from home. | | neutral |
+ein Vorstellungsgespräch führen / haben | ein Interview für eine Stelle | Morgen {{habe}} ich {{ein Vorstellungsgespräch}}. | to have a job interview | I have a job interview tomorrow. | | neutral |
+eine Stelle antreten | eine neue Arbeit beginnen | Sie {{tritt}} im Mai {{eine}} neue {{Stelle an}}. | to start a job | She starts a new job in May. | | formal |
+gekündigt werden / kündigen | entlassen werden / die Arbeit aufgeben | Nach zehn Jahren {{hat}} er {{gekündigt}}. | to be dismissed / to resign | After ten years he quit. | Der Arbeitgeber kündigt jdm.; der Arbeitnehmer kündigt | neutral |
+eine Gehaltserhöhung bekommen | mehr Lohn erhalten | Ich {{habe}} endlich {{eine Gehaltserhöhung bekommen}}. | to get a pay rise | I've finally got a pay rise. | | neutral |
+etwas in die Wege leiten | etwas organisieren und starten | Ich {{habe}} alles Nötige {{in die Wege geleitet}}. | to set in motion | I've set everything necessary in motion. | | neutral |
+etwas zur Chefsache machen | der Chef kümmert sich persönlich | Der Vorstand hat das Thema {{zur Chefsache gemacht}}. | to make it a top priority | The board has made the issue its own priority. | | colloquial | R
+Rücksprache halten (mit + Dat.) | sich mit jemandem besprechen | Ich muss erst {{Rücksprache mit}} meiner Chefin {{halten}}. | to consult | I need to check with my boss first. | | formal |
+sich abstimmen (mit + Dat.) | sich koordinieren | Bitte {{stimmen Sie sich mit}} dem Vertrieb {{ab}}. | to coordinate | Please coordinate with sales. | | neutral |
+unter vier Augen | allein, ohne andere | Können wir {{unter vier Augen}} sprechen? | in private | Can we speak in private? | | neutral |
+am Ball bleiben | weitermachen, dranbleiben | Bei dem Projekt müssen wir {{am Ball bleiben}}. | to stay on the ball | We need to stay on top of this project. | | colloquial |
+an einem Strang ziehen | gemeinsam auf ein Ziel hinarbeiten | Wenn wir alle {{an einem Strang ziehen}}, schaffen wir das. | to pull together | If we all pull together, we'll manage it. | | neutral |
+Hand in Hand arbeiten | eng zusammenarbeiten | Die Abteilungen {{arbeiten Hand in Hand}}. | to work hand in hand | The departments work hand in hand. | | neutral |
+etwas im Griff haben | etwas kontrollieren können | Keine Sorge, ich {{habe}} das {{im Griff}}. | to have under control | Don't worry, I've got it under control. | | neutral |
+unter Zeitdruck stehen | wenig Zeit haben | Wir {{stehen}} gerade stark {{unter Zeitdruck}}. | to be under time pressure | We're under a lot of time pressure right now. | | neutral |
+etwas auf die lange Bank schieben | etwas immer wieder verschieben | {{Schieb}} die Steuererklärung nicht {{auf die lange Bank}}! | to put off | Don't keep putting off your tax return! | | colloquial |
+eine Absage erhalten | eine negative Antwort bekommen | Ich {{habe}} leider {{eine Absage erhalten}}. | to be turned down | Unfortunately I was turned down. | Gegenteil: <i>eine Zusage</i> | neutral |
+eine Zusage erhalten | eine positive Antwort bekommen | Sie {{hat}} für die Stelle {{eine Zusage erhalten}}. | to receive an offer | She's been offered the job. | | neutral |
+Erfahrung mitbringen | schon Erfahrung haben | Sie {{bringen}} mindestens drei Jahre {{Erfahrung}} im Vertrieb {{mit}}. | to have experience | You have at least three years' experience in sales. | Typisch in Stellenanzeigen | formal |
+Kenntnisse vorweisen | Wissen nachweisen können | Bewerber sollten gute {{Kenntnisse}} in Englisch {{vorweisen}} können. | to have knowledge | Applicants should have good English skills. | | formal | R
+zu Ihrer Information | damit Sie es wissen | {{Zu Ihrer Information}}: Die Sitzung beginnt eine Stunde später. | for your information | For your information: the meeting starts an hour later. | Abkürzung: <i>zur Info</i>, <i>z. I.</i> | neutral |
+zur Kenntnis | (in E-Mails) zur Information, ohne Antwort | Ich leite Ihnen die Mail {{zur Kenntnis}} weiter. | for your information | I'm forwarding you the email for your information. | | formal | R
+in Kopie | (E-Mail) auch an jemanden geschickt | Ich habe Frau Müller {{in Kopie}} gesetzt. | in copy, cc'd | I've copied Ms Müller in. | Auch: <i>in CC</i> | neutral |
+Termine koordinieren | Termine abstimmen | Ich {{koordiniere}} die {{Termine}} für das Team. | to coordinate appointments | I coordinate the team's appointments. | | neutral |
+im Rahmen + Gen. | als Teil von | {{Im Rahmen}} des Projekts haben wir neue Partner gewonnen. | as part of | As part of the project we gained new partners. | | formal |
+in Absprache mit + Dat. | nach Abstimmung mit | {{In Absprache mit}} der Geschäftsführung verschieben wir den Termin. | in consultation with | In consultation with management, we're postponing the date. | | formal |
+zu Händen (von) | (Brief) an eine bestimmte Person | {{Zu Händen}} Herrn Weber | for the attention of | For the attention of Mr Weber | Abkürzung: <i>z. Hd.</i> | formal | R
+fristgerecht | innerhalb der Frist | Bitte reichen Sie die Unterlagen {{fristgerecht}} ein. | by the deadline | Please submit the documents by the deadline. | | formal |

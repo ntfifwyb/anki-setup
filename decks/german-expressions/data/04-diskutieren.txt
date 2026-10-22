@@ -1,0 +1,74 @@
+# Phrases for discussing and arguing, in speech and writing (C1 Redemittel: Meinung, Zustimmung, Widerspruch, Struktur, Einschränkung).
+# expression | German meaning | example | English | English example | notes | register | R
+meiner Meinung nach | ich finde | {{Meiner Meinung nach}} ist das Projekt zu teuer. | in my opinion | In my opinion the project is too expensive. | Danach Verb an Position 2: <i>… ist das …</i> | neutral |
+meines Erachtens | meiner Meinung nach (formell) | {{Meines Erachtens}} fehlt hier eine klare Strategie. | in my view | In my view a clear strategy is missing here. | Abkürzung: <i>m. E.</i> | formal | R
+ich bin der Ansicht, dass … | ich meine, dass … | {{Ich bin der Ansicht, dass}} wir mehr Personal brauchen. | I take the view that | I take the view that we need more staff. | | formal |
+ich vertrete die Auffassung, dass … | ich meine fest, dass … | {{Ich vertrete die Auffassung, dass}} Bildung kostenlos sein muss. | I hold the view that | I hold the view that education must be free. | | formal | R
+aus meiner Sicht | aus meiner Perspektive | {{Aus meiner Sicht}} spricht nichts dagegen. | from my point of view | From my point of view there's nothing against it. | | neutral |
+was mich betrifft | für mich persönlich | {{Was mich betrifft}}, ich komme gern mit. | as far as I'm concerned | As far as I'm concerned, I'm happy to come along. | | neutral |
+ich bin fest davon überzeugt, dass … | ich glaube sicher, dass … | {{Ich bin fest davon überzeugt, dass}} es klappen wird. | I'm firmly convinced that | I'm firmly convinced it will work. | | neutral |
+da bin ich ganz Ihrer Meinung | ich stimme völlig zu | {{Da bin ich ganz Ihrer Meinung}}. | I completely agree with you | I completely agree with you there. | Informell: <i>Da bin ich ganz deiner Meinung.</i> | neutral |
+da haben Sie völlig recht | Sie haben recht | {{Da haben Sie völlig recht}}, das hatte ich vergessen. | you're absolutely right | You're absolutely right, I'd forgotten that. | | neutral |
+das sehe ich genauso | ich habe dieselbe Meinung | {{Das sehe ich genauso}}. | I see it the same way | I see it exactly the same way. | | neutral |
+dem kann ich nur zustimmen | ich stimme völlig zu | {{Dem kann ich nur zustimmen}}. | I can only agree | I can only agree with that. | | formal |
+da muss ich Ihnen widersprechen | ich habe eine andere Meinung | {{Da muss ich Ihnen widersprechen}}: Die Zahlen sagen etwas anderes. | I have to disagree with you | I have to disagree with you there: the figures say otherwise. | | formal |
+das sehe ich anders | ich habe eine andere Meinung | Ehrlich gesagt {{sehe ich das anders}}. | I see it differently | To be honest, I see it differently. | Höflicher Widerspruch | neutral |
+da bin ich mir nicht so sicher | ich zweifle daran | {{Da bin ich mir nicht so sicher}}. | I'm not so sure about that | I'm not so sure about that. | Sehr vorsichtiger Widerspruch | neutral |
+das kann man so nicht sagen | das ist zu einfach | {{Das kann man so nicht sagen}}, es gibt auch Ausnahmen. | you can't really say that | You can't really put it like that; there are exceptions too. | | neutral |
+das stimmt zwar, aber … | Zustimmung mit Einschränkung | {{Das stimmt zwar, aber}} man muss auch die Kosten sehen. | that's true, but | That's true, but you have to consider the cost too. | | neutral |
+einerseits …, andererseits … | auf der einen Seite …, auf der anderen | {{Einerseits}} ist die Stadt teuer, {{andererseits}} bietet sie viel. | on the one hand …, on the other | On the one hand the city is expensive, on the other it offers a lot. | | neutral |
+im Gegensatz zu + Dat. | anders als | {{Im Gegensatz zu}} seinem Bruder ist er sehr ruhig. | unlike, in contrast to | Unlike his brother, he's very quiet. | | neutral |
+im Vergleich zu + Dat. | verglichen mit | {{Im Vergleich zum}} Vorjahr sind die Preise gestiegen. | compared with | Compared with last year, prices have risen. | | neutral |
+im Hinblick auf + Akk. | in Bezug auf | {{Im Hinblick auf}} die Wahlen ist das ein wichtiges Thema. | with regard to | With regard to the elections, that's an important issue. | | formal |
+in Bezug auf + Akk. | was … betrifft | {{In Bezug auf}} die Kosten gibt es noch Fragen. | regarding | There are still questions regarding the costs. | | formal |
+hinsichtlich + Gen. | in Bezug auf | {{Hinsichtlich}} der Finanzierung gibt es noch Unklarheiten. | regarding | Regarding the financing, there are still uncertainties. | Mit Genitiv; Amtssprache | formal | R
+angesichts + Gen. | wenn man … betrachtet | {{Angesichts}} der hohen Kosten verzichten wir darauf. | in view of | In view of the high costs we're doing without it. | Mit Genitiv | formal |
+aufgrund + Gen. | wegen | {{Aufgrund}} des Streiks fallen alle Züge aus. | due to | Due to the strike, all trains are cancelled. | Auch: <i>auf Grund</i> | formal |
+infolge + Gen. | als Folge von | {{Infolge}} des Unfalls war die Autobahn gesperrt. | as a result of | As a result of the accident, the motorway was closed. | | formal | R
+zum einen …, zum anderen … | erstens …, zweitens … | {{Zum einen}} fehlt das Geld, {{zum anderen}} die Zeit. | for one thing …, for another | For one thing there's no money, for another no time. | | neutral |
+nicht nur …, sondern auch … | sowohl … als auch | Er spricht {{nicht nur}} Deutsch, {{sondern auch}} Japanisch. | not only … but also | He speaks not only German but also Japanese. | | neutral |
+sowohl … als auch … | das eine und das andere | Das Angebot gilt {{sowohl}} für Studenten {{als auch}} für Rentner. | both … and | The offer applies to both students and pensioners. | | neutral |
+weder … noch … | nicht das eine und nicht das andere | Ich habe {{weder}} Zeit {{noch}} Lust. | neither … nor | I have neither the time nor the inclination. | | neutral |
+je …, desto … | wenn mehr …, dann mehr … | {{Je}} früher wir anfangen, {{desto}} besser. | the …, the … | The sooner we start, the better. | Auch: <i>je …, umso …</i> | neutral |
+es lässt sich nicht leugnen, dass … | es ist klar, dass … | {{Es lässt sich nicht leugnen, dass}} die Lage ernst ist. | it can't be denied that | It can't be denied that the situation is serious. | | formal | R
+es steht außer Frage, dass … | es ist sicher, dass … | {{Es steht außer Frage, dass}} wir handeln müssen. | there's no question that | There's no question that we must act. | | formal |
+es liegt auf der Hand, dass … | es ist offensichtlich, dass … | {{Es liegt auf der Hand, dass}} das nicht funktioniert. | it's obvious that | It's obvious that won't work. | | neutral |
+es ist fraglich, ob … | man weiß nicht sicher, ob … | {{Es ist fraglich, ob}} die Pläne umgesetzt werden. | it's doubtful whether | It's doubtful whether the plans will be implemented. | | formal |
+das hängt davon ab, ob … | es kommt darauf an, ob … | {{Das hängt davon ab, ob}} wir genug Geld haben. | that depends on whether | That depends on whether we have enough money. | | neutral |
+unter der Voraussetzung, dass … | nur wenn … | Ich mache mit, {{unter der Voraussetzung, dass}} ich bezahlt werde. | on condition that | I'll take part on condition that I get paid. | | formal |
+vorausgesetzt, (dass) … | nur wenn | Wir fahren morgen, {{vorausgesetzt}}, das Wetter ist gut. | provided that | We'll go tomorrow, provided the weather is good. | | neutral |
+es sei denn, … | außer wenn | Ich komme, {{es sei denn}}, ich muss länger arbeiten. | unless | I'll come, unless I have to work late. | | neutral |
+im Grunde genommen | eigentlich, im Kern | {{Im Grunde genommen}} haben wir dasselbe Ziel. | basically | Basically we have the same goal. | | neutral |
+im Großen und Ganzen | insgesamt, im Allgemeinen | {{Im Großen und Ganzen}} bin ich zufrieden. | on the whole | On the whole I'm satisfied. | | neutral |
+alles in allem | zusammengefasst | {{Alles in allem}} war es ein gelungener Abend. | all in all | All in all it was a successful evening. | | neutral |
+zusammenfassend lässt sich sagen, dass … | als Fazit | {{Zusammenfassend lässt sich sagen, dass}} die Maßnahme wirkt. | to sum up | To sum up, the measure is working. | Typisch für den Schluss eines Textes | formal |
+abschließend möchte ich … | zum Schluss möchte ich … | {{Abschließend möchte ich}} allen für ihre Mitarbeit danken. | finally, I would like to | Finally, I'd like to thank everyone for their work. | | formal |
+an erster Stelle | als Wichtigstes | {{An erster Stelle}} steht für uns die Sicherheit. | first and foremost | For us, safety comes first. | | neutral |
+nicht zuletzt | auch sehr wichtig (am Ende genannt) | Wir sind erfolgreich, {{nicht zuletzt}} dank unseres Teams. | not least | We're successful, not least thanks to our team. | | formal |
+darüber hinaus | außerdem | {{Darüber hinaus}} bietet das Hotel einen Wellnessbereich. | in addition, moreover | In addition, the hotel offers a spa. | | formal |
+des Weiteren | außerdem (formell) | {{Des Weiteren}} ist zu beachten, dass … | furthermore | Furthermore, it should be noted that … | | formal | R
+hinzu kommt, dass … | außerdem gilt, dass … | {{Hinzu kommt, dass}} die Miete stark gestiegen ist. | what's more | What's more, the rent has risen sharply. | | neutral |
+zwar …, aber … | es stimmt, dass …, aber | Das Auto ist {{zwar}} alt, {{aber}} zuverlässig. | admittedly …, but | The car is old, admittedly, but reliable. | | neutral |
+trotz + Gen. | obwohl es … gibt | {{Trotz}} des Regens gingen wir spazieren. | despite | Despite the rain we went for a walk. | Umgangssprachlich auch mit Dativ | neutral |
+dennoch | trotzdem | Es war schwierig, {{dennoch}} haben wir es geschafft. | nevertheless | It was difficult; nevertheless we managed it. | Formeller als <i>trotzdem</i> | formal |
+im Gegenteil | ganz anders, das Umgekehrte | Er ist nicht faul, {{im Gegenteil}}. | on the contrary | He's not lazy; on the contrary. | | neutral |
+im Übrigen | außerdem, übrigens | {{Im Übrigen}} wurde das schon letzte Woche besprochen. | besides, incidentally | Besides, that was already discussed last week. | | formal |
+in der Regel | normalerweise | {{In der Regel}} antworten wir innerhalb von zwei Tagen. | as a rule | As a rule we reply within two days. | | neutral |
+in erster Linie | vor allem | Es geht {{in erster Linie}} um die Sicherheit. | primarily | It's primarily about safety. | | neutral |
+vor allem | besonders | {{Vor allem}} junge Menschen nutzen die App. | above all, especially | Above all, young people use the app. | | neutral |
+insbesondere | besonders | Das gilt {{insbesondere}} für Kinder. | in particular | That applies to children in particular. | | formal |
+beispielsweise | zum Beispiel | Man kann {{beispielsweise}} mit dem Rad fahren. | for example | You can, for example, go by bike. | | neutral |
+das heißt | also, genauer gesagt | Wir treffen uns am Wochenende, {{das heißt}} am Samstag. | that is | We'll meet at the weekend, that is, on Saturday. | Abkürzung: <i>d. h.</i> | neutral |
+mit anderen Worten | anders gesagt | {{Mit anderen Worten}}: Wir haben kein Geld mehr. | in other words | In other words: we've run out of money. | | neutral |
+genauer gesagt | präziser | Sie wohnt in Bayern, {{genauer gesagt}} in München. | to be more precise | She lives in Bavaria, in Munich to be more precise. | | neutral |
+ehrlich gesagt | um die Wahrheit zu sagen | {{Ehrlich gesagt}} habe ich keine Lust. | to be honest | To be honest, I don't feel like it. | | neutral |
+streng genommen | ganz genau betrachtet | {{Streng genommen}} ist das nicht erlaubt. | strictly speaking | Strictly speaking, that's not allowed. | | neutral |
+letzten Endes | schließlich, am Ende | {{Letzten Endes}} musst du selbst entscheiden. | in the end | In the end you have to decide for yourself. | | neutral |
+auf jeden Fall | sicher, unbedingt | Ich komme {{auf jeden Fall}}. | definitely | I'll definitely come. | Gegenteil: <i>auf keinen Fall</i> | neutral |
+unter Umständen | vielleicht, wenn bestimmte Dinge passieren | {{Unter Umständen}} verschiebt sich der Termin. | possibly | The date may possibly be postponed. | Abkürzung: <i>u. U.</i> | formal |
+gegebenenfalls | wenn nötig | {{Gegebenenfalls}} melden wir uns noch einmal. | if necessary | If necessary we'll be in touch again. | Abkürzung: <i>ggf.</i> | formal | R
+zumindest | wenigstens | Das ist {{zumindest}} ein Anfang. | at least | That's at least a start. | | neutral |
+gewissermaßen | in gewisser Weise | Er ist {{gewissermaßen}} der Chef hier. | so to speak | He's the boss here, so to speak. | | formal | R
+es stellt sich die Frage, ob … | man muss fragen, ob … | {{Es stellt sich die Frage, ob}} das sinnvoll ist. | the question arises whether | The question arises whether that makes sense. | | formal |
+ein Argument dafür / dagegen ist … | ein Grund für / gegen | {{Ein Argument dafür ist}} der niedrige Preis. | an argument for / against | One argument for it is the low price. | | neutral |
+eine These aufstellen | eine Behauptung formulieren | Der Autor {{stellt die These auf}}, dass Arbeit krank macht. | to put forward a thesis | The author puts forward the thesis that work makes people ill. | | formal |
