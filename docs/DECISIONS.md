@@ -23,3 +23,11 @@
 **Choice:** the rule. `FLASHCARD_GUIDE.md` §5.6 tells whoever builds a deck (language learning, pronunciation, anything meant to be heard) to make the clips with Psittacus's voices, following `decks/english-expressions/`.
 
 **Why:** the owner builds their decks with Claude, so the audio should arrive with the deck rather than be added in Anki. The Psittacus add-on stays a standalone tool for cards written by hand (Psittacus `docs/DECISIONS.md`, same date).
+
+## 2026-10-22: German Verbs tests a second meaning for common verbs
+
+**Question:** many verbs have more than one meaning (*bestehen*: pass an exam / consist of), but each note's one sentence tests only one. Add second-meaning cards for all 529 verbs whose definition lists several meanings, or only for the top 1,000?
+
+**Choice:** the top 1,000, and only where the second meaning is distinct enough to learn on its own: 174 verbs, listed in `decks/german-verbs/senses.txt`. Each is a third card type, *Produce 2*, on the verb's existing note, with fields appended to the note type.
+
+**Why:** the verbs met most often are where a second meaning pays off; for rare verbs it would mostly add load. Keeping it on the same note keeps the GUIDs, so re-importing updates the deck (with **Merge note types** ticked) instead of adding notes. A semicolon in a definition often just rephrases one meaning (*beginnen*: starten; den Anfang machen), so those verbs got no card.
