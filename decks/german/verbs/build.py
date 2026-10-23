@@ -15,7 +15,7 @@ import genanki
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "verbs.txt")
 SENSES = os.path.join(HERE, "senses.txt")
-DECK = "Languages::German::Verbs"
+DECK = "Languages::Deutsch::Verben"
 AUDIO = os.path.join(HERE, "audio")
 LANG = "de"
 PSITTACUS = os.path.join(HERE, "..", "..", "..", "addons", "psittacus", "addon")

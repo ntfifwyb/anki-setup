@@ -1,7 +1,7 @@
-"""Build the German Anki deck (German.apkg): every subdeck folder here, packaged into one file.
+"""Build the German Anki deck (Deutsch.apkg): every subdeck folder here, packaged into one file.
 
 Each subdeck's build.py makes its notes and checks its source; this writes them all into
-Languages::German, so one import adds or updates the whole deck.
+Languages::Deutsch, so one import adds or updates the whole deck.
 """
 import importlib.util
 import os
@@ -10,7 +10,7 @@ import genanki
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PARTS = ["verbs", "expressions"]
-OUT = os.path.join(HERE, "German.apkg")
+OUT = os.path.join(HERE, "Deutsch.apkg")
 
 
 def part(name):

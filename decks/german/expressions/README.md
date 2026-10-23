@@ -1,8 +1,8 @@
-# German Expressions
+# Ausdrücke
 
 514 German expressions (629 cards) for a B2 learner working towards C1: the chunks that single words don't teach. Funktionsverbgefüge (*eine Entscheidung treffen*), verbs with their preposition and case (*sich verlassen auf + Akk.*), collocations, phrases for discussing and arguing, work and email phrases, and everyday idioms. The companion to [German Verbs](../verbs/), which teaches the verbs themselves.
 
-**Import:** this is a subdeck of the [German deck](../): download [`German.apkg`](https://github.com/ntfifwyb/anki-setup/releases/download/german/German.apkg) from its [release](https://github.com/ntfifwyb/anki-setup/releases/tag/german) and open it with Anki (or **File → Import**). This part goes into `Languages::German::Expressions`, with its audio.
+**Import:** this is a subdeck of the [Deutsch deck](../): download its `.apkg` from there and open it with Anki (or **File → Import**). This part goes into `Languages::Deutsch::Ausdrücke`, with its audio.
 
 ## Subdecks
 
@@ -44,5 +44,5 @@ Spoken by Piper's `de_DE-thorsten-high`, the voice the [Psittacus](https://githu
    ```
    uv run --no-project -p 3.13 --with genanki==0.13.1 --with piper-tts==1.8.0 --with soundfile==0.13.1 python speak.py
    ```
-3. Commit, then run `scripts/publish-deck.sh german` from the repository root. It builds `German.apkg` (`../build.py` packages this folder's `build.py`, which stops on a malformed line, a duplicate or a missing clip) and uploads it to the deck's release.
+3. Add a version to the deck's [`CHANGELOG.md`](../CHANGELOG.md) (see the [deck README](../README.md#rebuilding)), commit, then run `scripts/publish-deck.sh german` from the repository root. It builds `Deutsch.apkg` (`../build.py` packages this folder's `build.py`, which stops on a malformed line, a duplicate or a missing clip) and publishes it as a new release.
 4. Re-import the new `.apkg`. Notes keep stable IDs (from the expression), so existing cards are updated, not duplicated. Changing an expression's wording gives it a new ID.

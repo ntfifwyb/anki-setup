@@ -14,7 +14,7 @@ import genanki
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
-ROOT = "Languages::German::Expressions"
+ROOT = "Languages::Deutsch::Ausdrücke"
 AUDIO = os.path.join(HERE, "audio")
 LANG = "de"
 PSITTACUS = os.path.join(HERE, "..", "..", "..", "addons", "psittacus", "addon")

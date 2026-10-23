@@ -15,7 +15,7 @@ from pathlib import Path
 import genanki
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = "Languages::Spanish"
+ROOT = "Languages::Español"
 AUDIO = os.path.join(HERE, "audio")
 LANG = "es"
 PSITTACUS = os.path.join(HERE, "..", "..", "addons", "psittacus", "addon")

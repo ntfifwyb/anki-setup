@@ -218,7 +218,7 @@ Whenever a card's content is meant to be heard (any language deck, pronunciation
 **How.** Make the clips when the deck is built, with the voices of the owner's [Psittacus](https://github.com/ntfifwyb/psittacus) add-on, linked in this repository as the submodule `addons/psittacus` (`git submodule update --init addons/psittacus`). Its modules `core.py` and `engines.py` don't need Anki. Copy the pattern of `decks/english/` and its subdeck `decks/english/expressions/`:
 - `build.py` loads Psittacus without its Anki-only `__init__` (`psittacus()`), takes the **first** voice Psittacus picks for the deck's language from `voices.json` (`voice()`), and names each clip with `core.cache_name`, so a clip the add-on already made isn't imported twice. It stops if a clip is missing. The deck's own `build.py` (`decks/english/build.py`) packages its subdecks into one `.apkg`.
 - `speak.py` makes the missing clips into the deck's `audio/` with `core.Speaker` and only that first engine, so every clip has the name `build.py` expects. Clips already there are skipped, so rerunning it after editing a few notes is quick.
-- The clips are committed in `audio/`; the `.apkg` with them goes on the deck's release (`scripts/publish-deck.sh <deck>`), never into git.
+- The clips are committed in `audio/`; the `.apkg` with them goes on a new release of the deck (`scripts/publish-deck.sh <deck>`), never into git.
 
 **Which voice.** Psittacus decides per language, from a listening test the owner did:
 
@@ -294,7 +294,7 @@ Every engine also needs `soundfile==0.13.1`; the exact versions are in the submo
 
 ## 8. Deck structure, tags and size
 
-- **Decks**: few and broad, using `::` for hierarchy. `Languages::German`, `Artificial Intelligence`, `Certifications::AWS ML Engineer`. Anki recommends using tags rather than lots of small decks.
+- **Decks**: few and broad, using `::` for hierarchy. `Languages::Deutsch`, `Artificial Intelligence`, `Certifications::AWS ML Engineer`. Anki recommends using tags rather than lots of small decks. A language deck and its subdecks are named in that language, for immersion (`Languages::Deutsch::Verben`, `Languages::Español`).
 - **Tags**: use for source, chapter, topic and priority. Lowercase, hyphenated, `::` for hierarchy: `source::deep-learning-book`, `chapter::03`, `topic::regularisation`, `priority::high`, `de::b2`.
 - **Batch size**: 20–60 notes per batch. With the default limit of 20 new cards per day, 60 notes may already be 3–6 days of new cards, especially with reversed cards.
 - **Ordering**: foundational cards first, so later cards build on them. Use the order in the file; Anki keeps it for new cards.
@@ -326,7 +326,7 @@ For cloze notes:
 #separator:tab
 #html:true
 #notetype:Cloze
-#deck:Languages::German
+#deck:Languages::Deutsch
 #tags column:3
 Die Sitzung wurde {{c1::verschoben}}, weil der Chef krank war.	verschieben – verschob – hat verschoben; <i>auf einen späteren Zeitpunkt legen</i>	de::b2 topic::arbeit
 ```

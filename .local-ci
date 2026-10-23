@@ -5,6 +5,7 @@
 # audio clip fails here. The built .apkg files are git-ignored.
 set -euo pipefail
 cd "$(dirname "$0")"
+scripts/check-release-links.sh
 # Decks name their audio clips with the Psittacus submodule's code.
 git submodule update --init -q addons/psittacus
 

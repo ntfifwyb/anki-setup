@@ -1,6 +1,6 @@
 # Locuciones, Colocaciones, Vocabulario culto
 
-Three subdecks of the [Spanish deck](../) that share one note type, one file each in `data/`:
+Three subdecks of the [Español deck](../) that share one note type, one file each in `data/`:
 
 | Subdeck | Notes | File |
 |---|---|---|
