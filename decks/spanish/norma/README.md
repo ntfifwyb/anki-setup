@@ -1,6 +1,6 @@
 # Norma y dudas
 
-92 points where educated native speakers hesitate, each as a sentence with a choice. Part of the [Spanish deck](../), in `Languages::Spanish::05 Norma y dudas`. The rules follow the RAE's *Diccionario panhispánico de dudas*, *Ortografía* (2010, with the 2023 note on *solo*) and *Nueva gramática*. Where a form is rejected by the norma culta but widespread in a region (*detrás mío* in the Río de la Plata, *se los dije* in America), the rule says so.
+92 points where educated native speakers hesitate, each as a sentence with a choice. Part of the [Español deck](../), in `Languages::Español::05 Norma y dudas`. The rules follow the RAE's *Diccionario panhispánico de dudas*, *Ortografía* (2010, with the 2023 note on *solo*) and *Nueva gramática*. Where a form is rejected by the norma culta but widespread in a region (*detrás mío* in the Río de la Plata, *se los dije* in America), the rule says so.
 
 Topics, each a tag (`topic::`): dequeísmo and queísmo, concordancia, verbos, pronombres, preposiciones, parónimos, léxico, ortografía.
 

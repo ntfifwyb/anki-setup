@@ -1,7 +1,7 @@
-"""Build the Spanish Anki deck (Spanish.apkg): every subdeck folder here, packaged into one file.
+"""Build the Spanish Anki deck (Espanol.apkg): every subdeck folder here, packaged into one file.
 
 Each subdeck's build.py checks its source and returns its notes as rows; common.add_notes fills
-their audio and adds them to Languages::Spanish, so one import adds or updates the whole deck.
+their audio and adds them to Languages::Español, so one import adds or updates the whole deck.
 """
 import importlib.util
 import os
@@ -12,7 +12,7 @@ from common import add_notes
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PARTS = ["refranes", "expresiones", "norma"]
-OUT = os.path.join(HERE, "Spanish.apkg")
+OUT = os.path.join(HERE, "Espanol.apkg")
 
 
 def part(name):

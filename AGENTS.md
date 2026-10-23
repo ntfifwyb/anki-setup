@@ -7,9 +7,11 @@ If you're asked to create Anki flashcards or a deck from this repository:
 3. Use the note types listed in `backup/settings/note_types.json` where possible.
 4. Deliver the deck in one of the formats in section 9 of the guide.
 5. **Save every deck you create to this repository**: one deck per language or subject, `decks/<deck>/` (lowercase, hyphenated, e.g. `german`), whose `build.py` packages its subdeck folders `decks/<deck>/<subdeck>/` into one `.apkg`. A new kind of card for an existing deck is a new subdeck folder there (listed in that `build.py`'s `PARTS`), not a new deck. Include:
-   - the importable file (`.apkg`, or the `.txt` import files),
+   - the `.txt` import files, or a `build.py` that writes the `.apkg` (git-ignored: publish it as a new versioned GitHub Release with `scripts/publish-deck.sh <deck>`),
    - the source data and any build script, so the deck can be edited and rebuilt,
-   - a short `README.md`: what the deck covers, its subdecks, how to import and rebuild it.
+   - a short `README.md` for the deck and for each subdeck: what it covers, how to import and rebuild it,
+   - a `CHANGELOG.md` whose newest `## x.y.z (date)` section is the version to publish (major when importing needs a step in Anki, minor for new cards, patch for fixes); the deck README and the root README link to that version's download, which `scripts/check-release-links.sh` checks.
+   Name the deck and its subdecks in Anki in the deck's own language, for immersion (`Languages::Deutsch::Verben`, `Languages::Español::01 Refranes`), and make the README's title that name; the folder keeps its English name (`decks/german/`).
    Then add the deck to the "Decks" table in the root `README.md`, commit and push.
 6. When you update an existing deck, keep note GUIDs stable so re-importing updates cards instead of duplicating them.
 

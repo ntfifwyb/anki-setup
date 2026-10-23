@@ -57,3 +57,13 @@
 **Why:** a translation deck teaches a native nothing; the gap is in precision (*zanjar*, not *terminar*, a polémica), set phrases, refranes and the norma culta. Cards are all in Spanish. Refranes show their German and English equivalent, which links to the owner's other two decks. Panhispanic because the owner reads and hears Spanish from everywhere; a tag still lets them filter one region.
 
 **Also decided by Claude (pending review):** three note types (Spanish Expression, Spanish Refrán, Spanish Norma), because each asks a different question; a single `audio/` and `common.py` at the language level, shared by the three subdeck folders, instead of copying the Psittacus helpers into each.
+
+## 2026-10-23: Decks named in their language; a release per version
+
+**Question:** the owner wants deck and subdeck names in the deck's own language (Spanish → Español), for immersion, and every published version kept on the releases page as a track record. How should versions be numbered and linked?
+
+**Choice:** Anki names in the deck's language under the shared `Languages::` parent, which stays as is because it spans languages: `Languages::Deutsch::Verben`, `Languages::Deutsch::Ausdrücke`, `Languages::Español` (its subdecks already had Spanish names); English is unchanged. Each publish creates a release tagged `<deck>-x.y.z` (SemVer: major when importing needs a step in Anki, minor for new cards, patch for fixes), titled with the native name and version (`Deutsch 2.0.0`), with the section of the deck's new `CHANGELOG.md` as notes. The READMEs link to the current version's download, and `scripts/check-release-links.sh` in `.local-ci` fails when they don't match the changelog. The former moving releases became 1.0.0; German and Spanish are 2.0.0, since the rename needs the decks renamed in Anki before importing. This replaces the moving tag of 2026-10-20 ("The .apkg lives on a GitHub Release").
+
+**Why:** a moving tag kept no history. GitHub's `releases/latest` is one per repository, not per deck, so a stable per-deck link to the newest file would need a second, duplicated release on every publish; a link bumped in the PR, guarded by CI, is simpler. Folders keep English names (`decks/german/`): they're for the repository, not for study.
+
+**Also decided by Claude (pending review):** `Ausdrücke` for German Expressions; the files are named `Deutsch.apkg` and `Espanol.apkg`, without the accent, because GitHub replaces non-ASCII characters in asset names; Anki shows the deck names from inside the file, so the accent there is intact.

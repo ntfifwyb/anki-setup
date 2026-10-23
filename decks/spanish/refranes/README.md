@@ -1,6 +1,6 @@
 # Refranes
 
-173 refranes, from the ones everyone knows but half-remembers to less common ones worth having. Part of the [Spanish deck](../), in `Languages::Spanish::01 Refranes`.
+173 refranes, from the ones everyone knows but half-remembers to less common ones worth having. Part of the [Español deck](../), in `Languages::Español::01 Refranes`.
 
 ## Card
 
