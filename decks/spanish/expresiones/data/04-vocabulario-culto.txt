@@ -1,0 +1,147 @@
+# Vocabulario culto: precise words met in reading, rarely used in speech, and the Latin phrases of educated Spanish.
+# One-word gaps show the first letter and the length of the gapped form. R adds a Recognise card (word -> meaning).
+# expresión | definición | ejemplo con {{la palabra}} | notas | registro | región | R
+abstruso | difícil de comprender | Un ensayo de prosa {{abstrusa}}, solo apto para especialistas. | | culto | | R
+prolijo | largo y detallado en exceso | Hizo una exposición {{prolija}} que aburrió a todos. | En América también «esmerado, cuidadoso»: <i>un trabajo prolijo</i>. | culto | | R
+perentorio | urgente, que no admite demora | Recibió una orden {{perentoria}} de abandonar el edificio. | | culto | | R
+acendrado | puro, sin mancha; intenso (de un sentimiento) | Lo movía un {{acendrado}} amor a su tierra. | | culto | | R
+conspicuo | ilustre, sobresaliente | Es un {{conspicuo}} miembro de la Academia. | | culto | | R
+inefable | que no se puede explicar con palabras | Sintió una alegría {{inefable}}. | | culto | | R
+inexorable | que no se puede evitar ni detener | El paso {{inexorable}} del tiempo. | | culto | |
+inveterado | antiguo, arraigado por la costumbre | Es un fumador {{inveterado}}. | | culto | | R
+egregio | insigne, ilustre | Fue un {{egregio}} científico. | | culto | | R
+prístino | primitivo, original; puro, intacto | El lago conserva su belleza {{prístina}}. | | culto | | R
+exiguo | insuficiente, escaso | Vive con un sueldo {{exiguo}}. | | culto | |
+nimio | insignificante, sin importancia | Discutieron por un detalle {{nimio}}. | | culto | | R
+proclive | inclinado o propenso a algo, normalmente negativo | Es {{proclive}} a exagerar. | | culto | |
+renuente | reacio, que se resiste a hacer algo | Se mostró {{renuente}} a firmar. | | culto | | R
+displicente | que muestra desagrado o desinterés | Nos atendió con un gesto {{displicente}}. | | culto | | R
+pusilánime | falto de ánimo y de valor | Un líder {{pusilánime}} no toma decisiones difíciles. | | culto | | R
+timorato | tímido, indeciso; que se escandaliza con facilidad | No seas tan {{timorato}} y atrévete. | | culto | | R
+obsecuente | servil, excesivamente complaciente | Lo rodeaban funcionarios {{obsecuentes}}. | En España significa sobre todo «obediente». | culto | am | R
+adusto | serio, severo, poco amable | Tenía un semblante {{adusto}}. | | culto | | R
+taciturno | callado, melancólico | Desde la muerte de su mujer está {{taciturno}}. | | culto | |
+locuaz | que habla mucho | Hoy estás muy {{locuaz}}. | | culto | |
+lacónico | breve, conciso, que usa pocas palabras | Su respuesta fue {{lacónica}}: «No». | | culto | |
+sucinto | breve, resumido | Haga una exposición {{sucinta}} de los hechos. | | culto | |
+somero | ligero, superficial | Le dio un repaso {{somero}} al informe. | | culto | | R
+pormenorizado | detallado, con todos los pormenores | Presentó un análisis {{pormenorizado}} de los gastos. | | culto | |
+ecuánime | imparcial; sereno | Un juez debe ser {{ecuánime}}. | | culto | |
+mesurado | moderado, comedido | Respondió en un tono {{mesurado}}. | | culto | |
+procaz | desvergonzado, atrevido, grosero | Hizo un comentario {{procaz}} que incomodó a todos. | | culto | | R
+soez | grosero, de mal gusto | Usaba un lenguaje {{soez}}. | | culto | |
+zafio | tosco, grosero en los modales | Su humor {{zafio}} no hace gracia a nadie. | | culto | | R
+ramplón | vulgar, chabacano, sin originalidad | Una novela de argumento {{ramplón}}. | | culto | | R
+anodino | insignificante, sin interés | Fue una reunión {{anodina}}. | | culto | |
+fútil | de poca importancia | Discutían por motivos {{fútiles}}. | | culto | |
+irrisorio | insignificante por pequeño, que mueve a risa | Le ofrecieron una cantidad {{irrisoria}}. | | culto | |
+ingente | muy grande | Requiere una cantidad {{ingente}} de trabajo. | | culto | |
+ímprobo | excesivo, agotador (de un trabajo o esfuerzo) | Fue un esfuerzo {{ímprobo}}. | | culto | | R
+denodado | intrépido, esforzado | Tras una lucha {{denodada}}, consiguieron sus derechos. | | culto | | R
+contumaz | obstinado, que persiste en el error | Es un mentiroso {{contumaz}}. | | culto | | R
+recalcitrante | que se obstina en una opinión o conducta | Los sectores más {{recalcitrantes}} rechazan la reforma. | | culto | |
+acérrimo | muy firme y tenaz (de un partidario o enemigo) | Es un {{acérrimo}} defensor del medio ambiente. | | culto | |
+impertérrito | que no se asusta ni altera | Escuchó la sentencia {{impertérrito}}. | | culto | | R
+impávido | sereno ante el peligro | Permaneció {{impávido}} durante la tormenta. | | culto | | R
+ufano | orgulloso, satisfecho de sí mismo | Llegó muy {{ufano}} con su premio. | | culto | | R
+petulante | presuntuoso, engreído | Ese tono {{petulante}} me irrita. | | culto | |
+altanero | soberbio, altivo | Contestó de forma {{altanera}}. | | culto | |
+pazguato | simple, que se pasma de todo | No seas {{pazguato}}: te están tomando el pelo. | | coloquial | esp | R
+mentecato | tonto, falto de juicio | ¡Qué {{mentecato}}! Se lo creyó todo. | | coloquial | | R
+obtuso | torpe, lento para comprender | Es demasiado {{obtuso}} para entender la ironía. | | culto | |
+sagaz | astuto, perspicaz | Es una negociadora {{sagaz}}. | | culto | |
+avezado | experimentado, acostumbrado a algo | Solo un lector {{avezado}} entenderá las alusiones. | | culto | |
+ducho | experto, hábil | Es muy {{ducho}} en informática. | | culto | |
+bisoño | nuevo, inexperto | Un equipo de jugadores {{bisoños}}. | | culto | | R
+lego | sin conocimientos de una materia | Soy {{lego}} en derecho. | | culto | |
+neófito | recién incorporado a una actividad o grupo | Un curso para {{neófitos}} en fotografía. | | culto | |
+diletante | aficionado a un arte o ciencia, sin profundizar | Es un {{diletante}}: sabe un poco de todo. | | culto | | R
+versado | instruido, experto | Está muy {{versado}} en historia medieval. | | culto | |
+elucubrar | reflexionar o imaginar sin mucho fundamento | Deja de {{elucubrar}} y espera a tener datos. | | culto | |
+colegir | deducir, inferir | De sus palabras {{colijo}} que no vendrá. | | culto | | R
+dilucidar | aclarar, explicar un asunto | El juicio deberá {{dilucidar}} quién es responsable. | | culto | |
+desentrañar | averiguar lo más oculto o difícil de algo | Intentan {{desentrañar}} el misterio. | | culto | |
+escrutar | examinar con atención; contar votos | {{Escrutó}} su rostro buscando una señal. | | culto | |
+soslayar | eludir, evitar una dificultad | El informe {{soslaya}} los problemas de fondo. | | culto | | R
+obviar | evitar, dejar de lado algo por evidente o molesto | {{Obvió}} los detalles para no alargarse. | No significa «hacer obvio». | culto | |
+postergar | aplazar, dejar para más tarde | Volvieron a {{postergar}} la reunión. | | neutral | |
+dilapidar | malgastar los bienes | {{Dilapidó}} la herencia en dos años. | | culto | |
+malversar | desviar fondos públicos a fines indebidos | Lo condenaron por {{malversar}} fondos públicos. | | formal | |
+escatimar | dar lo mínimo posible, ahorrar en exceso | No {{escatimaron}} en gastos. | También <i>no escatimar esfuerzos</i>. | neutral | |
+menoscabar | disminuir, dañar algo, sobre todo la fama o el valor | El escándalo {{menoscabó}} su prestigio. | | culto | |
+vilipendiar | despreciar, tratar con desdén | Fue {{vilipendiado}} por la prensa. | | culto | | R
+denostar | injuriar gravemente, hablar muy mal de alguien | Lo {{denostaban}} en público y lo envidiaban en privado. | | culto | | R
+encomiar | alabar mucho | Todos {{encomiaron}} su labor. | | culto | | R
+ensalzar | elogiar, enaltecer | La prensa {{ensalza}} su talento. | | culto | |
+prodigar | dar mucho, sin medida | Le {{prodigaba}} atenciones. | | culto | |
+conminar | amenazar o requerir con autoridad | El juez lo {{conminó}} a pagar en diez días. | | formal | | R
+instar | pedir con insistencia o urgencia | La ONU {{insta}} a las partes a negociar. | | formal | |
+exhortar | animar con palabras a hacer algo | El papa {{exhortó}} a los fieles a la paz. | | culto | |
+increpar | reprender con dureza | El árbitro {{increpó}} al jugador. | | culto | |
+amonestar | advertir, reprender | La profesora lo {{amonestó}} por llegar tarde. | | formal | |
+espetar | decir a alguien algo brusco o inesperado | Me {{espetó}}: «¡Eres un mentiroso!». | | culto | |
+farfullar | hablar deprisa y atropelladamente | {{Farfulló}} una excusa y se fue. | | culto | | R
+musitar | hablar en voz muy baja | {{Musitó}} una oración. | | culto | | R
+mascullar | hablar entre dientes | Se fue {{mascullando}} insultos. | | neutral | |
+departir | conversar | Pasaron la tarde {{departiendo}} en el café. | | culto | | R
+platicar | conversar | Nos sentamos a {{platicar}} un rato. | En España suena arcaico o literario. | neutral | mex |
+dirimir | resolver una controversia | Un tribunal {{dirimirá}} la disputa. | | culto | |
+arredrarse | echarse atrás por miedo | No {{se arredra}} ante nada. | | culto | | R
+amilanarse | acobardarse | No {{se amilanó}} ante las amenazas. | | culto | |
+azuzar | incitar, irritar | {{Azuzaban}} a la multitud contra la policía. | | culto | |
+soliviantar | inducir a la rebeldía; irritar | La medida {{soliviantó}} a los vecinos. | | culto | | R
+exacerbar | agravar, avivar un mal o una pasión | La crisis {{exacerbó}} las tensiones. | | culto | |
+coartar | limitar, restringir la libertad | Esa ley {{coarta}} la libertad de expresión. | | culto | |
+cercenar | recortar, disminuir | La reforma {{cercena}} derechos laborales. | | culto | |
+dimanar | provenir, proceder | Los problemas {{dimanan}} de una mala gestión. | | culto | | R
+aquiescencia | consentimiento, aprobación | Lo hizo con la {{aquiescencia}} del director. | | culto | | R
+anuencia | consentimiento | No se publicará sin la {{anuencia}} de los autores. | | culto | | R
+beneplácito | aprobación, permiso | Cuenta con el {{beneplácito}} de la junta. | | culto | |
+connivencia | tolerancia o complicidad con una falta | Actuaron en {{connivencia}} con la policía. | | culto | |
+contubernio | alianza censurable | Denunció un {{contubernio}} entre jueces y políticos. | | culto | | R
+prebenda | ventaja o privilegio, a menudo inmerecido | Repartía {{prebendas}} entre sus amigos. | | culto | | R
+sinecura | empleo bien pagado que exige poco trabajo | Su puesto en la fundación es una {{sinecura}}. | | culto | | R
+cohecho | soborno a un funcionario | Lo acusan de {{cohecho}}. | | formal | | R
+desidia | negligencia, falta de cuidado | La {{desidia}} del ayuntamiento dejó el parque abandonado. | | culto | |
+incuria | descuido, negligencia | El edificio se hundió por la {{incuria}} de sus dueños. | | culto | | R
+abulia | falta de voluntad o de energía | Lo dominaba una profunda {{abulia}}. | | culto | |
+zozobra | inquietud, angustia | Vivieron la espera con {{zozobra}}. | | culto | |
+desazón | malestar, inquietud | Me quedó una extraña {{desazón}}. | | culto | |
+resquemor | resentimiento que no se manifiesta | Aún le guarda cierto {{resquemor}}. | | culto | |
+inquina | aversión, mala voluntad | Le tiene {{inquina}} desde aquella discusión. | | culto | |
+encono | rencor arraigado | Hablaba de su exsocio con {{encono}}. | | culto | |
+ínfulas | presunción, vanidad | Tiene {{ínfulas}} de gran escritor. | | culto | |
+panegírico | discurso o escrito en alabanza de alguien | Su biografía es un {{panegírico}}, no un estudio crítico. | | culto | | R
+diatriba | discurso o escrito violento contra alguien o algo | Publicó una {{diatriba}} contra el Gobierno. | | culto | | R
+perorata | discurso largo y aburrido | Nos soltó una {{perorata}} sobre la juventud. | | coloquial | |
+galimatías | lenguaje confuso, enredo | Ese contrato es un {{galimatías}}. | | culto | |
+verborrea | exceso de palabras al hablar | Sufre de {{verborrea}}. | | neutral | |
+circunloquio | rodeo de palabras para decir algo | Sin {{circunloquios}}: ¿aceptas o no? | | culto | |
+sofisma | razonamiento falso con apariencia de verdad | Su argumento es un {{sofisma}}. | | culto | | R
+entelequia | cosa irreal, que solo existe en la imaginación | La igualdad total es una {{entelequia}}. | | culto | | R
+epítome | ejemplo perfecto; resumen | Es el {{epítome}} de la elegancia. | | culto | | R
+acervo | conjunto de bienes culturales o morales de una comunidad | El refranero forma parte del {{acervo}} popular. | | culto | |
+idiosincrasia | rasgos propios de una persona o colectividad | Lo explica la {{idiosincrasia}} del país. | | culto | |
+impronta | marca o huella que deja algo | La obra lleva la {{impronta}} de su maestro. | | culto | |
+efímero | que dura poco | La fama es {{efímera}}. | | culto | |
+sempiterno | eterno, que dura siempre | Llevaba su {{sempiterno}} sombrero. | | culto | | R
+otrora | en otro tiempo | El {{otrora}} poderoso partido es hoy irrelevante. | | culto | | R
+grosso modo | a grandes rasgos, aproximadamente | Te lo explico {{grosso modo}}. | No <i>a grosso modo</i>. | culto | |
+sui generis | singular, de su propio género | Tiene un sentido del humor {{sui generis}}. | | culto | |
+ipso facto | inmediatamente, en el acto | Si no paga, lo echan {{ipso facto}}. | | culto | |
+de facto | de hecho, aunque no de derecho | Es el líder {{de facto}} del grupo. | Opuesto: <i>de iure</i>. | culto | |
+in situ | en el lugar mismo | Los técnicos revisaron la avería {{in situ}}. | | culto | |
+a priori | antes de examinar el asunto | {{A priori}}, la idea parece buena. | Opuesto: <i>a posteriori</i>. | culto | |
+ad hoc | hecho a propósito para un fin | Crearon una comisión {{ad hoc}}. | | culto | |
+ex profeso | a propósito, deliberadamente | Lo hizo {{ex profeso}} para molestarme. | | culto | | R
+sine qua non | indispensable (condición) | Hablar inglés es condición {{sine qua non}} para el puesto. | | culto | |
+statu quo | estado de cosas existente | Los poderosos quieren mantener el {{statu quo}}. | No <i>status quo</i> en la norma académica española. | culto | |
+in extremis | en el último momento | Se salvaron {{in extremis}}. | | culto | |
+in fraganti | en el momento de cometer el delito | Lo pillaron {{in fraganti}}. | Forma adaptada; el latín es <i>in flagranti</i>. | neutral | |
+ad honorem | sin cobrar, de manera honoraria | Trabaja {{ad honorem}} en la fundación. | | culto | |
+mutatis mutandis | cambiando lo que haya que cambiar | El caso es, {{mutatis mutandis}}, igual al anterior. | | culto | | R
+vox populi | sabido por todos | Que iban a cerrar la fábrica era {{vox populi}}. | | culto | |
+ex aequo | con igual mérito, empatados | El premio se concedió {{ex aequo}} a dos novelas. | | culto | | R
+peccata minuta | cosa sin importancia, error leve | Comparado con lo otro, esto es {{peccata minuta}}. | | culto | | R
+modus operandi | manera de actuar | Todos los robos siguen el mismo {{modus operandi}}. | | culto | |
+lapsus | falta o equivocación por descuido | Fue un {{lapsus}}: quería decir «martes». | | neutral | |

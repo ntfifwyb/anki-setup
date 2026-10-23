@@ -1,0 +1,177 @@
+# Refranes: from the widely known whose exact wording or meaning slips, to the less known worth having.
+# The card shows the first part; you complete it and say what it means.
+# refrán with {{the part to complete}} | significado | German equivalent | English equivalent | notes | region
+# region: empty (general), esp, am, rioplatense, mex. Equivalents only where a real one exists.
+A caballo regalado {{no se le mira el diente}} | lo que se recibe gratis no se critica ni se le buscan defectos | Einem geschenkten Gaul schaut man nicht ins Maul | Don't look a gift horse in the mouth | Por la edad de los caballos, que se calcula mirándoles los dientes. |
+A buen entendedor, {{pocas palabras bastan}} | quien es perspicaz entiende sin que se lo expliquen todo |  | A word to the wise is enough | Variante: <i>a buen entendedor, pocas palabras</i>. | 
+Más vale pájaro en mano {{que cien volando}} | es mejor lo seguro, aunque sea poco, que lo mucho dudoso | Lieber den Spatz in der Hand als die Taube auf dem Dach | A bird in the hand is worth two in the bush | |
+En casa de herrero, {{cuchillo de palo}} | suele faltar algo precisamente donde más debería abundar | Der Schuster hat die schlechtesten Schuhe | The shoemaker's children go barefoot | Variante: <i>en casa de herrero, cuchara de palo</i>. |
+Camarón que se duerme {{se lo lleva la corriente}} | quien se descuida pierde la oportunidad o sale perjudicado |  | You snooze, you lose |  | 
+Dime con quién andas {{y te diré quién eres}} | las compañías revelan cómo es una persona | Sage mir, mit wem du umgehst, und ich sage dir, wer du bist | A man is known by the company he keeps | |
+No por mucho madrugar {{amanece más temprano}} | apresurarse no adelanta lo que tiene su tiempo | Gut Ding will Weile haben | | |
+Al que madruga, {{Dios lo ayuda}} | quien empieza temprano y es diligente tiene éxito | Morgenstund hat Gold im Mund | The early bird catches the worm | |
+Del dicho al hecho {{hay mucho trecho}} | es fácil prometer y difícil cumplir | Versprechen und Halten ist zweierlei | Easier said than done | |
+Ojos que no ven, {{corazón que no siente}} | lo que no se sabe no hace sufrir | Was ich nicht weiß, macht mich nicht heiß | Out of sight, out of mind | |
+Cría cuervos {{y te sacarán los ojos}} | quien hace favores a gente desagradecida termina perjudicado por ella | Undank ist der Welten Lohn | Bite the hand that feeds you | Se dice sobre todo de hijos o protegidos ingratos. |
+Quien siembra vientos {{recoge tempestades}} | quien provoca discordias acaba sufriendo sus consecuencias | Wer Wind sät, wird Sturm ernten | Sow the wind and reap the whirlwind | De la Biblia (Oseas 8,7). |
+Aunque la mona se vista de seda, {{mona se queda}} | las apariencias no cambian lo que alguien es | Ein Affe bleibt ein Affe, auch wenn er einen goldenen Ring trägt | You can't make a silk purse out of a sow's ear | |
+A falta de pan, {{buenas son tortas}} | si no hay lo que se quiere, hay que conformarse con lo que hay | In der Not frisst der Teufel Fliegen | Beggars can't be choosers | |
+El que no llora {{no mama}} | quien no pide o reclama no consigue nada |  | The squeaky wheel gets the grease |  | am
+Perro que ladra {{no muerde}} | quien amenaza mucho rara vez actúa | Hunde, die bellen, beißen nicht | His bark is worse than his bite | |
+Agua que no has de beber, {{déjala correr}} | no te metas en lo que no te interesa o no vas a aprovechar | | | |
+Más vale maña {{que fuerza}} | la habilidad consigue más que la fuerza bruta |  | Brain over brawn |  | 
+Quien mucho abarca, {{poco aprieta}} | quien emprende demasiadas cosas a la vez no hace bien ninguna |  | Don't bite off more than you can chew |  | 
+Más sabe el diablo por viejo {{que por diablo}} | la experiencia enseña más que el talento |  |  |  | 
+Donde manda capitán, {{no manda marinero}} | hay que obedecer a quien tiene la autoridad | | | |
+Cuando el río suena, {{agua lleva}} | todo rumor tiene algo de verdad | Wo Rauch ist, ist auch Feuer | There's no smoke without fire | Variante: <i>cuando el río suena, piedras trae</i>. |
+Al pan, pan, {{y al vino, vino}} | hay que decir las cosas claramente, sin rodeos | Das Kind beim Namen nennen | Call a spade a spade | |
+Zapatero, {{a tus zapatos}} | cada uno debe ocuparse de lo que sabe | Schuster, bleib bei deinem Leisten | Cobbler, stick to your last | |
+Cada oveja {{con su pareja}} | cada uno debe juntarse con sus semejantes | Gleich und Gleich gesellt sich gern | Birds of a feather flock together | |
+Dios los cría {{y ellos se juntan}} | las personas parecidas, sobre todo en lo malo, acaban juntas | Gleich und Gleich gesellt sich gern | Birds of a feather flock together | Suele decirse con ironía. |
+A río revuelto, {{ganancia de pescadores}} | en la confusión sacan provecho los oportunistas | Im Trüben fischen | It's good fishing in troubled waters | |
+Gato escaldado {{del agua fría huye}} | quien ha sufrido un daño se vuelve precavido incluso ante lo inofensivo | Gebranntes Kind scheut das Feuer | Once bitten, twice shy | |
+El hábito {{no hace al monje}} | la apariencia no determina lo que alguien es | Der Schein trügt | The clothes don't make the man | |
+Las apariencias {{engañan}} | no hay que juzgar por lo que parece | Der Schein trügt | Appearances can be deceptive | |
+No hay mal que por bien {{no venga}} | de una desgracia puede resultar algo bueno | Kein Unglück ist so groß, es hat ein Glück im Schoß | Every cloud has a silver lining | |
+No hay mal que dure {{cien años}} | las desgracias no son eternas | Auf Regen folgt Sonnenschein | It can't rain forever | Se completa a veces con <i>ni cuerpo que lo resista</i>. |
+A Dios rogando {{y con el mazo dando}} | hay que pedir ayuda, pero también poner el propio esfuerzo | Hilf dir selbst, so hilft dir Gott | God helps those who help themselves | |
+Quien bien te quiere {{te hará llorar}} | quien de verdad te quiere a veces te corrige o te hace sufrir por tu bien |  |  | Hoy se discute por justificar el daño en nombre del amor. | 
+Hecha la ley, {{hecha la trampa}} | toda norma tiene su forma de eludirla |  |  |  | 
+Piensa mal {{y acertarás}} | la desconfianza suele acertar sobre las intenciones ajenas | | | |
+Más vale prevenir {{que curar}} | es mejor evitar un mal que remediarlo | Vorsicht ist besser als Nachsicht | Prevention is better than cure | |
+El que avisa {{no es traidor}} | quien advierte de antemano no tiene culpa de lo que pase después |  |  |  | 
+Más vale tarde {{que nunca}} | es mejor hacer algo con retraso que no hacerlo | Besser spät als nie | Better late than never | |
+Quien calla, {{otorga}} | no protestar equivale a consentir | Wer schweigt, stimmt zu | Silence gives consent | |
+A palabras necias, {{oídos sordos}} | no hay que hacer caso de lo que dicen los tontos o los malintencionados | | Sticks and stones may break my bones, but words will never hurt me | |
+Haz bien {{y no mires a quién}} | hay que hacer el bien sin esperar nada ni elegir a quién |  |  |  | 
+Al mal tiempo, {{buena cara}} | hay que afrontar las dificultades con ánimo | Gute Miene zum bösen Spiel machen | Keep your chin up | |
+Mal de muchos, {{consuelo de tontos}} | que otros sufran lo mismo no debería consolar |  | Misery loves company | Critica que el mal ajeno sirva de consuelo. | 
+Lo que no mata {{engorda}} | algo que no hace daño evidente puede tomarse sin miedo |  |  | Coloquial, sobre todo de comida dudosa. | 
+Más vale solo {{que mal acompañado}} | es preferible la soledad a una mala compañía | Lieber allein als in schlechter Gesellschaft | Better alone than in bad company | |
+Muerto el perro, {{se acabó la rabia}} | eliminada la causa, desaparece el problema |  |  |  | 
+A rey muerto, {{rey puesto}} | quien desaparece o se va es sustituido enseguida | Der König ist tot, es lebe der König | The king is dead, long live the king | Se usa también para parejas que se reemplazan rápido. |
+De tal palo, {{tal astilla}} | los hijos se parecen a los padres | Der Apfel fällt nicht weit vom Stamm | Like father, like son | |
+Hijo de tigre {{sale pintado}} | los hijos heredan las cualidades de los padres | Der Apfel fällt nicht weit vom Stamm | The apple doesn't fall far from the tree | | am
+Genio y figura {{hasta la sepultura}} | el carácter de una persona no cambia nunca | Die Katze lässt das Mausen nicht | A leopard can't change its spots | |
+El que nace para martillo, {{del cielo le caen los clavos}} | cada uno tiene un destino del que no puede escapar | | | |
+El que nace para tamal, {{del cielo le caen las hojas}} | cada uno tiene un destino del que no puede escapar | | | Versión mexicana del refrán del martillo. | mex
+Árbol que nace torcido {{jamás su tronco endereza}} | los vicios o defectos arraigados desde el principio no se corrigen | Was Hänschen nicht lernt, lernt Hans nimmermehr | You can't teach an old dog new tricks | El alemán y el inglés son aproximados. | am
+Loro viejo {{no aprende a hablar}} | de mayor cuesta aprender cosas nuevas | Was Hänschen nicht lernt, lernt Hans nimmermehr | You can't teach an old dog new tricks | |
+El que con niños se acuesta, {{mojado se levanta}} | quien confía asuntos a gente inexperta sale perjudicado | | | |
+Ande yo caliente {{y ríase la gente}} | lo importante es la propia comodidad, no lo que digan los demás | | | De una letrilla de Góngora. |
+Sobre gustos {{no hay nada escrito}} | cada uno tiene sus preferencias y no se discuten | Über Geschmack lässt sich nicht streiten | There's no accounting for taste | Del latín <i>de gustibus non est disputandum</i>. |
+Ojo por ojo, {{diente por diente}} | ley del talión: devolver el daño en la misma medida | Auge um Auge, Zahn um Zahn | An eye for an eye, a tooth for a tooth | |
+No hay peor sordo {{que el que no quiere oír}} | es inútil convencer a quien se niega a escuchar |  | There's none so deaf as those who will not hear |  | 
+No hay peor ciego {{que el que no quiere ver}} | es inútil mostrar la verdad a quien se niega a aceptarla | | There's none so blind as those who will not see | |
+En boca cerrada {{no entran moscas}} | callar a tiempo evita problemas | Reden ist Silber, Schweigen ist Gold | Silence is golden | |
+Eres dueño de lo que callas {{y esclavo de lo que dices}} | lo dicho ya no se puede retirar; conviene medir las palabras | | | |
+Cuentas claras {{conservan amistades}} | el orden en el dinero evita conflictos entre amigos | Bei Geld hört die Freundschaft auf | Short reckonings make long friends | Variante: <i>cuentas claras, amistades largas</i>. |
+El que paga {{manda}} | quien pone el dinero decide | Wer zahlt, schafft an | He who pays the piper calls the tune | |
+Poderoso caballero {{es don Dinero}} | el dinero lo puede todo | Geld regiert die Welt | Money talks | De una letrilla de Quevedo. |
+Con la Iglesia {{hemos topado}} | se dice al encontrar un obstáculo poderoso, sobre todo una autoridad | | | Popularizado a partir del <i>Quijote</i> (<i>con la iglesia hemos dado, Sancho</i>). |
+Por la boca {{muere el pez}} | quien habla demasiado acaba perjudicándose | Reden ist Silber, Schweigen ist Gold |  |  | 
+Unos nacen con estrella {{y otros nacen estrellados}} | la suerte está repartida de forma muy desigual |  |  |  | 
+Quien a buen árbol se arrima, {{buena sombra le cobija}} | quien busca la protección de alguien poderoso sale beneficiado | | | |
+Dime de qué presumes {{y te diré de qué careces}} | quien alardea de algo suele carecer de ello | | Empty vessels make the most noise | |
+Obras son amores, {{que no buenas razones}} | el cariño se demuestra con hechos, no con palabras | Taten sagen mehr als Worte | Actions speak louder than words | |
+No se ganó Zamora {{en una hora}} | las cosas importantes requieren tiempo | Rom wurde nicht an einem Tag erbaut | Rome wasn't built in a day | Por el largo cerco de Zamora (1072). |
+Roma no se hizo {{en un día}} | las cosas importantes requieren tiempo | Rom wurde nicht an einem Tag erbaut | Rome wasn't built in a day | |
+A cada cerdo {{le llega su San Martín}} | a todo el que obra mal le llega su castigo | Jeder bekommt, was er verdient | What goes around comes around | San Martín (11 de noviembre) era tiempo de matanza. | esp
+Una golondrina {{no hace verano}} | un caso aislado no permite generalizar | Eine Schwalbe macht noch keinen Sommer | One swallow does not make a summer | |
+Lo cortés {{no quita lo valiente}} | se puede ser educado sin dejar de ser firme | | | |
+Lo que se aprende en la cuna {{siempre dura}} | lo aprendido en la infancia no se olvida | Jung gewohnt, alt getan | | |
+Más vale un mal arreglo {{que un buen pleito}} | es preferible un acuerdo imperfecto a un juicio | Ein magerer Vergleich ist besser als ein fetter Prozess | A bad compromise is better than a good lawsuit | |
+En todas partes {{cuecen habas}} | en todos lados hay problemas parecidos | Es wird überall nur mit Wasser gekocht | It's the same the world over | Se completa a veces con <i>y en mi casa a calderadas</i>. |
+En el país de los ciegos, {{el tuerto es rey}} | entre ignorantes destaca quien sabe un poco | Unter den Blinden ist der Einäugige König | In the land of the blind, the one-eyed man is king | |
+No dejes para mañana {{lo que puedas hacer hoy}} | no hay que aplazar las obligaciones | Was du heute kannst besorgen, das verschiebe nicht auf morgen | Never put off till tomorrow what you can do today | |
+Quien guarda, {{halla}} | quien es previsor y ahorra tendrá cuando necesite | Spare in der Zeit, so hast du in der Not | Waste not, want not | |
+Más vale precaver {{que tener que lamentar}} | es mejor tomar precauciones que arrepentirse | Vorsicht ist die Mutter der Porzellankiste | Better safe than sorry | |
+Tanto va el cántaro a la fuente {{que al final se rompe}} | quien se expone repetidamente a un peligro acaba sufriéndolo | Der Krug geht so lange zum Brunnen, bis er bricht | The pitcher goes so often to the well that it is broken at last | |
+A buen hambre {{no hay pan duro}} | cuando hay necesidad, cualquier cosa satisface | Hunger ist der beste Koch | Hunger is the best sauce | |
+Al freír {{será el reír}} | al final se verá quién tenía razón o quién sale ganando | Wer zuletzt lacht, lacht am besten | He who laughs last laughs best | |
+Quien ríe último {{ríe mejor}} | el triunfo definitivo es del que gana al final | Wer zuletzt lacht, lacht am besten | He who laughs last laughs best | |
+A lo hecho, {{pecho}} | hay que asumir las consecuencias de lo que se ha hecho | Wer A sagt, muss auch B sagen | You've made your bed, now lie in it | |
+Agua pasada {{no mueve molino}} | lo que ya pasó no tiene efecto ahora | Vorbei ist vorbei | Water under the bridge | |
+Arrieros somos {{y en el camino nos encontraremos}} | ya volveremos a vernos, y entonces se devolverá el favor o el agravio | Man sieht sich immer zweimal im Leben | | Suele sonar a advertencia. |
+Bicho malo {{nunca muere}} | las personas malas parecen vivir mucho o salir siempre indemnes | Unkraut vergeht nicht | Ill weeds grow apace | Variante: <i>mala hierba nunca muere</i>. |
+Cada maestrillo {{tiene su librillo}} | cada uno tiene su propia manera de hacer las cosas |  | | |
+Cobra buena fama {{y échate a dormir}} | una buena reputación se mantiene aunque después no se haga nada | | | Se completa con <i>cría fama…</i> en algunas variantes. |
+Dádivas {{quebrantan peñas}} | los regalos ablandan hasta al más duro | Kleine Geschenke erhalten die Freundschaft | | |
+De noche, {{todos los gatos son pardos}} | en la oscuridad o la confusión no se distinguen las diferencias | Nachts sind alle Katzen grau | All cats are grey in the dark | |
+De perdidos, {{al río}} | cuando ya se ha perdido mucho, se arriesga todo | | In for a penny, in for a pound | |
+Del árbol caído {{todos hacen leña}} | todos se aprovechan de quien ha caído en desgracia | | | |
+Donde las dan, {{las toman}} | quien hace daño acaba recibiéndolo | Wie du mir, so ich dir | What goes around comes around | |
+El muerto al hoyo {{y el vivo al bollo}} | tras una muerte, los vivos siguen pronto con su vida y sus intereses | | Life goes on | |
+El pez grande {{se come al chico}} | los poderosos se imponen a los débiles | Die großen Fische fressen die kleinen | Big fish eat little fish | |
+El que parte y reparte {{se queda con la mejor parte}} | quien distribuye algo sale beneficiado | | | |
+En martes, {{ni te cases ni te embarques}} | superstición: el martes trae mala suerte | | | En inglés el día aciago es el viernes 13. |
+Entre col y col, {{lechuga}} | conviene alternar lo pesado con lo agradable | | | |
+Gallina vieja {{hace buen caldo}} | las personas mayores tienen su valor y su experiencia | | | |
+Hablando del rey de Roma, {{por la puerta asoma}} | aparece justo la persona de quien se estaba hablando | Wenn man vom Teufel spricht | Speak of the devil | |
+Hombre prevenido {{vale por dos}} | quien se prepara de antemano tiene ventaja | | Forewarned is forearmed | |
+La avaricia {{rompe el saco}} | por querer demasiado se pierde lo que ya se tenía |  | Grasp all, lose all | |
+La cabra {{siempre tira al monte}} | cada uno acaba volviendo a su naturaleza | Die Katze lässt das Mausen nicht | A leopard can't change its spots | |
+La curiosidad {{mató al gato}} | ser demasiado curioso trae problemas |  | Curiosity killed the cat | |
+La letra {{con sangre entra}} | aprender exige esfuerzo; antes se usaba para justificar el castigo | | | |
+La ocasión {{hace al ladrón}} | la oportunidad tienta incluso a quien no pensaba delinquir | Gelegenheit macht Diebe | Opportunity makes the thief | |
+La ropa sucia {{se lava en casa}} | los problemas familiares o internos no se airean en público |  | Don't wash your dirty linen in public | |
+Le dijo la sartén al cazo: {{apártate, que me tiznas}} | se dice de quien critica en otro el defecto que él mismo tiene | | The pot calling the kettle black | |
+Lo bueno, si breve, {{dos veces bueno}} | la brevedad mejora lo que ya es bueno | In der Kürze liegt die Würze | Brevity is the soul of wit | De Baltasar Gracián. |
+Los últimos {{serán los primeros}} | quien hoy está abajo puede acabar arriba | Die Letzten werden die Ersten sein | The last shall be first | Del Evangelio (Mateo 20,16). |
+Más vale ser cabeza de ratón {{que cola de león}} | es mejor ser el primero en algo pequeño que el último en algo grande | Lieber der Erste im Dorf als der Zweite in Rom | Better a big fish in a small pond | |
+Muchos pocos {{hacen un mucho}} | las pequeñas cantidades acumuladas llegan a ser grandes | Kleinvieh macht auch Mist | Many a little makes a mickle | |
+Nadie es profeta {{en su tierra}} | el mérito de alguien se reconoce antes fuera que entre los suyos | Der Prophet gilt nichts in seinem Vaterland | No man is a prophet in his own land | Del Evangelio (Lucas 4,24). |
+No es oro {{todo lo que reluce}} | lo que parece valioso no siempre lo es | Es ist nicht alles Gold, was glänzt | All that glitters is not gold | |
+No hay rosa {{sin espinas}} | todo lo bueno tiene su parte molesta | Keine Rose ohne Dornen | Every rose has its thorn | |
+No vendas la piel del oso {{antes de cazarlo}} | no hay que dar por hecho lo que aún no se ha conseguido | Man soll das Fell des Bären nicht verteilen, bevor er erlegt ist | Don't count your chickens before they hatch | |
+No se puede estar en misa {{y repicando}} | no se pueden hacer a la vez dos cosas incompatibles | | You can't have your cake and eat it | |
+Nunca llueve {{a gusto de todos}} | ninguna decisión contenta a todo el mundo | Man kann es nicht allen recht machen | You can't please everyone | |
+Oveja que bala, {{bocado que pierde}} | quien se distrae hablando pierde oportunidades | | | |
+Para muestra, {{basta un botón}} | un solo ejemplo basta para probar algo | | | |
+Piedra movediza {{no cría moho}} | quien cambia constantemente no prospera, o no se estanca | Ein rollender Stein setzt kein Moos an | A rolling stone gathers no moss | Se usa en los dos sentidos, como en inglés. |
+Quien a hierro mata, {{a hierro muere}} | quien usa la violencia acaba sufriéndola | Wer das Schwert nimmt, wird durch das Schwert umkommen | Live by the sword, die by the sword | |
+Quien busca, {{halla}} | la perseverancia da resultados | Wer sucht, der findet | Seek and ye shall find | |
+Quien con lobos anda, {{a aullar se enseña}} | se acaban copiando las costumbres de las compañías | | He who lies down with dogs gets up with fleas | |
+Quien fue a Sevilla {{perdió su silla}} | quien abandona su lugar lo pierde | | Move your feet, lose your seat | En América también <i>el que se fue a la villa perdió su silla</i>. |
+Quien tiene boca {{se equivoca}} | todos podemos errar | Irren ist menschlich | To err is human | |
+Sarna con gusto {{no pica}} | lo que se hace por gusto no molesta, aunque cueste | | | Se completa con <i>y si pica, no mortifica</i>. |
+Tanto tienes, {{tanto vales}} | la sociedad valora a las personas por su dinero | Hast du was, dann bist du was | | |
+Todos los caminos {{llevan a Roma}} | hay muchas maneras de llegar al mismo fin | Viele Wege führen nach Rom | All roads lead to Rome | |
+Una cosa piensa el borracho {{y otra el bodeguero}} | cada parte ve las cosas según su interés | | | Variante: <i>… y otra el tabernero</i>. |
+Vísteme despacio, {{que tengo prisa}} | cuando hay prisa conviene ir con calma para no equivocarse | Eile mit Weile | More haste, less speed | |
+A grandes males, {{grandes remedios}} | los problemas graves exigen medidas drásticas | | Desperate times call for desperate measures | |
+A la tercera {{va la vencida}} | al tercer intento se consigue | Aller guten Dinge sind drei | Third time lucky | |
+Cuando una puerta se cierra, {{otra se abre}} | tras una pérdida surgen nuevas oportunidades | Wenn sich eine Tür schließt, öffnet sich eine andere | When one door closes, another opens | |
+El ojo del amo {{engorda al caballo}} | los bienes prosperan cuando el dueño los cuida en persona | Das Auge des Herrn mästet das Vieh | The eye of the master fattens the horse | |
+Más vale malo conocido {{que bueno por conocer}} | es preferible lo conocido, aunque imperfecto, a lo nuevo incierto | | Better the devil you know | |
+Ni tanto {{ni tan calvo}} | ni exagerar ni quedarse corto | | | |
+No hay dos {{sin tres}} | lo que ocurre dos veces suele repetirse | | Things come in threes | Se dice sobre todo de desgracias. |
+No es tan fiero el león {{como lo pintan}} | algo o alguien no es tan temible como dicen | Es wird nichts so heiß gegessen, wie es gekocht wird | The devil is not so black as he is painted | |
+Pueblo chico, {{infierno grande}} | en los lugares pequeños todos se meten en la vida ajena | | | | am
+Quien roba a un ladrón {{tiene cien años de perdón}} | engañar a quien engaña no es tan reprochable | | | |
+Al que no quiere caldo, {{tres tazas}} | lo que se rechaza suele llegar en mayor cantidad | | | |
+Al que le pique, {{que se rasque}} | quien se sienta aludido, que se aguante | | If the cap fits, wear it | |
+Cada loco {{con su tema}} | cada uno tiene su obsesión o su manía | Jedem Tierchen sein Pläsierchen | To each their own | |
+Candil de la calle, {{oscuridad de su casa}} | se dice de quien es amable con los de fuera y desagradable con los suyos | | | | am
+El que quiere celeste, {{que le cueste}} | lo que se desea exige esfuerzo | Ohne Fleiß kein Preis | No pain, no gain | | rioplatense
+Haz lo que yo digo {{y no lo que yo hago}} | se dice de quien aconseja lo que él mismo no cumple | | Do as I say, not as I do | |
+Cuando el gato no está, {{los ratones bailan}} | sin vigilancia, cada uno hace lo que quiere | Ist die Katze aus dem Haus, tanzen die Mäuse auf dem Tisch | When the cat's away, the mice will play | |
+Las paredes {{oyen}} | hay que tener cuidado con lo que se dice, aunque parezca que nadie escucha | Die Wände haben Ohren | Walls have ears | |
+Mientras hay vida, {{hay esperanza}} | no hay que darse por vencido mientras queda una posibilidad | Die Hoffnung stirbt zuletzt | While there's life, there's hope | |
+Al buen callar {{llaman Sancho}} | saber callar a tiempo es prudente | Reden ist Silber, Schweigen ist Gold | | Juego con <i>santo</i>, antiguo sinónimo de sabio y prudente. |
+Cuando las barbas de tu vecino veas pelar, {{pon las tuyas a remojar}} | lo que le pasa a otro puede pasarte a ti: prepárate | | | |
+De casta {{le viene al galgo}} | las cualidades se heredan de la familia | Der Apfel fällt nicht weit vom Stamm | It runs in the family | Completo: <i>… ser rabilargo</i>. |
+Dios aprieta, {{pero no ahoga}} | las penas tienen un límite soportable | | God never gives us more than we can bear | |
+El que se pica, {{ajos come}} | quien se ofende por un comentario general es porque se siente aludido | Getroffene Hunde bellen | If the cap fits, wear it | | esp
+Lo que natura no da, {{Salamanca no presta}} | el talento no se adquiere estudiando | | | Por la Universidad de Salamanca. |
+Muchos son los llamados {{y pocos los escogidos}} | muchos aspiran a algo, pero pocos lo logran | Viele sind berufen, aber wenige auserwählt | Many are called, but few are chosen | Del Evangelio (Mateo 22,14). |
+No hay que mentar la soga {{en casa del ahorcado}} | no se debe hablar de algo delante de quien lo ha sufrido | Im Hause des Gehenkten spricht man nicht vom Strick | Don't mention the rope in the house of a hanged man | |
+Quien no arriesga, {{no gana}} | sin correr riesgos no se consigue nada | Wer nicht wagt, der nicht gewinnt | Nothing ventured, nothing gained | |
+Después de la tormenta {{viene la calma}} | tras los momentos difíciles llega la tranquilidad | Nach dem Regen kommt Sonnenschein | After the storm comes the calm | |
+Una mano lava la otra {{y las dos lavan la cara}} | la ayuda mutua beneficia a todos | Eine Hand wäscht die andere | You scratch my back and I'll scratch yours | |
+Al que nace barrigón, {{es al ñudo que lo fajen}} | es inútil intentar corregir lo que alguien es por naturaleza | | A leopard can't change its spots | <i>Al ñudo</i>: en vano. | rioplatense
+Desgraciado en el juego, {{afortunado en amores}} | la mala suerte en algo se compensa con la buena suerte en el amor | Pech im Spiel, Glück in der Liebe | Unlucky at cards, lucky in love | |
+A la fuerza {{ahorcan}} | lo que se hace obligado, no por gusto | | Needs must | |
+En la variedad {{está el gusto}} | lo diverso es lo que hace agradable algo | Abwechslung macht das Leben süß | Variety is the spice of life | |
+Más se perdió {{en la guerra}} | consuelo ante una pérdida pequeña | | | En España, <i>más se perdió en Cuba</i>. |
+Lo barato {{sale caro}} | lo de mala calidad termina costando más | Wer billig kauft, kauft zweimal | Buy cheap, buy twice | |

@@ -1,0 +1,97 @@
+# Norma y dudas: the forms the norma culta prefers where educated natives often hesitate, following the RAE's
+# Diccionario panhispánico de dudas (DPD), its Ortografía (2010) and the Nueva gramática (NGLE).
+# The card shows the sentence with the options in brackets; you choose, and the back gives the rule.
+# frase con {{correcta/incorrecta}} | regla | tema
+# tema: dequeismo, concordancia, verbos, pronombres, preposiciones, paronimos, lexico, ortografia
+Pienso {{que/de que}} tienes razón. | Dequeísmo: <i>pensar</i> lleva complemento directo, sin <i>de</i>. Prueba: «Pienso <i>eso</i>», no «Pienso <i>de eso</i>». | dequeismo
+Opino {{que/de que}} deberíamos esperar. | Dequeísmo: <i>opinar algo</i>. Prueba: «Opino <i>eso</i>». | dequeismo
+Es posible {{que/de que}} llueva mañana. | Dequeísmo: la oración es el sujeto de <i>es posible</i>, y un sujeto nunca lleva preposición. | dequeismo
+Le dije {{que/de que}} viniera temprano. | Dequeísmo: <i>decir algo</i>. Prueba: «Le dije <i>eso</i>». | dequeismo
+Recuerdo {{que/de que}} aquel verano llovió mucho. | <i>Recordar</i> es transitivo: «recuerdo eso». En cambio, <i>acordarse</i> lleva <i>de</i>: «me acuerdo de que…». | dequeismo
+Me acuerdo {{de que/que}} aquel verano llovió mucho. | Queísmo: <i>acordarse de algo</i>. Prueba: «Me acuerdo <i>de eso</i>». | dequeismo
+Me alegro {{de que/que}} hayas venido. | Queísmo: <i>alegrarse de algo</i>. Prueba: «Me alegro <i>de eso</i>». | dequeismo
+Estoy seguro {{de que/que}} lo conseguirás. | Queísmo: <i>estar seguro de algo</i>. Prueba: «Estoy seguro <i>de eso</i>». | dequeismo
+Me di cuenta {{de que/que}} me había equivocado. | Queísmo: <i>darse cuenta de algo</i>. | dequeismo
+Insistió {{en que/que}} nos quedáramos. | Queísmo: <i>insistir en algo</i>. Prueba: «Insistió <i>en eso</i>». | dequeismo
+Estoy convencida {{de que/que}} es inocente. | Queísmo: <i>estar convencido de algo</i>. | dequeismo
+Ayer {{hubo/hubieron}} muchos accidentes. | <i>Haber</i> impersonal no tiene sujeto: <i>muchos accidentes</i> es su complemento directo, y el verbo va en singular. | concordancia
+El próximo año {{habrá/habrán}} más plazas. | <i>Haber</i> impersonal va siempre en singular, en todos los tiempos. | concordancia
+{{Debe/Deben}} de haber muchas razones para su silencio. | En la perífrasis con <i>haber</i> impersonal, el auxiliar también va en singular. | concordancia
+{{Hace/Hacen}} tres años que no lo veo. | <i>Hacer</i> referido al tiempo transcurrido es impersonal: va en singular. | concordancia
+Se {{venden/vende}} pisos. | Pasiva refleja: <i>pisos</i> es el sujeto, y el verbo concuerda con él. | concordancia
+Se {{busca/buscan}} a los responsables. | Con <i>a</i> ante personas la construcción es impersonal, sin sujeto: el verbo va en singular. | concordancia
+Me {{duelen/duele}} los pies. | <i>Los pies</i> es el sujeto (pospuesto) y concuerda con el verbo. | concordancia
+Le {{gustan/gusta}} las películas antiguas. | El sujeto de <i>gustar</i> es lo que gusta: <i>las películas</i>, en plural. | concordancia
+{{Quienes/Quien}} lo deseen pueden pasar a recoger el diploma. | El relativo concuerda en número con el verbo: <i>quienes… deseen… pueden</i>. | concordancia
+{{Esta/Este}} agua está fría. | Ante nombres femeninos con <i>a</i> tónica solo el artículo cambia a <i>el</i> (<i>el agua</i>); los demostrativos siguen en femenino. | concordancia
+Se bebió {{toda el/todo el}} agua. | <i>Agua</i> es femenino: los adjetivos y <i>todo</i> van en femenino aunque el artículo sea <i>el</i>. | concordancia
+El agua estaba muy {{fría/frío}}. | <i>Agua</i> es femenino; el artículo <i>el</i> no lo vuelve masculino. | concordancia
+Estaba {{medio/media}} dormida. | <i>Medio</i> ante adjetivo es adverbio y no varía. | concordancia
+Ayer {{anduve/andé}} diez kilómetros. | <i>Andar</i> es irregular en el pretérito: <i>anduve, anduviste, anduvo…</i> | verbos
+El resultado no lo {{satisfizo/satisfació}}. | <i>Satisfacer</i> se conjuga como <i>hacer</i>: <i>satisfice, satisfizo</i>. | verbos
+Nadie {{previó/preveyó}} la crisis. | <i>Prever</i> se conjuga como <i>ver</i>: <i>prevé, previó, previera</i>. | verbos
+Nadie podía {{prever/preveer}} lo que iba a pasar. | El infinitivo es <i>prever</i> (de <i>ver</i>), no <i>preveer</i>. No confundir con <i>proveer</i> (abastecer). | verbos
+{{Aprieta/Apreta}} el botón rojo. | <i>Apretar</i> diptonga: <i>aprieto, aprietas, aprieta</i>. | verbos
+Su testimonio {{contradijo/contradició}} al anterior. | <i>Contradecir</i> se conjuga como <i>decir</i>: <i>contradije, contradijo</i>. | verbos
+Si {{tuviera/tendría}} dinero, viajaría más. | En la condición (prótasis) va el subjuntivo, no el condicional. | verbos
+Si lo {{hubiera/habría}} sabido, no habría venido. | En la prótasis va el pluscuamperfecto de subjuntivo; el condicional va en la otra parte. | verbos
+¡{{Callaos/Callaros}}! | Imperativo de <i>vosotros</i> + <i>os</i>: se pierde la <i>-d</i> (<i>callad + os = callaos</i>). El infinitivo con valor de imperativo no es normativo. | verbos
+{{Ve/Ves}} a comprar pan. | El imperativo de <i>ir</i> para <i>tú</i> es <i>ve</i>; <i>ves</i> es de <i>ver</i>. | verbos
+¿Adónde {{fuiste/fuistes}} ayer? | La segunda persona del pretérito no lleva <i>-s</i> final: <i>fuiste, dijiste, viniste</i>. | verbos
+{{Vámonos/Vámosnos}} ya. | Ante <i>-nos</i>, la primera persona del plural del imperativo pierde la <i>-s</i>. | verbos
+{{Sentémonos/Sentémosnos}} aquí. | Ante <i>-nos</i> se pierde la <i>-s</i> final del verbo: <i>sentemos + nos = sentémonos</i>. | verbos
+Me {{dijeron/dijieron}} que esperara. | Los verbos con pretérito en <i>-j-</i> hacen <i>-eron</i>: <i>dijeron, trajeron, condujeron</i>. | verbos
+Ayer {{conduje/conducí}} hasta Sevilla. | <i>Conducir</i>: <i>conduje, condujiste, condujo</i>. | verbos
+Chocó contra un árbol {{y murió/muriendo}} en el acto. | Gerundio de posterioridad: el gerundio no expresa una acción posterior a la del verbo principal. | verbos
+Recibí una caja {{que contenía/conteniendo}} libros. | El gerundio no funciona como adjetivo especificativo: <i>una caja que contenía</i>. | verbos
+Por último, {{quiero agradecer/agradecer}} a todos su presencia. | Infinitivo introductorio: el infinitivo no puede ser el verbo principal de la oración. | verbos
+Los conductores {{deben/deben de}} respetar los límites de velocidad. | <i>Deber</i> + infinitivo expresa obligación; <i>deber de</i> + infinitivo, probabilidad («debe de ser tarde»). | verbos
+Estaba sentado detrás {{de mí/mío}}. | Tras adverbios como <i>detrás, delante, encima, cerca</i> va <i>de</i> + pronombre; el posesivo lo rechaza la norma culta. En el Río de la Plata está muy extendido, aun en el habla culta. | pronombres
+Vive cerca {{de nosotros/nuestro}}. | Tras <i>cerca</i>, <i>de</i> + pronombre: <i>cerca de nosotros</i>. | pronombres
+{{Les/Le}} expliqué la tarea a los alumnos. | El pronombre que duplica el complemento indirecto concuerda con él en número: <i>les… a los alumnos</i>. | pronombres
+A mis padres se {{lo/los}} conté todo. | En <i>se lo</i>, <i>lo</i> es el complemento directo (<i>todo</i>), en singular; el plural de los padres está en <i>se</i>, que no varía. <i>Se los</i> está muy extendido en América, pero se desaconseja en el habla culta. | pronombres
+A María {{le/la}} dije la verdad. | Laísmo: <i>a María</i> es complemento indirecto, que pide <i>le</i>. | pronombres
+El libro {{lo/le}} dejé en la mesa. | Leísmo de cosa: el complemento directo masculino de cosa es <i>lo</i>. El leísmo de persona masculina (<i>a Juan le vi</i>) se admite. | pronombres
+Subió al coche y {{lo arrancó/arrancó el mismo}}. | <i>El mismo</i> como simple pronombre es un uso burocrático desaconsejado: basta con <i>lo</i> o con un posesivo. | pronombres
+Es un autor {{cuyas/que sus}} novelas he leído todas. | Quesuismo: para la posesión, el relativo es <i>cuyo</i>, que concuerda con lo poseído. | pronombres
+{{Cuanto/Contra}} más lo pienso, menos lo entiendo. | La norma culta usa <i>cuanto más</i>; <i>contra más</i> es popular. | preposiciones
+Se sentaron {{a/en}} la mesa para cenar. | <i>Sentarse a la mesa</i> es ponerse ante ella para comer; <i>sentarse en la mesa</i> es encima de ella. | preposiciones
+{{Desde/Bajo}} mi punto de vista, es un error. | El punto de vista es un lugar desde donde se mira: <i>desde</i>, no <i>bajo</i>. | preposiciones
+{{En relación con/En relación a}} su consulta, le informamos… | La norma recomienda <i>en relación con</i> o <i>con relación a</i>; se desaconseja el cruce <i>en relación a</i>. | preposiciones
+El informe hace mención {{de/a}} varios casos. | Se dice <i>hacer mención de algo</i>. | preposiciones
+{{Basándose en/En base a}} los datos, tomaron una decisión. | El DPD desaconseja <i>en base a</i>; prefiere <i>basándose en, sobre la base de, a partir de</i>. | preposiciones
+Le ruego que me responda {{con/a}} la mayor brevedad. | La norma pide <i>con la mayor brevedad</i> o <i>cuanto antes</i>; <i>a la mayor brevedad</i> se desaconseja. | preposiciones
+Es un problema {{de la empresa/a nivel de empresa}}. | <i>A nivel de</i> solo es correcto cuando hay niveles reales: <i>a nivel del mar</i>, <i>a nivel universitario</i>. | preposiciones
+Ellos se fueron; {{por el contrario/por contra}}, nosotros nos quedamos. | <i>Por contra</i> es galicismo; se prefiere <i>por el contrario, en cambio</i>. | preposiciones
+Al reo le {{infligieron/infringieron}} un castigo cruel. | <i>Infligir</i>: causar un daño o castigo. <i>Infringir</i>: quebrantar una ley. | paronimos
+No te {{injieras/ingieras}} en mis asuntos. | <i>Injerirse</i>: entrometerse. <i>Ingerir</i>: tragar. | paronimos
+La población, {{inerme/inerte}}, no pudo defenderse. | <i>Inerme</i>: sin armas, indefenso. <i>Inerte</i>: sin vida o sin movimiento. | paronimos
+El plazo {{expira/espira}} mañana. | <i>Expirar</i>: acabarse un plazo; morir. <i>Espirar</i>: expulsar el aire. | paronimos
+El delito ya ha {{prescrito/proscrito}}. | <i>Prescribir</i>: extinguirse un derecho o una responsabilidad por el paso del tiempo; también recetar. <i>Proscribir</i>: prohibir, desterrar. | paronimos
+Tiene grandes {{aptitudes/actitudes}} para la música. | <i>Aptitud</i>: capacidad. <i>Actitud</i>: disposición de ánimo. | paronimos
+Sin {{perjuicio/prejuicio}} de lo anterior, se aplicará la nueva norma. | <i>Perjuicio</i>: daño. <i>Prejuicio</i>: juicio previo. <i>Sin perjuicio de</i>: sin descartar. | paronimos
+El país decidió {{adoptar/adaptar}} el euro. | <i>Adoptar</i>: tomar como propio. <i>Adaptar</i>: ajustar algo a otra cosa. | paronimos
+El equipo {{carece/adolece}} de experiencia. | <i>Adolecer de</i> es tener un defecto o padecer un mal, no carecer: <i>adolece de falta de experiencia</i> sí es correcto. | lexico
+El campeón recibió {{dos/sendas}} medallas. | <i>Sendos</i> significa «uno para cada uno»: <i>los dos atletas recibieron sendas medallas</i>. Con un solo receptor no tiene sentido. | lexico
+El partido {{ostenta/detenta}} el poder desde las elecciones. | <i>Detentar</i> es ejercer un poder o cargo ilegítimamente. Para un poder legítimo: <i>ostentar, ejercer</i>. | lexico
+Celebran el {{vigésimo/veinteavo}} aniversario. | <i>Vigésimo</i> es ordinal (puesto); <i>veinteavo</i> es partitivo (cada una de veinte partes). | lexico
+Quedó en el {{undécimo/onceavo}} puesto. | El ordinal es <i>undécimo</i> (u <i>onceno</i>); <i>onceavo</i> es una fracción. | lexico
+Es una revista {{bimestral/bimensual}}: sale en enero, marzo, mayo… | <i>Bimestral</i>: cada dos meses. <i>Bimensual</i>: dos veces al mes. | lexico
+No es rojo, {{sino/si no}} azul. | <i>Sino</i> (conjunción) contrapone: «no A, sino B». | ortografia
+{{Si no/Sino}} vienes, me enfado. | <i>Si no</i> es la conjunción condicional <i>si</i> + <i>no</i>. | ortografia
+No sé {{por qué/porque}} se fue. | En las interrogativas indirectas va <i>por qué</i>, separado y con tilde. | ortografia
+Explícame el {{porqué/por qué}} de tu decisión. | <i>El porqué</i> es un sustantivo (la causa): junto y con tilde. | ortografia
+{{A ver/Haber}} si llegas a tiempo. | <i>A ver</i> es la preposición <i>a</i> + el verbo <i>ver</i>. <i>Haber</i> es el verbo auxiliar. | ortografia
+Me gusta todo, {{sobre todo/sobretodo}} el final. | La locución adverbial se escribe separada; <i>sobretodo</i> es una prenda de abrigo. | ortografia
+{{Aún/Aun}} no ha llegado. | <i>Aún</i> con tilde cuando equivale a <i>todavía</i>; <i>aun</i> sin tilde cuando equivale a <i>incluso</i>: <i>aun así</i>. | ortografia
+{{Aun/Aún}} así, no pienso rendirme. | <i>Aun</i> equivale aquí a <i>incluso</i>: sin tilde. | ortografia
+{{Solo/Sólo}} quiero dormir. | La Ortografía (2010) recomienda escribir <i>solo</i> sin tilde; desde 2023 la RAE la admite solo si quien escribe percibe ambigüedad. | ortografia
+Escribió el {{guion/guión}} en dos semanas. | <i>Guion</i> es monosílabo a efectos ortográficos (diptongo): sin tilde desde 2010, como <i>truhan, fie, rio</i>. | ortografia
+Le {{dio/dió}} las gracias. | Los monosílabos no llevan tilde salvo la diacrítica: <i>dio, fue, vio</i>. | ortografia
+Nos vemos el lunes 3 de {{marzo/Marzo}}. | Los meses y los días de la semana se escriben en minúscula. | ortografia
+No sé {{qué/que}} hacer. | En las interrogativas indirectas, <i>qué</i> lleva tilde. | ortografia
+Esto es para {{ti/tí}}. | <i>Ti</i> es monosílabo y no tiene otra forma que distinguir: sin tilde. | ortografia
+Quiero que me {{dé/de}} una respuesta hoy. | <i>Dé</i> (verbo <i>dar</i>) lleva tilde diacrítica para distinguirse de la preposición <i>de</i>. | ortografia
+Espero que lo {{haya/halla}} encontrado. | <i>Haya</i> es de <i>haber</i>; <i>halla</i> es de <i>hallar</i> (encontrar). | ortografia
+Entrevistaron al {{exministro/ex ministro/ex-ministro}}. | Desde 2010 el prefijo <i>ex-</i> se escribe unido a una palabra sola; separado solo ante varias: <i>ex primer ministro</i>. | ortografia
+Le recetaron un {{antiinflamatorio/anti-inflamatorio}}. | Los prefijos se escriben unidos a la base, sin guion: <i>antiinflamatorio, posguerra, superbién</i>. | ortografia

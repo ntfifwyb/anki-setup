@@ -47,3 +47,13 @@
 **Choice:** one per language: `decks/german/` (subdecks `verbs/`, `expressions/`) and `decks/english/` (`expressions/`), each with a `build.py` that packages its subdecks into one `.apkg` (`German.apkg`, `English.apkg`) on one release (`german`, `english`). Anki's deck names don't change (`Languages::German::Verbs` …), nor do GUIDs, deck IDs or note types: the combined files hold exactly the notes of the old ones.
 
 **Why:** in Anki they already were one deck per language; the repository now matches. A new kind of card is a subdeck folder, not a new deck, release and README row. The cost is a bigger download: re-importing after a fix to one subdeck re-imports the whole language, which updates unchanged notes in place.
+
+## 2026-10-23: A Spanish deck for a native speaker
+
+**Question:** the owner is a native Spanish speaker and wants an advanced deck. What should it teach, in which variety, and how big?
+
+**Choice:** the cultured register natives rarely master, in five subdecks: Refranes, Locuciones, Colocaciones, Vocabulario culto (with Latin phrases) and Norma y dudas (the RAE's *Diccionario panhispánico de dudas*). Panhispanic, with regionalisms tagged by region and their equivalents elsewhere noted. About 600 notes to start (676 shipped).
+
+**Why:** a translation deck teaches a native nothing; the gap is in precision (*zanjar*, not *terminar*, a polémica), set phrases, refranes and the norma culta. Cards are all in Spanish. Refranes show their German and English equivalent, which links to the owner's other two decks. Panhispanic because the owner reads and hears Spanish from everywhere; a tag still lets them filter one region.
+
+**Also decided by Claude (pending review):** three note types (Spanish Expression, Spanish Refrán, Spanish Norma), because each asks a different question; a single `audio/` and `common.py` at the language level, shared by the three subdeck folders, instead of copying the Psittacus helpers into each.
