@@ -1,0 +1,154 @@
+# Locuciones: set phrases a native understands but rarely uses, from the cultured register to vivid idioms.
+# Produce: from the definition and a gapped sentence, recall the phrase. R adds a Recognise card (phrase -> meaning).
+# expresión | definición | ejemplo con {{las palabras de la expresión}} | notas | registro | región | R
+a la postre | al final, después de todo | La decisión, que parecía arriesgada, resultó {{a la postre}} la más acertada. | | culto | | R
+a la sazón | en aquel momento, entonces | Lo firmó Martínez, {{a la sazón}} ministro de Economía. | No significa «por lo tanto». | culto | | R
+a ojos vistas | de manera clara y evidente, a la vista de todos | Desde que cambió de trabajo, mejora {{a ojos vistas}}. | | culto | | R
+a troche y moche | sin orden ni medida, a diestro y siniestro | Repartía críticas {{a troche y moche}}, sin pararse a pensar. | | coloquial | | R
+a diestro y siniestro | a todos lados, sin miramiento ni tino | Repartía insultos {{a diestro y siniestro}}. | | neutral | |
+a mansalva | en gran cantidad | En la fiesta había comida {{a mansalva}}. | | coloquial | | R
+a destajo | con empeño y sin descanso; también, cobrando por obra hecha | Trabajó {{a destajo}} para entregar el proyecto a tiempo. | | neutral | | R
+a regañadientes | de mala gana, protestando | Aceptó las condiciones {{a regañadientes}}. | | neutral | |
+a hurtadillas | a escondidas, sin que nadie lo note | Salió {{a hurtadillas}} para que no lo vieran. | | neutral | |
+a la chita callando | con disimulo, en silencio, sin llamar la atención | {{A la chita callando}}, se fue quedando con la empresa. | | coloquial | esp | R
+a pie juntillas | firmemente, sin la menor duda | Se creyó {{a pie juntillas}} todo lo que le contaron. | Se dice sobre todo con <i>creer</i>. | neutral | | R
+a todas luces | de manera evidente, sin duda alguna | La medida es {{a todas luces}} insuficiente. | | culto | |
+a ciencia cierta | con total certeza | Nadie sabe {{a ciencia cierta}} qué pasó aquella noche. | | neutral | |
+a bote pronto | sin pensarlo, de improviso | Así, {{a bote pronto}}, no sabría decirte. | | coloquial | esp | R
+a vuelapluma | escrito deprisa, sin pensarlo mucho | Son unas notas escritas {{a vuelapluma}}. | | culto | | R
+a la buena de Dios | sin preparación, al azar | Fueron al examen {{a la buena de Dios}}. | | coloquial | | R
+a tenor de | según, teniendo en cuenta | {{A tenor de}} los resultados, habrá que cambiar de estrategia. | | culto | |
+a la zaga | detrás, en retraso | En innovación, el país va {{a la zaga}} de sus vecinos. | <i>No quedarse a la zaga</i>: no ser menos. | culto | | R
+a rajatabla | con todo rigor, sin excepción | Cumple las normas {{a rajatabla}}. | | neutral | |
+a trancas y barrancas | con dificultades e interrupciones | Terminó la carrera {{a trancas y barrancas}}. | | coloquial | | R
+a la deriva | sin rumbo ni dirección | Sin un líder claro, el partido va {{a la deriva}}. | | neutral | |
+a la par | a la vez, al mismo tiempo; igualados | Es una novela divertida y, {{a la par}}, profunda. | | culto | |
+a fuer de | en calidad de, a fuerza de | {{A fuer de}} sincero, te diré que no me convence. | | culto | | R
+a ultranza | con decisión, sin detenerse ante nada | Es un defensor {{a ultranza}} de la libertad de prensa. | | culto | |
+a cal y canto | completamente cerrado | Las ventanas estaban cerradas {{a cal y canto}}. | | neutral | |
+a cuerpo de rey | con toda comodidad y lujo | En casa de su abuela vivía {{a cuerpo de rey}}. | | neutral | |
+a renglón seguido | inmediatamente después | Prometió austeridad y, {{a renglón seguido}}, se subió el sueldo. | | culto | | R
+a la sombra | en la cárcel | Pasó tres años {{a la sombra}}. | | coloquial | | R
+a quemarropa | desde muy cerca; de forma directa y brusca | Le hizo la pregunta {{a quemarropa}}. | | neutral | |
+a granel | sin envase; en abundancia | Compra el arroz {{a granel}}. | | neutral | |
+a bombo y platillo | con mucha publicidad | Anunciaron el acuerdo {{a bombo y platillo}}. | Variante: <i>con bombos y platillos</i> (Am.). | neutral | |
+a pedir de boca | tan bien como se podía desear | Todo salió {{a pedir de boca}}. | | neutral | |
+a duras penas | con gran dificultad | {{A duras penas}} llegamos a fin de mes. | | neutral | |
+al alimón | entre dos, conjuntamente | Escribieron el guion {{al alimón}}. | | culto | esp | R
+al socaire de | al amparo de, aprovechándose de | Se enriqueció {{al socaire de}} la crisis. | | culto | | R
+al albur | al azar, a la suerte | No podemos dejar el resultado {{al albur}} de las circunstancias. | | culto | | R
+al tuntún | sin reflexión, al azar | Contestó el test {{al tuntún}}. | | coloquial | |
+al pie de la letra | literalmente, con exactitud | Siguió las instrucciones {{al pie de la letra}}. | | neutral | |
+al fin y a la postre | al fin y al cabo, en definitiva | {{Al fin y a la postre}}, todos queremos lo mismo. | | culto | | R
+contra viento y marea | a pesar de todos los obstáculos | Sacó adelante el proyecto {{contra viento y marea}}. | | neutral | |
+de buenas a primeras | de repente, sin preparación | {{De buenas a primeras}}, dejó el trabajo y se fue a vivir al campo. | | neutral | |
+de higos a brevas | muy de tarde en tarde | Nos vemos {{de higos a brevas}}. | | coloquial | esp | R
+de Pascuas a Ramos | muy de tarde en tarde | Viene a visitarnos {{de Pascuas a Ramos}}. | | coloquial | esp | R
+de cabo a rabo | de principio a fin, entero | Me leí el informe {{de cabo a rabo}}. | | coloquial | |
+de pe a pa | entero, de principio a fin | Se sabe la lección {{de pe a pa}}. | | coloquial | |
+de rondón | sin avisar, sin permiso | Se coló {{de rondón}} en la reunión. | | culto | esp | R
+de tapadillo | a escondidas, con disimulo | Fumaba {{de tapadillo}}. | | coloquial | esp | R
+de marras | consabido, del que ya se ha hablado (con matiz despectivo) | Otra vez el vecino {{de marras}} con la música alta. | | coloquial | | R
+motu proprio | voluntariamente, por propia iniciativa | Renunció {{motu proprio}}. | La norma culta dice <i>motu proprio</i>, sin <i>de</i> y no <i>propio</i>. | culto | |
+de pacotilla | de poca calidad o importancia | Es un político {{de pacotilla}}. | | coloquial | |
+de postín | de lujo, distinguido | Se casaron en un hotel {{de postín}}. | | coloquial | esp | R
+de rompe y rasga | de ánimo resuelto, que no se arredra | Es una mujer {{de rompe y rasga}}. | | coloquial | | R
+de tomo y lomo | de mucha consideración (con sentido negativo) | Es un sinvergüenza {{de tomo y lomo}}. | | coloquial | | R
+de armas tomar | de carácter fuerte, que no se deja dominar | Cuidado con la directora: es {{de armas tomar}}. | | coloquial | |
+de mala muerte | de poco valor, miserable | Dormimos en un hostal {{de mala muerte}}. | | coloquial | |
+de bote en bote | lleno de gente | El estadio estaba {{de bote en bote}}. | | coloquial | esp | R
+de oídas | por haberlo oído, sin conocimiento directo | Lo conozco solo {{de oídas}}. | | neutral | |
+de soslayo | de lado, oblicuamente; de pasada | La miró {{de soslayo}}. | | culto | | R
+de consuno | de común acuerdo, conjuntamente | Ambos países actuaron {{de consuno}}. | | culto | | R
+de suyo | por sí mismo, por naturaleza | El tema es {{de suyo}} complicado. | | culto | | R
+en ciernes | en sus comienzos, en potencia | Es un escritor {{en ciernes}}. | | culto | | R
+en lontananza | a lo lejos | Se divisaba un barco {{en lontananza}}. | | culto | | R
+en un santiamén | en un instante | Lo arregló {{en un santiamén}}. | | neutral | |
+en un abrir y cerrar de ojos | en un instante | {{En un abrir y cerrar de ojos}}, había desaparecido. | | neutral | |
+en vilo | con inquietud, sin poder tranquilizarse | Nos tuvo {{en vilo}} toda la noche. | | neutral | |
+en ascuas | inquieto, en espera ansiosa | ¡Cuéntamelo ya, que me tienes {{en ascuas}}! | | neutral | |
+en cueros | desnudo | Los niños corrían {{en cueros}} por la playa. | | coloquial | |
+en las últimas | a punto de morir o de acabarse | La empresa está {{en las últimas}}. | | coloquial | |
+en aras de | en favor de, con el fin de | {{En aras de}} la claridad, resumiré los puntos principales. | | culto | |
+en pos de | detrás de; en busca de | Emigró {{en pos de}} una vida mejor. | | culto | |
+en ristre | preparado para usarse | Llegó con el bolígrafo {{en ristre}}. | | culto | | R
+en volandas | levantado del suelo, en el aire | Los hinchas lo llevaron {{en volandas}}. | | neutral | | R
+en un periquete | en muy poco tiempo | Vuelvo {{en un periquete}}. | | coloquial | |
+entre bastidores | de manera reservada, sin que se vea | Las negociaciones se hicieron {{entre bastidores}}. | | neutral | |
+por ende | por tanto | Es más barato y, {{por ende}}, más accesible. | | culto | |
+por antonomasia | por excelencia | Cervantes es el novelista español {{por antonomasia}}. | | culto | |
+por mor de | por causa de, en consideración a | {{Por mor de}} la brevedad, omito los detalles. | | culto | | R
+por ventura | quizá, acaso; por suerte | ¿Es usted, {{por ventura}}, el nuevo inquilino? | | culto | | R
+por las buenas o por las malas | voluntariamente o por la fuerza | Lo harás {{por las buenas o por las malas}}. | | neutral | |
+sin ton ni son | sin motivo ni orden | Hablaba {{sin ton ni son}}. | | neutral | |
+sin ambages | sin rodeos | Le dijo {{sin ambages}} lo que pensaba. | | culto | | R
+sin solución de continuidad | sin interrupción | Una crisis siguió a otra {{sin solución de continuidad}}. | Significa «sin interrupción», no «sin solución». | culto | | R
+sin parangón | sin comparación posible | Es un éxito {{sin parangón}} en la historia del club. | | culto | |
+sin pies ni cabeza | sin sentido ni lógica | Contó una historia {{sin pies ni cabeza}}. | | neutral | |
+sin decir esta boca es mía | sin hablar nada | Se pasó la reunión {{sin decir esta boca es mía}}. | | coloquial | |
+sin comerlo ni beberlo | sin tener culpa ni haber intervenido | {{Sin comerlo ni beberlo}}, me vi metido en el lío. | | coloquial | | R
+dar gato por liebre | engañar dando algo de menos calidad por otra cosa mejor | En ese restaurante te {{dan gato por liebre}}: el «solomillo» es aguja. | | coloquial | |
+poner el grito en el cielo | quejarse o protestar con vehemencia | Cuando vio la factura, {{puso el grito en el cielo}}. | | neutral | |
+tirar la toalla | rendirse, abandonar un empeño | Después de tres intentos fallidos, {{tiró la toalla}}. | | neutral | |
+caer en saco roto | no ser tenido en cuenta, perderse sin efecto | Espero que mis consejos no {{caigan en saco roto}}. | También <i>echar en saco roto</i>: olvidar, desatender. | neutral | |
+hacer de tripas corazón | sobreponerse al miedo o la repugnancia para hacer algo | {{Hizo de tripas corazón}} y entró a hablar con el jefe. | | neutral | | R
+poner pies en polvorosa | huir, escapar deprisa | Al oír la sirena, los ladrones {{pusieron pies en polvorosa}}. | | culto | | R
+tomar las de Villadiego | huir, marcharse de repente | Cuando llegó la hora de pagar, {{tomó las de Villadiego}}. | | culto | esp | R
+dorar la píldora | suavizar con palabras una mala noticia; adular | No me {{dores la píldora}}: dime qué pasa. | | neutral | | R
+matar dos pájaros de un tiro | conseguir dos cosas con una sola acción | Fui al banco de camino al trabajo y {{maté dos pájaros de un tiro}}. | | neutral | |
+buscarle tres pies al gato | complicar algo innecesariamente, buscar problemas donde no los hay | No {{le busques tres pies al gato}}: el contrato es claro. | En el Río de la Plata, <i>buscarle la quinta pata al gato</i>. | coloquial | |
+no dar pie con bola | equivocarse una y otra vez | Hoy estoy cansado y no {{doy pie con bola}}. | | coloquial | |
+estar en Babia | estar distraído, ajeno a lo que pasa | Te estoy hablando y tú {{estás en Babia}}. | En América es más común <i>estar en la luna</i>. | coloquial | esp |
+dar palos de ciego | actuar a tientas, sin saber bien qué se hace | Sin datos fiables, el Gobierno {{da palos de ciego}}. | | neutral | |
+rasgarse las vestiduras | escandalizarse exageradamente, a menudo con hipocresía | Ahora {{se rasgan las vestiduras}}, pero ellos hicieron lo mismo. | | culto | | R
+irse por los cerros de Úbeda | desviarse del tema | Le preguntaron por el presupuesto y {{se fue por los cerros de Úbeda}}. | | coloquial | esp | R
+marear la perdiz | dar vueltas a un asunto sin resolverlo, para ganar tiempo | Dejen de {{marear la perdiz}} y tomen una decisión. | | coloquial | esp | R
+nadar entre dos aguas | no decidirse entre dos posturas, intentando contentar a ambas | El partido {{nada entre dos aguas}} y no convence a nadie. | | neutral | |
+ser harina de otro costal | ser un asunto distinto | Que te ayude con la mudanza, vale; prestarte dinero {{es harina de otro costal}}. | | neutral | |
+sacar a colación | mencionar algo en una conversación | En la cena {{sacó a colación}} el asunto de la herencia. | También <i>traer a colación</i>. | culto | |
+venir a cuento | ser oportuno o pertinente | Ese comentario no {{venía a cuento}}. | | neutral | |
+dar en el clavo | acertar plenamente | Con tu análisis {{has dado en el clavo}}. | | neutral | |
+hacer mella | causar efecto o daño; impresionar | Las críticas no {{hicieron mella}} en ella. | | culto | |
+poner coto | poner límite, impedir que algo siga | Hay que {{poner coto}} a la especulación. | | culto | |
+dar pábulo | dar motivo para que algo continúe o se crea | Su silencio {{dio pábulo}} a los rumores. | | culto | | R
+echar leña al fuego | avivar un conflicto | No {{eches leña al fuego}}: ya están bastante enfadados. | | neutral | |
+hacer la vista gorda | fingir no haber visto algo | El portero {{hizo la vista gorda}} y nos dejó pasar. | | neutral | |
+no tener pelos en la lengua | decir lo que se piensa sin reparos | Mi abuela {{no tiene pelos en la lengua}}. | | coloquial | |
+andarse por las ramas | dar rodeos, no ir a lo esencial | No {{te andes por las ramas}} y dime qué quieres. | | neutral | |
+tener mano izquierda | tener habilidad y tacto para tratar asuntos delicados | Para negociar con ellos hay que {{tener mano izquierda}}. | | neutral | |
+pagar el pato | sufrir las consecuencias de lo que otro ha hecho | Siempre {{paga el pato}} el más débil. | En el Río de la Plata también <i>pagar los platos rotos</i>. | coloquial | |
+cortar el bacalao | ser quien manda | En esta casa {{corta el bacalao}} mi madre. | | coloquial | esp | R
+llevarse el gato al agua | conseguir lo que se disputaba, imponerse | Al final, la empresa rival {{se llevó el gato al agua}}. | | coloquial | esp | R
+tirar la casa por la ventana | gastar sin medida, sobre todo en una celebración | Para la boda {{tiraron la casa por la ventana}}. | | neutral | |
+ver los toros desde la barrera | observar algo sin implicarse ni correr riesgos | Es fácil criticar cuando {{ves los toros desde la barrera}}. | | neutral | | R
+quemar las naves | tomar una decisión sin vuelta atrás | Dejó su plaza fija y {{quemó las naves}}. | | culto | |
+cruzar el Rubicón | dar un paso decisivo y arriesgado | Con esa declaración, el presidente {{cruzó el Rubicón}}. | Por César, que cruzó el río Rubicón con su ejército. | culto | | R
+poner una pica en Flandes | lograr algo muy difícil | Conseguir esa entrevista fue {{poner una pica en Flandes}}. | | culto | esp | R
+hacer su agosto | hacer un buen negocio aprovechando la ocasión | Con la ola de calor, los heladeros {{hicieron su agosto}}. | | neutral | |
+tener la sartén por el mango | tener el control de una situación | En esta negociación, ellos {{tienen la sartén por el mango}}. | | neutral | |
+meterse en camisa de once varas | meterse en lo que no le incumbe o en algo complicado | No {{te metas en camisa de once varas}}. | | coloquial | | R
+rizar el rizo | complicar algo innecesariamente; hacer algo aún más difícil | Ya era difícil, pero {{rizó el rizo}} y lo hizo en verso. | | coloquial | esp | R
+dar carpetazo | dar por terminado un asunto, archivarlo | El juez {{dio carpetazo}} al caso. | | neutral | | R
+sacar las castañas del fuego | resolver los problemas de otro, a menudo con riesgo propio | Estoy harto de {{sacarte las castañas del fuego}}. | | neutral | |
+tomar cartas en el asunto | intervenir en una cuestión | La fiscalía {{tomó cartas en el asunto}}. | | neutral | |
+echar un capote | ayudar a alguien en un apuro | Menos mal que un compañero me {{echó un capote}}. | | coloquial | esp | R
+ser la gota que colma el vaso | ser lo último que, sumado a lo anterior, agota la paciencia | Su retraso {{fue la gota que colmó el vaso}}. | En América también <i>la gota que rebasa/rebalsa el vaso</i>. | neutral | |
+pedir peras al olmo | esperar algo imposible de quien no puede darlo | Esperar puntualidad de él es {{pedir peras al olmo}}. | | neutral | |
+estar al pie del cañón | estar siempre dispuesto en su puesto | Con ochenta años, sigue {{al pie del cañón}}. | | neutral | |
+poner los puntos sobre las íes | precisar algo con claridad | Quiero {{poner los puntos sobre las íes}} antes de firmar. | | neutral | |
+llegar a buen puerto | terminar con éxito | Las negociaciones {{llegaron a buen puerto}}. | | culto | |
+ahogarse en un vaso de agua | agobiarse por un problema pequeño | No {{te ahogues en un vaso de agua}}. | | neutral | |
+dormirse en los laureles | descuidarse tras un éxito | Ganamos la liga, pero no podemos {{dormirnos en los laureles}}. | | neutral | |
+coger el toro por los cuernos | enfrentarse decididamente a una dificultad | Hay que {{coger el toro por los cuernos}} y hablar con él. | En América, <i>agarrar el toro por las astas</i>. | neutral | esp |
+hacerse el sueco | fingir que no se entiende | Le pregunté por la deuda y {{se hizo el sueco}}. | En el Río de la Plata, <i>hacerse el sota</i> o <i>el otario</i>. | coloquial | esp |
+hacerse el sota | fingir que no se entiende o que no se sabe | Le reclamé la plata y {{se hizo el sota}}. | En España, <i>hacerse el sueco</i>. | coloquial | rioplatense | R
+estar al horno | estar en un apuro serio | Si mañana no entrego el informe, {{estoy al horno}}. | | coloquial | rioplatense | R
+de prepo | a la fuerza, imponiéndose | Se metió en la fila {{de prepo}}. | Acortamiento de <i>prepotencia</i>. | coloquial | rioplatense | R
+a las apuradas | deprisa, con precipitación | Hizo la tarea {{a las apuradas}}. | | coloquial | am |
+ni modo | no hay nada que hacer, qué se le va a hacer | Se acabaron los boletos; {{ni modo}}, vamos otro día. | | coloquial | mex | R
+echar aguas | vigilar para avisar si viene alguien | Tú {{echa aguas}} mientras abrimos la puerta. | | coloquial | mex | R
+dar la lata | molestar, fastidiar con insistencia | Deja de {{darme la lata}} con lo del coche. | | coloquial | |
+ponerse las botas | aprovecharse al máximo, sobre todo comiendo | En la boda {{nos pusimos las botas}}. | | coloquial | esp |
+costar un ojo de la cara | costar muchísimo | El arreglo del coche me {{costó un ojo de la cara}}. | En el Río de la Plata también <i>costar un huevo</i> (vulgar). | coloquial | |
+estar a la altura de las circunstancias | responder como exige la situación | El equipo no {{estuvo a la altura de las circunstancias}}. | | neutral | |
+tener el santo de espaldas | tener mala suerte en todo | Esta semana {{tengo el santo de espaldas}}. | | coloquial | esp | R
