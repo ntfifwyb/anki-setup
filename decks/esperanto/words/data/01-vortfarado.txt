@@ -1,0 +1,102 @@
+# Vortfarado: build the word from its root with the right affixes. The hint names the base word, so the
+# task is choosing the affixes, not guessing the root. R adds a Rekoni card (word -> meaning).
+# vorto | difino | ekzemplo kun {{la vorto}} | notoj | bazo | R
+# -ig- kaj -iĝ-
+plibonigi | fari ion pli bona | Ni devas {{plibonigi}} la retejon antaŭ la kongreso. | pli + bon + -ig-: igi pli bona. | bona |
+pliboniĝi | iĝi pli bona | La vetero {{pliboniĝis}} posttagmeze. | -iĝ-: la subjekto mem ŝanĝiĝas, sen objekto. Kp. <i>plibonigi</i>. | bona |
+plimalboniĝi | iĝi pli malbona | Lia sanstato {{plimalboniĝis}} dum la nokto. | | bona |
+edziĝi | (pri viro) iĝi edzo | Mia frato {{edziĝis}} pasintjare. | Pri virino: <i>edziniĝi</i>; pri ambaŭ: <i>geedziĝi</i>. | edzo | R
+geedziĝi | (pri du homoj) iĝi edzo kaj edzino | Ili {{geedziĝos}} en majo. | | edzo |
+sidiĝi | ekpreni sidan pozicion | Bonvolu {{sidiĝi}}, la prelego tuj komenciĝos. | <i>sidi</i>: esti en sida pozicio; <i>sidiĝi</i>: ekfari tion. | sidi |
+enlitiĝi | iri en la liton por dormi | Hieraŭ mi {{enlitiĝis}} tre malfrue. | en + lit + -iĝ-. | lito | R
+vekiĝi | ĉesi dormi | Mi {{vekiĝis}} je la sesa sen vekhorloĝo. | <i>veki</i> iun: igi lin ĉesi dormi. | veki |
+sciigi | igi iun scii ion; informi | Bonvolu {{sciigi}} min, kiam vi alvenos. | | scii | R
+malfermiĝi | iĝi malfermita, sen ies videbla ago | La pordo subite {{malfermiĝis}}. | | fermi |
+ruĝiĝi | iĝi ruĝa, ofte pro honto | Ŝi {{ruĝiĝis}}, kiam li komplimentis ŝin. | | ruĝa | R
+proksimiĝi | veni pli proksimen | La ŝtormo rapide {{proksimiĝas}}. | | proksima |
+translokiĝi | ŝanĝi sian loĝejon al alia loko | Ni {{translokiĝis}} al Berlino antaŭ du jaroj. | trans + lok + -iĝ-. | loko | R
+ĝisdatigi | meti ion al la nuna stato | Mi devas {{ĝisdatigi}} la programaron. | ĝis + dat + -ig-. | dato | R
+aliĝi | iĝi membro aŭ partoprenanto; registriĝi | Mi jam {{aliĝis}} al la Universala Kongreso. | al + -iĝ-. | al | R
+disiĝi | iri en diversajn direktojn; apartiĝi | Post la koncerto la homamaso {{disiĝis}}. | dis- uzata kiel radiko. | dis- | R
+# -ebl-, -ind-, -end-, -em-
+legebla | tia, ke oni povas legi ĝin | Lia manskribo apenaŭ estas {{legebla}}. | -ebl-: povas esti …-ata. | legi |
+nekredebla | tia, ke oni ne povas kredi ĝin | Ŝi rakontis {{nekredeblan}} historion. | | kredi |
+memkompreneble | tiel evidente, ke oni ne bezonas klarigi | {{Memkompreneble}} vi rajtas veni kun via edzino. | mem + kompren + -ebl- + -e. | kompreni | R
+vidinda | meritanta esti vidata | La malnova urbocentro vere estas {{vidinda}}. | -ind-: meritas esti …-ata. Kp. <i>videbla</i>: eblas vidi ĝin. | vidi | R
+pagenda | tia, ke oni devas pagi ĝin | La fakturo estas {{pagenda}} ĝis la fino de la monato. | -end-: devas esti …-ata. | pagi | R
+laborema | ema labori; diligenta | Ŝi estas {{laborema}} studentino. | -em-: inklino, kutimo. | labori |
+dormema | sentanta bezonon dormi | Post la tagmanĝo mi ĉiam estas {{dormema}}. | | dormi |
+# -aĵ-, -ec-, -ad-, -er-
+trinkaĵo | io, kion oni trinkas | Kiun {{trinkaĵon}} vi deziras? | -aĵ-: konkreta afero. | trinki |
+novaĵo | nova informo pri io okazinta | Ĉu vi aŭdis la {{novaĵon}}? | | nova |
+beleco | la eco esti bela | Ŝin impresis la {{beleco}} de la pejzaĝo. | -ec-: abstrakta eco. | bela |
+amikeco | rilato inter amikoj | Nia {{amikeco}} daŭras jam dudek jarojn. | | amiko | R
+parolado | longa, formala parolo antaŭ publiko | La prezidanto faris longan {{paroladon}}. | -ad-: daŭra aŭ ripetata ago. | paroli | R
+kurado | la daŭra ago kuri, kiel sporto | {{Kurado}} estas mia ŝatata sporto. | | kuri |
+neĝero | unu kristalo de neĝo | {{Neĝero}} falis sur ŝian nazon. | -er-: unuo, ero de io. | neĝo | R
+monero | metala peco de mono | Mi ne havas {{moneron}} por la aŭtomato. | | mono |
+elparolo | maniero prononci | Via {{elparolo}} estas tre klara. | | paroli | R
+kunveno | renkontiĝo de pluraj homoj por diskuti | La {{kunveno}} daŭris tri horojn. | kun + ven + -o. | veni |
+# -ar-, -an-, -ist-, -ul-, -estr-, -id-
+ŝtuparo | aro da ŝtupoj inter du etaĝoj | Li falis sur la {{ŝtuparo}}. | -ar-: kolekto de samspecaj aferoj. | ŝtupo | R
+homaro | ĉiuj homoj kune | La milito estis katastrofo por la tuta {{homaro}}. | | homo |
+samideano | ano de la sama ideo; kutime: alia esperantisto | Ĉe la kongreso mi renkontis {{samideanojn}} el tridek landoj. | sam + ide + -an-. | ideo | R
+urbano | loĝanto de urbo | La {{urbanoj}} protestis kontraŭ la nova vojo. | -an-: membro, loĝanto, adepto. | urbo |
+samlandano | homo el la sama lando | Mi renkontis {{samlandanon}} en la trajno. | | lando |
+dentisto | kuracisto pri dentoj | Mi havas rendevuon ĉe la {{dentisto}}. | -ist-: profesio aŭ okupo. | dento |
+kuraĝulo | kuraĝa homo | Nur {{kuraĝulo}} saltus en tiun riveron. | -ul-: persono kun tiu eco. | kuraĝa |
+fremdulo | homo el alia lando aŭ loko | En tiu vilaĝo oni rigardas ĉiun {{fremdulon}} kun suspekto. | | fremda |
+lernejestro | estro de lernejo | La {{lernejestro}} parolis al ĉiuj gepatroj. | -estr-: estro, gvidanto. | lernejo | R
+urbestro | ĉefo de urba administracio | La {{urbestro}} malfermis la novan ponton. | | urbo |
+katido | ido de kato | La kato naskis kvin {{katidojn}}. | -id-: ido, junulo de besto. | kato |
+# -ej-, -uj-, -il-, -ing-, -ism-
+preĝejo | konstruaĵo por preĝado | La malnova {{preĝejo}} staras en la centro de la vilaĝo. | -ej-: loko por la ago. | preĝi | R
+kuirejo | ĉambro, kie oni kuiras | Ĉiuj gastoj fine kolektiĝis en la {{kuirejo}}. | | kuiri |
+monujo | ujo por mono | Iu ŝtelis mian {{monujon}} en la metroo. | -uj-: ujo por io. | mono |
+sukerujo | ujo por sukero | Pasigu al mi la {{sukerujon}}, mi petas. | | sukero |
+tondilo | ilo por tondi | Ĉu vi vidis la {{tondilon}}? Mi volas tranĉi ĉi tiun paperon. | -il-: ilo por fari la agon. | tondi | R
+ŝlosilo | ilo por ŝlosi | Mi forgesis la {{ŝlosilon}} hejme. | | ŝlosi |
+kandelingo | tenilo, en kiun oni metas kandelon | Ŝi metis la kandelon en arĝentan {{kandelingon}}. | -ing-: tenilo, en kiun oni enmetas parton de io. | kandelo | R
+kapitalismo | ekonomia sistemo bazita sur privata kapitalo | Li verkis libron pri la historio de {{kapitalismo}}. | -ism-: doktrino, sistemo. | kapitalo |
+# -et-, -eg-, -aĉ-
+dometo | malgranda domo | Ili loĝas en {{dometo}} apud la lago. | -et-: malgrandigo. | domo |
+rideti | ridi silente, nur per la buŝo | Ŝi {{ridetis}} al mi trans la ĉambro. | -et- ĉe verbo: malpli intensa ago. | ridi | R
+ridegi | ridi tre laŭte | Ĉiuj {{ridegis}} pri lia ŝerco. | -eg-: pligrandigo, intenseco. | ridi | R
+pluvegi | pluvi tre forte | Hieraŭ nokte {{pluvegis}}. | | pluvi |
+domaĉo | malbela aŭ kaduka domo | Ili luis {{domaĉon}} kun truoj en la tegmento. | -aĉ-: malbona kvalito, malestimo. | domo | R
+skribaĉi | skribi malbele aŭ senzorge | Li {{skribaĉis}} sian nomon sur la papero. | | skribi |
+# -um-, -obl-, -on-, -op-, -ĉj-
+kolumo | parto de vesto ĉirkaŭ la kolo | La {{kolumo}} de lia ĉemizo estis malpura. | -um- havas neniun fiksan sencon: lernu la vortojn unuope. | kolo | R
+malvarmumo | malsano kaŭzita de malvarmo: nazkataro, tuso | Mi suferas pro {{malvarmumo}} jam de semajno. | | malvarma | R
+plenumi | fari tion, kion oni promesis aŭ devis | Li {{plenumis}} sian promeson. | | plena | R
+akvumi | doni akvon al plantoj | Ĉu vi jam {{akvumis}} la florojn? | Ne <i>akvi</i>: ĉi tie necesas -um-. | akvo | R
+duobla | dufoje pli granda | Mi pagis la {{duoblan}} prezon. | -obl-: multobligo. | du |
+triono | unu el tri egalaj partoj | {{Triono}} de la studentoj ne venis. | -on-: frakcio. | tri | R
+duope | en grupoj de du | La infanoj marŝis {{duope}}. | -op-: grupo de tiom. | du | R
+paĉjo | karesa nomo por patro | {{Paĉjo}}, rakontu al mi fabelon! | -ĉj- (viroj) kaj -nj- (virinoj) mallongigas la radikon. | patro | R
+# Verboj el substantivoj
+kombi | ordigi la harojn per kombilo | Ŝi {{kombis}} siajn harojn. | La radiko estas verba; la ilo estas <i>kombilo</i>. | kombilo |
+marteli | bati per martelo | Li {{martelis}} najlon en la muron. | Ilo-radiko + -i: uzi la ilon. | martelo |
+koleri | senti aŭ montri koleron | Ne {{koleru}} kontraŭ mi! | | kolero |
+# Prefiksoj
+malami | senti malamon; kontraŭo de ami | Li {{malamas}} matenojn. | mal-: la kontraŭo. | ami |
+rekoni | ekscii, ke iu aŭ io estas jam konata | Mi apenaŭ {{rekonis}} vin kun barbo! | re-: denove. | koni | R
+redoni | doni reen | Bonvolu {{redoni}} la libron ĝis vendredo. | re-: ankaŭ reen. | doni |
+disĵeti | ĵeti en ĉiujn direktojn | La vento {{disĵetis}} la paperojn tra la ĉambro. | dis-: en diversajn direktojn. | ĵeti |
+ekplori | komenci plori | La bebo subite {{ekploris}}. | ek-: komenco aŭ subiteco de ago. | plori |
+ekvidi | subite vidi | Mi {{ekvidis}} ŝin en la homamaso. | | vidi | R
+gepatroj | patro kaj patrino kune | Miaj {{gepatroj}} loĝas en Madrido. | ge-: ambaŭ seksoj kune. | patro |
+eksedzino | iama edzino | Li ankoraŭ bone interkompreniĝas kun sia {{eksedzino}}. | eks-: iama. | edzino | R
+bofrato | frato de edzo aŭ edzino; edzo de fratino | Mia {{bofrato}} helpis nin translokiĝi. | bo-: parenco pro geedziĝo. | frato | R
+praavo | patro de avo aŭ avino | Mia {{praavo}} venis el Italio. | pra-: unu generacio plu reen; ankaŭ tre malnova. | avo |
+fihomo | malmorala, malestiminda homo | Nur {{fihomo}} trompus maljunulinon. | fi-: morala malestimo. | homo | R
+miskompreni | kompreni malĝuste | Pardonu, mi {{miskomprenis}} vian demandon. | mis-: malĝuste. | kompreni | R
+misuzi | uzi malĝuste aŭ por malbona celo | Li {{misuzis}} sian povon. | | uzi |
+malsupreniri | iri malsupren | Ni {{malsupreniris}} de la monto antaŭ la mallumo. | Adverbo de direkto + verbo; ankaŭ <i>supreniri</i>. | malsupren |
+pripensi | pensi zorge pri io antaŭ ol decidi | Mi bezonas tempon por {{pripensi}} vian proponon. | pri-: la ago direktiĝas al objekto. | pensi | R
+priskribi | per vortoj montri, kia io estas | Ĉu vi povas {{priskribi}} la ŝteliston? | | skribi |
+senpaga | tia, ke oni ne devas pagi | La eniro al la muzeo estas {{senpaga}}. | sen-: sen tio. | pagi |
+senlabora | ne havanta laboron | Post la fermo de la fabriko li estas {{senlabora}}. | | labori |
+elĉerpita | tute laca; ankaŭ: tute uzita | Post la maratono mi estis {{elĉerpita}}. | el + ĉerpi: ĉerpi ĝis nenio restas. | ĉerpi | R
+antaŭhieraŭ | la tago antaŭ hieraŭ | Mi alvenis {{antaŭhieraŭ}}. | | hieraŭ | R
+postmorgaŭ | la tago post morgaŭ | La paketo alvenos {{postmorgaŭ}}. | | morgaŭ |

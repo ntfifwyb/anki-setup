@@ -1,0 +1,68 @@
+# Gramatiko: points where intermediate speakers hesitate or carry over Spanish, English or German habits,
+# following the Fundamento and Bertilo Wennergren's Plena Manlibro de Esperanta Gramatiko (PMEG).
+# The card shows the sentence with the options in brackets; you choose, and the back gives the rule.
+# frazo kun {{ĝusta/malĝusta}} | regulo | temo
+# temo: akuzativo, predikativo, si, transitiveco, participoj, modoj, prepozicioj, korelativoj
+Mi iras en {{la domon/la domo}}. | Direkto: <i>en</i> + akuzativo montras moviĝon internen. | akuzativo
+La infanoj ludas en {{la parko/la parkon}}. | Loko: <i>ludi</i> ne estas moviĝo al nova loko, do sen -n. | akuzativo
+Ŝi metis la libron sur {{la tablon/la tablo}}. | Direkto: la libro moviĝas al nova loko, do <i>sur</i> + akuzativo. | akuzativo
+La libro kuŝas sur {{la tablo/la tablon}}. | Loko: nenio moviĝas, do sen -n. | akuzativo
+Li iris {{hejmen/hejme}}. | Direkto: adverbo + -n. <i>Hejme</i> estas loko: <i>li restis hejme</i>. | akuzativo
+{{Lundon/Lundo}} mi vizitos vin. | Tempo sen prepozicio prenas -n: <i>lundon</i>, <i>la duan de majo</i>. Ankaŭ eblas <i>lunde</i>. | akuzativo
+La turo estas cent {{metrojn/metroj}} alta. | Mezuro sen prepozicio prenas -n. | akuzativo
+La filmo daŭris tri {{horojn/horoj}}. | Daŭro sen prepozicio prenas -n. | akuzativo
+La knabino, {{kiun/kiu}} mi vidis, estas mia fratino. | En la rilata frazo <i>kiu</i> estas la objekto de <i>vidis</i>, do <i>kiun</i>. | akuzativo
+Ŝi havas {{bluajn/bluan}} okulojn. | La adjektivo akordas kun la substantivo: -j kaj -n. | akuzativo
+Li estas {{bona instruisto/bonan instruiston}}. | Post <i>esti</i> la predikativo estas en nominativo. | predikativo
+Ŝi trovis la filmon {{enuiga/enuigan}}. | Predikativo de objekto: la adjektivo diras ion pri la objekto per la verbo, do sen -n. <i>Enuigan filmon</i> estus «filmon, kiu estas enuiga». | predikativo
+Li farbis la pordon {{ruĝa/ruĝan}}. | Predikativo de objekto (la rezulto): <i>la pordo iĝis ruĝa</i>. <i>La ruĝan pordon</i> estus pordo jam ruĝa. | predikativo
+Oni elektis lin {{prezidanto/prezidanton}}. | Predikativo de objekto: <i>li iĝis prezidanto</i>, do sen -n. | predikativo
+Estas {{bele/bela}} hodiaŭ. | Sen subjekto la predikativo estas adverbo. | predikativo
+Lerni lingvojn estas {{interese/interesa}}. | Kiam la subjekto estas infinitivo aŭ frazo, la predikativo estas adverbo. | predikativo
+Ĉi tiu libro estas {{interesa/interese}}. | La subjekto estas substantivo, do adjektivo. | predikativo
+Petro amas {{sian/lian}} edzinon. | <i>Sia</i> montras al la subjekto de la sama frazo. <i>Lian</i> estus la edzino de alia viro. | si
+Petro kaj {{lia/sia}} edzino venis. | <i>Si</i> kaj <i>sia</i> neniam estas en la subjekto mem. | si
+Ŝi diris, ke {{ŝia/sia}} frato estas malsana. | <i>Sia</i> ne povas esti parto de la subjekto, kaj en la subfrazo la subjekto estas <i>ŝia frato</i>. | si
+Li lavis {{sin/lin}} antaŭ la vespermanĝo. | La objekto estas la subjekto mem, do <i>sin</i>. <i>Lin</i> estus alia viro. | si
+Ili parolis pri {{si/ili}} mem. | <i>Si</i> montras al la subjekto ankaŭ en pluralo. | si
+La kunsido {{komenciĝis/komencis}} je la naŭa. | <i>Komenci</i> estas transitiva (oni komencas ion); sen objekto: <i>komenciĝi</i>. | transitiveco
+Ni {{komencis/komenciĝis}} la kunsidon je la naŭa. | Kun objekto: <i>komenci ion</i>. | transitiveco
+La filmo {{finiĝis/finis}} malfrue. | <i>Fini</i> estas transitiva; sen objekto: <i>finiĝi</i>. | transitiveco
+La prezoj {{altiĝis/altigis}} denove. | Sen objekto: la prezoj mem iĝas pli altaj. | transitiveco
+Multo {{ŝanĝiĝis/ŝanĝis}} en la urbo. | <i>Ŝanĝi</i> estas transitiva; sen objekto: <i>ŝanĝiĝi</i>. | transitiveco
+La vento {{movis/moviĝis}} la foliojn. | Kun objekto: <i>movi ion</i>. Sen objekto: <i>la folioj moviĝis</i>. | transitiveco
+La akvo {{bolas/boliĝas}}. | <i>Boli</i> estas netransitiva: io bolas. Kun objekto: <i>boligi</i>. | transitiveco
+Mi {{boligis/bolis}} la akvon por teo. | Kun objekto: <i>boligi</i> (igi boli). | transitiveco
+La aŭto {{haltis/haltiĝis}} antaŭ la domo. | <i>Halti</i> estas netransitiva. Kun objekto: <i>haltigi</i>. | transitiveco
+La policano {{haltigis/haltis}} la aŭton. | Kun objekto: <i>haltigi</i>. | transitiveco
+La infano {{kreskis/kreskiĝis}} rapide. | <i>Kreski</i> estas netransitiva. Kun objekto: <i>kreskigi</i> (plantojn, infanojn). | transitiveco
+Li {{daŭrigis/daŭris}} sian laboron. | <i>Daŭri</i> estas netransitiva; kun objekto: <i>daŭrigi</i>. | transitiveco
+Mi {{fariĝis/faris}} instruisto. | <i>Fariĝi</i> (iĝi) + nominativo. | transitiveco
+Kiam mi alvenis, la ponto ankoraŭ estis {{konstruata/konstruita}}. | -at-: la ago ankoraŭ daŭras. -it-: la ago estas finita. | participoj
+La letero estas jam {{skribita/skribata}}. | -it-: la ago estas finita. | participoj
+{{Fininte/Finante}} la laboron, li iris hejmen. | -inte: la ago okazis antaŭ la ĉefa ago. | participoj
+La {{dormanta/dorminta}} bebo ne vekiĝis pro la bruo. | -ant-: la ago daŭras samtempe. | participoj
+La {{falintaj/falantaj}} folioj kovris la vojon. | -int-: la folioj jam falis kaj nun kuŝas. | participoj
+La {{venonta/venanta}} semajno estos okupita. | -ont-: la ago okazos poste. | participoj
+Se mi {{havus/havos}} monon, mi aĉetus aŭton. | Nereala kondiĉo: -us en ambaŭ partoj. | modoj
+Mi volas, ke vi {{venu/venos}} morgaŭ. | Post <i>voli, peti, ordoni… ke</i>: volitivo -u. | modoj
+Mi venis, por ke vi ne {{estu/estas}} sola. | <i>Por ke</i> ĉiam prenas -u. | modoj
+Li diris, ke li {{venos/venus}} morgaŭ. | Nerekta parolo tenas la tempon de la originala diro: li diris «mi venos». Ne kiel hispane <i>dijo que vendría</i>. | modoj
+Ŝi diris, ke ŝi {{estas/estis}} laca. | Ŝi diris «mi estas laca»: la tempo restas -as. | modoj
+Mi demandis, {{ĉu/se}} li venos. | Nerekta demando: <i>ĉu</i>. <i>Se</i> estas nur kondiĉo, ne kiel angle <i>if</i> aŭ hispane <i>si</i>. | modoj
+Mi trinkis glason {{da/de}} akvo. | Kvanto: <i>da</i>. | prepozicioj
+Tio estas la glaso {{de/da}} mia patro. | Posedo: <i>de</i>. | prepozicioj
+Mi havas multe {{da/de}} amikoj. | Post vorto de kvanto: <i>da</i>. | prepozicioj
+Mi dankas vin {{pro/por}} la helpo. | Kaŭzo: <i>pro</i>. Celo: <i>por</i>. | prepozicioj
+Mi laboras {{por/pro}} gajni monon. | Celo: <i>por</i>. | prepozicioj
+Ni renkontiĝos {{je/al}} la tria horo. | Horo: <i>je</i>. | prepozicioj
+Mi kredas {{je/al}} Dio. | <i>Kredi je io</i>: kredi, ke ĝi ekzistas aŭ valoras. <i>Kredi al iu</i>: kredi tion, kion li diras. | prepozicioj
+Ŝi estas pli alta {{ol/kiel}} sia frato. | Post komparativo (<i>pli</i>, <i>malpli</i>): <i>ol</i>. | prepozicioj
+Ŝi estas tiel alta {{kiel/ol}} sia frato. | Egaleco: <i>tiel … kiel</i>. | prepozicioj
+Ŝi estas la plej alta {{el/ol}} ĉiuj. | Superlativo: <i>el</i> aŭ <i>inter</i>. | prepozicioj
+{{Antaŭ ol/Antaŭ kiam}} manĝi, lavu viajn manojn. | <i>Antaŭ ol</i> (+ infinitivo aŭ frazo); <i>post kiam</i> (+ frazo). | prepozicioj
+{{Post kiam/Post ol}} li foriris, ŝi ekploris. | <i>Post kiam</i>; <i>antaŭ ol</i>. | prepozicioj
+La libro, {{kiun/kion}} mi legas, estas longa. | Post substantivo: <i>kiu</i>. | korelativoj
+Ĉio, {{kion/kiun}} vi diris, estas vera. | Post <i>ĉio</i>, <i>tio</i>, <i>nenio</i>: <i>kio</i>. | korelativoj
+Mi ne komprenas, {{kion/kiun}} vi volas diri. | Pri afero ne nomita: <i>kio</i>. | korelativoj
+La urbo, {{kien/kie}} ni veturas, estas malproksima. | Direkto: <i>kien</i>. | korelativoj

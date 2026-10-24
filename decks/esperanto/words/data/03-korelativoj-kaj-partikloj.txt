@@ -1,0 +1,49 @@
+# Korelativoj kaj partikloj: the less common correlatives (kies, ties, ial, ĉiom…) and the small words whose
+# use marks a fluent speaker (ja, plu, ajn, ju…des). The hint gives the gap's first letter and length.
+# vorto | difino | ekzemplo kun {{la vorto}} | notoj | bazo (malplena) | R
+# Korelativoj
+kies | de kiu (posedo) | La viro, {{kies}} aŭton oni ŝtelis, vokis la policon. | Ankaŭ demande: <i>Kies estas ĉi tiu mantelo?</i> | | R
+ties | de tiu (la laste menciita) | Mi parolis kun Petro kaj {{ties}} frato. | <i>lia frato</i> povus esti la frato de iu alia; <i>ties</i> montras al la laste nomita. | | R
+ĉies | de ĉiu | Sano estas {{ĉies}} rajto. | | |
+nenies | de neniu | Tio estas {{nenies}} kulpo. | | |
+ial | pro iu kaŭzo | {{Ial}} ŝi ne respondis. | | | R
+nenial | pro neniu kaŭzo | Li koleris {{nenial}}. | | | R
+tial | pro tiu kaŭzo | Mi estis malsana, {{tial}} mi ne venis. | | |
+iel | iamaniere | Ni {{iel}} solvos la problemon. | | |
+neniel | neniamaniere | Mi {{neniel}} povas helpi vin. | | |
+ĉiel | ĉiamaniere | Ŝi {{ĉiel}} provis konvinki lin. | | | R
+iom | iu kvanto, ne multe | Mi parolas {{iom}} la germanan. | | |
+tiom | tiu kvanto | Mi ne sciis, ke vi havas {{tiom}} da libroj! | Kun <i>da</i>: <i>tiom da libroj</i>. | |
+kiom | kia kvanto | Mi ne scias, {{kiom}} da homoj venos. | | |
+ĉiom | la tuta kvanto | Li manĝis {{ĉiom}}; nenio restis. | | | R
+neniom | nenia kvanto | Mi havas {{neniom}} da tempo. | | |
+tien | al tiu loko | Ni iros {{tien}} morgaŭ. | -n montras direkton: <i>tie</i> (loko), <i>tien</i> (direkto). | |
+ien | al iu loko | Ĉu vi iros {{ien}} dum la ferioj? | | | R
+nenien | al neniu loko | Mi iras {{nenien}}; mi restas hejme. | | |
+ĉie | en ĉiu loko | {{Ĉie}} estis neĝo. | | |
+iam | en iu tempo | Ĉu vi {{iam}} estis en Japanio? | | | R
+ajn | (post korelativo) tute ne gravas kiu, kio, kie… | Prenu kiun {{ajn}} vi volas. | <i>kiu ajn</i>, <i>kio ajn</i>, <i>kiam ajn</i>, <i>ie ajn</i>. | | R
+ajna | tute ne gravas kiu | Elektu {{ajnan}} koloron. | Adjektivo el <i>ajn</i>, kun la finaĵoj -j kaj -n. | | R
+# Partikloj
+ĉi | (ĉe korelativo) montras proksimecon | Kiu estas tiu {{ĉi}} viro? | <i>tiu ĉi</i> aŭ <i>ĉi tiu</i>. | |
+ja | emfazo: kiel oni scias; vere | Mi {{ja}} diris al vi! | | | R
+eĉ | aldonas ion neatenditan | {{Eĉ}} infano scius tion. | | | R
+plu | daŭre; pli malproksimen | Mi ne {{plu}} fumas. | <i>ne plu</i>: ĉesis. Kp. <i>ankoraŭ ne</i>: ne jam komenciĝis. | | R
+ankoraŭ | daŭre ĝis nun | Ĉu vi {{ankoraŭ}} loĝas en Madrido? | | |
+jam | pli frue ol atendite; ĝis nun | Ĉu vi {{jam}} manĝis? | | |
+apenaŭ | preskaŭ ne | Mi {{apenaŭ}} aŭdis lin. | Ankaŭ: ĵus antaŭe. | | R
+preskaŭ | ne tute, sed tre proksime | Estas {{preskaŭ}} noktomezo. | | |
+ĵus | antaŭ tre mallonga tempo | Ŝi {{ĵus}} foriris. | | | R
+tamen | malgraŭ tio | Estis malvarme; {{tamen}} ni naĝis. | | |
+do | konsekvence | Mi pensas, {{do}} mi ekzistas. | Ankaŭ emfaze: <i>Venu do!</i> | | R
+ĉu | enkondukas demandon, ankaŭ nerektan | Mi ne scias, {{ĉu}} li venos. | Ne <i>se</i>: tio estas kondiĉo. | |
+cetere | krome; parenteze | {{Cetere}}, ĉu vi jam legis la libron? | | | R
+almenaŭ | ne malpli ol | Atendu {{almenaŭ}} dek minutojn. | | |
+mem | emfazas la personon aŭ aferon | Mi {{mem}} vidis tion. | | |
+ambaŭ | la du kune | {{Ambaŭ}} fratoj loĝas eksterlande. | | |
+kvazaŭ | kiel se | Ŝi rigardis min, {{kvazaŭ}} ŝi ne konus min. | Kun -us, ĉar ĝi ne estas reala. | | R
+ju … des | ju pli…, des pli: la dua kreskas kun la unua | {{Ju}} pli mi lernas, {{des}} pli mi scias. | | | R
+nek … nek | ne la unua kaj ne la dua | Mi havas {{nek}} tempon {{nek}} monon. | | |
+anstataŭ | en la loko de | {{Anstataŭ}} labori, li dormis. | | | R
+krom | escepte de; aldone al | Ĉiuj venis {{krom}} Petro. | | |
+laŭ | konforme al; laŭlonge de | {{Laŭ}} mi, vi eraras. | | |
