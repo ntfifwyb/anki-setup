@@ -67,3 +67,13 @@
 **Why:** a moving tag kept no history. GitHub's `releases/latest` is one per repository, not per deck, so a stable per-deck link to the newest file would need a second, duplicated release on every publish; a link bumped in the PR, guarded by CI, is simpler. Folders keep English names (`decks/german/`): they're for the repository, not for study.
 
 **Also decided by Claude (pending review):** `Ausdrücke` for German Expressions; the files are named `Deutsch.apkg` and `Espanol.apkg`, without the accent, because GitHub replaces non-ASCII characters in asset names; Anki shows the deck names from inside the file, so the accent there is intact.
+
+## 2026-10-24: An Esperanto deck, with an eSpeak voice
+
+**Question:** the owner wants an Esperanto deck. At what level, in which language, and spoken by what, given that no Psittacus engine (Kokoro, Piper, Edge) has an Esperanto voice?
+
+**Choice (the owner's):** intermediate and up, entirely in Esperanto, about 200 notes to start (252 shipped), with audio from eSpeak NG's `eo` voice.
+
+**Why:** eSpeak NG is the only freely available voice that reads Esperanto by its own rules (ĉ, ĝ, ĥ, ĵ, ŝ, ŭ, penultimate stress); the other option, an Italian voice reading a respelled text, sounds more natural but gets several sounds wrong. eSpeak is robotic, but correct.
+
+**Also decided by Claude (pending review):** four subdecks, Vortfarado, Vortprovizo, Korelativoj kaj partikloj and Gramatiko, because an intermediate speaker's gaps are in productive word building, precision, the small words and a few grammar points, not in basic vocabulary; two note types (Esperanto Word, Esperanto Choice) after the Spanish deck's Expression and Norma. eSpeak NG runs from the `espeakng-loader` package through its C library, in the deck's own `speak.py`, rather than as a new Psittacus engine: the deck needs no system install, and the add-on stays as it is. Clips are still named with Psittacus's `cache_name` (engine `espeak`), so Psittacus could adopt the voice later without renaming them.

@@ -1,0 +1,63 @@
+# Vortprovizo: precise everyday verbs and adjectives an intermediate speaker reaches past for a vaguer one,
+# and false friends for a speaker of Spanish, English and German. The hint gives the gap's first letter and length.
+# vorto | difino | ekzemplo kun {{la vorto}} | notoj | bazo (malplena) | R
+# Falsaj amikoj kaj paroj
+pretendi | aserti, ke oni havas rajton al io aŭ ke io estas vera | Li {{pretendas}}, ke li neniam ricevis la leteron. | Falsa amiko: hispane <i>pretender</i> estas <i>intenci, celi</i>. | | R
+ekzemplero | unu kopio de libro, gazeto, disko | La libro vendiĝis en dek mil {{ekzempleroj}}. | Ne <i>ekzemplo</i> (modelo por klarigi). | | R
+eventuala | ebla, okazonta nur se iuj kondiĉoj plenumiĝos | Ni preparu nin por {{eventualaj}} problemoj. | Falsa amiko: angle <i>eventual</i> estas <i>fina</i>. | | R
+konscia | sciante, kion oni faras aŭ kio okazas | Li ne estis {{konscia}} pri la danĝero. | Ne konfuzu kun <i>konscienca</i>: zorga pro konscienco. | | R
+konscienca | zorge plenumanta siajn devojn | Ŝi estas tre {{konscienca}} laboristino. | Kp. <i>konscia</i>: sciante, kio okazas. | |
+simpatia | agrabla, inspiranta korinklinon | La nova najbaro ŝajnas tre {{simpatia}}. | Kiel hispane <i>simpático</i>, ne kiel angle <i>sympathetic</i> (kompatema). | |
+kompromiti | endanĝerigi ies reputacion | Tiuj fotoj povus {{kompromiti}} la ministron. | Ne «interkonsenti»: tio estas <i>fari kompromison</i>. | | R
+atendi | resti ĝis io okazos aŭ iu venos | Mi {{atendis}} vin dum horo ĉe la stacidomo! | Hispane <i>esperar</i> estas aŭ <i>atendi</i> aŭ <i>esperi</i>; Esperanto distingas ilin. | |
+esperi | deziri kaj kredi, ke io bona okazos | Mi {{esperas}}, ke vi baldaŭ resaniĝos. | Kp. <i>atendi</i>: resti ĝis io okazos. | |
+peti | diri, ke oni deziras, ke iu faru aŭ donu ion | Ŝi {{petis}} min fermi la fenestron. | Ne <i>demandi</i>: tio estas serĉi informon. | |
+lui | uzi ion kontraŭ pago, aŭ lasi iun uzi ĝin | Ni {{luis}} aŭton por la ferioj. | Ambaŭ direktoj; por precizigi: <i>lupreni</i> kaj <i>ludoni</i>. | | R
+prunti | doni aŭ preni ion portempe, por redoni ĝin | Ĉu vi povas {{prunti}} al mi vian biciklon? | <i>prunti al iu</i> (doni), <i>prunti de iu</i> (preni); precize: <i>pruntedoni</i>, <i>pruntepreni</i>. | | R
+# Verboj de opinio kaj komunikado
+aserti | diri, ke io estas vera, sen nepre pruvi ĝin | La firmao {{asertas}}, ke la produkto estas sekura. | | | R
+pruvi | montri sendube, ke io estas vera | Ĉu vi povas {{pruvi}} tion? | | |
+konsenti | havi la saman opinion; akcepti proponon | Mi tute {{konsentas}} kun vi. | <i>konsenti kun iu</i>, <i>konsenti pri io</i>. | |
+rifuzi | ne akcepti; diri «ne» al peto aŭ propono | Ŝi {{rifuzis}} la inviton. | | |
+konvinki | per argumentoj igi iun kredi aŭ fari ion | Ŝi {{konvinkis}} min resti. | | | R
+agnoski | konfesi, ke io estas vera aŭ valida | Li fine {{agnoskis}} sian eraron. | | | R
+konfesi | malkaŝe diri ion, kion oni faris aŭ sentas | Li {{konfesis}}, ke li mensogis. | | |
+suspekti | supozi, ke iu estas kulpa aŭ ke io malbona okazas | La polico {{suspektas}} la najbaron. | | | R
+kalumnii | malvere kaj malice paroli malbone pri iu | Oni {{kalumniis}} lin en la gazetoj. | | | R
+postuli | peti forte, kiel rajton | La laboristoj {{postulas}} pli altajn salajrojn. | | | R
+heziti | ne decidi tuj, pro dubo | Ŝi {{hezitis}} antaŭ ol respondi. | | |
+rezigni | libervole ĉesi deziri aŭ uzi ion | Li {{rezignis}} pri la posteno. | <i>rezigni pri io</i>. | | R
+# Verboj de ago kaj rilato
+eviti | resti for de io malagrabla; ne lasi ĝin okazi | Ni prenis alian vojon por {{eviti}} la trafikŝtopiĝon. | | | R
+atingi | alveni ĝis; sukcesi ricevi | Ni {{atingis}} la pinton post kvin horoj. | | |
+akiri | ekhavi per peno aŭ aĉeto | Ŝi {{akiris}} grandan sperton eksterlande. | | | R
+trakti | okupiĝi pri temo; konduti al iu iel | La libro {{traktas}} la historion de Esperanto. | | | R
+dependi | esti kondiĉita de io | Ĉio {{dependas}} de la vetero. | <i>dependi de io</i>. | |
+rilati | havi rilaton al io | Tio ne {{rilatas}} al nia temo. | <i>rilati al io</i>. | |
+taŭgi | esti uzebla aŭ konvena por celo | Ĉi tiuj ŝuoj ne {{taŭgas}} por montogrimpado. | | | R
+sufiĉi | esti tiom, kiom necesas | Unu glaso {{sufiĉas}}, dankon. | | |
+elteni | toleri ion malfacilan ĝis la fino | Mi ne plu povas {{elteni}} tiun bruon! | | | R
+kutimi | havi la kutimon fari ion | Mi {{kutimas}} trinki kafon matene. | <i>kutimi</i> + infinitivo. Kp. <i>alkutimiĝi al</i>: iom post iom ekkutimi. | |
+alkutimiĝi | iom post iom ekhavi la kutimon de io | Mi ankoraŭ ne {{alkutimiĝis}} al la klimato. | <i>alkutimiĝi al io</i>. | | R
+rimarki | ekvidi aŭ ekkonscii pri io | Ĉu vi {{rimarkis}}, ke ŝi tondigis siajn harojn? | | |
+distingi | vidi aŭ fari diferencon inter du aferoj | Mi ne povas {{distingi}} la ĝemelojn. | | | R
+malhelpi | fari, ke io ne povu okazi aŭ ke iu ne povu agi | La bruo {{malhelpas}} min dormi. | Ne «malbone helpi», sed «bari». | |
+subteni | helpi kaj apogi iun aŭ ion | Ĉiuj kolegoj {{subtenis}} lian proponon. | | |
+fidi | kredi je ies honesteco aŭ kapablo | Mi plene {{fidas}} vin. | | |
+ĝeni | malagrable trudi sin al iu; maltrankviligi | Pardonu, ke mi {{ĝenas}} vin. | | |
+ĝui | havi plezuron de io | {{Ĝuu}} vian restadon! | Transitiva: <i>ĝui ion</i>. | |
+regali | inviti iun al manĝaĵo aŭ trinkaĵo kaj pagi | Hodiaŭ mi {{regalas}} vin! | | | R
+ekscii | ricevi novan scion pri io | Mi {{eksciis}} la novaĵon nur hieraŭ. | ek + scii. | |
+ŝanceliĝi | moviĝi necerte tien kaj reen | La ebriulo {{ŝanceliĝis}} hejmen. | Figure ankaŭ: heziti. | | R
+# Sentoj
+sopiri | forte deziri iun aŭ ion forestantan | Mi {{sopiras}} al mia hejmlando. | <i>sopiri al</i> aŭ <i>pri</i>. | | R
+enui | senti sin neokupita kaj sen intereso | La infanoj {{enuas}} dum longaj vojaĝoj. | <i>enuiga</i>: kaŭzanta enuon. | | R
+ĉagreni | kaŭzi al iu malĝojon aŭ koleron | Lia silento {{ĉagrenis}} ŝin. | | | R
+fieri | senti ĝojan kontentecon pri io | Mi {{fieras}} pri mia filino. | <i>fieri pri io</i>. | | R
+kompati | senti kunsuferon pro ies malfeliĉo | Mi {{kompatas}} tiujn, kiuj perdis sian hejmon. | | | R
+ŝajni | doni la impreson esti iel | Vi {{ŝajnas}} laca. | Kun nominativo: <i>vi ŝajnas laca</i>. | |
+# Adjektivoj kaj adverboj
+kulpa | respondeca pro eraro aŭ krimo | La juĝisto trovis lin {{kulpa}}. | Predikativo de objekto, do sen -n. | | R
+verŝajne | kun granda probableco | Li {{verŝajne}} maltrafis la trajnon. | | | R
+nepre | certe, sen escepto | Vi {{nepre}} venu al la festo! | | | R
+kvankam | malgraŭ tio, ke | {{Kvankam}} pluvis, ni promenis. | Kp. <i>malgraŭ</i> + substantivo: <i>malgraŭ la pluvo</i>. | |
