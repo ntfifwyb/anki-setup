@@ -5,7 +5,7 @@ Three subdecks of the [Esperanto deck](../) that share one note type, one file e
 | Subdeck | Notes | File |
 |---|---|---|
 | 01 Vortfarado | 90 | `data/01-vortfarado.txt`: words built with affixes (*-ig-*, *-iĝ-*, *-ebl-*, *-ind-*, *-end-*, *-ej-*, *-ing-*, *-um-*, *mal-*, *ek-*, *bo-*, *fi-*, *mis-* …) and prepositions as prefixes |
-| 02 Vortprovizo | 55 | `data/02-vortprovizo.txt`: precise verbs and adjectives (*aserti*, *agnoski*, *elteni*, *sopiri*) and false friends (*pretendi*, *eventuala*, *kompromiti*) |
+| 02 Vortprovizo | 9 | `data/02-vortprovizo.txt`: precise adjectives and adverbs (*verŝajne*, *nepre*) and false friends (*eventuala*, *simpatia*). Its verbs moved to [Verboj](../verbs/) in 2.0.0 |
 | 03 Korelativoj kaj partikloj | 44 | `data/03-korelativoj-kaj-partikloj.txt`: the rarer correlatives (*ties*, *nenial*, *ĉiom*) and particles (*ja*, *plu*, *ajn*, *ju … des*) |
 
 ## Cards

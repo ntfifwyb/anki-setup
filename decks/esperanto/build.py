@@ -11,7 +11,7 @@ import genanki
 from common import add_notes
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-PARTS = ["words", "grammar"]
+PARTS = ["words", "grammar", "verbs"]
 OUT = os.path.join(HERE, "Esperanto.apkg")
 
 
