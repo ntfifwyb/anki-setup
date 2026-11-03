@@ -1,0 +1,75 @@
+# Proverboj: from Zamenhof's Proverbaro Esperanta (2nd edition, 1925), word for word as in the proofread transcription on
+# Esperanto Wikisource. The example is the proverb with its second half gapped; the notes give the proverb's number in
+# the Proverbaro and, where there is one, the same proverb in Spanish, English or German. Every proverb has a Rekoni card.
+# proverbo | signifo | la proverbo kun {{la dua parto}} | notoj | R
+# Laboro, pacienco, komenco
+Kiu ne riskas, tiu ne gajnas. | por sukcesi oni devas kuraĝi | Kiu ne riskas, {{tiu ne gajnas}}. | Proverbaro 3. Hispane <i>quien no arriesga, no gana</i>; angle <i>nothing ventured, nothing gained</i>. | R
+Komenco bona — laboro duona. | se oni bone komencas, la resto iras facile | Komenco bona — {{laboro duona}}. | Proverbaro 6. Angle <i>well begun is half done</i>. | R
+Ĉiu komenco estas malfacila. | la unuaj paŝoj de ĉiu afero estas la plej penaj | Ĉiu komenco {{estas malfacila}}. | Proverbaro 356. Germane <i>aller Anfang ist schwer</i>. | R
+Per pacienco venas scienco. | oni lernas nur iom post iom, kun pacienco | Per pacienco {{venas scienco}}. | Proverbaro 27. | R
+Laboro kaj pacienco kondukas al potenco. | per persista laboro oni atingas sian celon | Laboro kaj pacienco {{kondukas al potenco}}. | Proverbaro 1207. | R
+Guto malgranda sed ŝtonon ĝi boras. | per persisto eĉ malgranda forto atingas grandan rezulton | Guto malgranda {{sed ŝtonon ĝi boras}}. | Proverbaro 238. Germane <i>steter Tropfen höhlt den Stein</i>. | R
+Ne prokrastu ĝis morgaŭ, kion vi povas fari hodiaŭ. | faru vian taskon tuj, ne poste | Ne prokrastu ĝis morgaŭ, {{kion vi povas fari hodiaŭ}}. | Proverbaro 942. | R
+Horo matena estas horo bena. | la matenaj horoj estas la plej fruktodonaj | Horo matena {{estas horo bena}}. | Proverbaro 969. Germane <i>Morgenstund hat Gold im Mund</i>. | R
+Lupo dormanta ŝafon ne kaptas. | kiu estas maldiligenta, nenion akiras | Lupo dormanta {{ŝafon ne kaptas}}. | Proverbaro 729. | R
+Forĝu feron dum ĝi estas varmega. | agu, dum la okazo estas favora | Forĝu feron {{dum ĝi estas varmega}}. | Proverbaro 525. Angle <i>strike while the iron is hot</i>. | R
+Dek fojojn mezuru, unu fojon detranĉu. | pripensu bone, antaŭ ol agi | Dek fojojn mezuru, {{unu fojon detranĉu}}. | Proverbaro 602. Angle <i>measure twice, cut once</i>. | R
+Kiu ĉasas du leporojn, kaptas neniun. | kiu volas fari tro da aferoj samtempe, sukcesas en neniu | Kiu ĉasas du leporojn, {{kaptas neniun}}. | Proverbaro 628. | R
+Trafi du celojn per unu ŝtono. | per unu ago atingi du rezultojn | Trafi du celojn {{per unu ŝtono}}. | Proverbaro 291. Angle <i>to kill two birds with one stone</i>. | R
+Pli bone malfrue, ol neniam. | malfrua ago estas pli bona ol neniu | Pli bone malfrue, {{ol neniam}}. | Proverbaro 1154. | R
+Dum la manĝado venas apetito. | ju pli oni havas aŭ faras, des pli oni volas | Dum la manĝado {{venas apetito}}. | Proverbaro 612. | R
+Kiu demandas, tiu ne eraras. | pli bone demandi ol fari eraron | Kiu demandas, {{tiu ne eraras}}. | Proverbaro 168. | R
+Kio estas lernita, ne estas perdita. | scio ĉiam iam utilas | Kio estas lernita, {{ne estas perdita}}. | Proverbaro 1213. | R
+Lernu juna — vi scios maljuna. | kion oni lernas juna, tion oni konservas por la tuta vivo | Lernu juna — {{vi scios maljuna}}. | Proverbaro 26. | R
+Homo lernas la tutan vivon. | oni neniam ĉesas lerni | Homo lernas {{la tutan vivon}}. | Proverbaro 386. | R
+Kiel oni sternas, tiel oni dormas. | oni vivas la sekvojn de siaj propraj agoj | Kiel oni sternas, {{tiel oni dormas}}. | Proverbaro 354. Germane <i>wie man sich bettet, so liegt man</i>. | R
+Kiu kaĉon kuiris, tiu ĝin manĝu. | kiu kaŭzis problemon, tiu mem solvu ĝin | Kiu kaĉon kuiris, {{tiu ĝin manĝu}}. | Proverbaro 260. Germane <i>wer sich die Suppe eingebrockt hat, muss sie auch auslöffeln</i>. | R
+Kia la semo, tia la rikolto. | la rezulto dependas de tio, kion oni faris | Kia la semo, {{tia la rikolto}}. | Proverbaro 29. Angle <i>you reap what you sow</i>. | R
+Kia ago, tia pago. | oni ricevas tion, kion oni meritas | Kia ago, {{tia pago}}. | Proverbaro 29. | R
+# Paroli kaj agi
+Parolo estas arĝento, oron similas silento. | ofte pli saĝe estas silenti ol paroli | Parolo estas arĝento, {{oron similas silento}}. | Proverbaro 453. Germane <i>Reden ist Silber, Schweigen ist Gold</i>. | R
+Vortojn ŝparu, agojn faru. | malpli parolu kaj pli agu | Vortojn ŝparu, {{agojn faru}}. | Proverbaro 459. | R
+Ne rapidu kun vortoj, rapidu kun faroj. | promesu malpli, faru pli | Ne rapidu kun vortoj, {{rapidu kun faroj}}. | Proverbaro 856. | R
+Paroloj kaj faroj estas malsamaj aferoj. | diri ion ne signifas fari ĝin | Paroloj kaj faroj {{estas malsamaj aferoj}}. | Proverbaro 842. | R
+Mia lango — mia malamiko. | per babilado oni mem kaŭzas al si malbonon | Mia lango — {{mia malamiko}}. | Proverbaro 455. | R
+Kiu bojas, ne mordas. | kiu multe minacas, malofte agas | Kiu bojas, {{ne mordas}}. | Proverbaro 163. Hispane <i>perro ladrador, poco mordedor</i>. | R
+Saĝa kapo duonvorton komprenas. | saĝa homo komprenas eĉ sen longaj klarigoj | Saĝa kapo {{duonvorton komprenas}}. | Proverbaro 1129. Hispane <i>a buen entendedor, pocas palabras bastan</i>. | R
+Kiu ne petas, tiu ne ricevas. | por ricevi ion, oni devas peti ĝin | Kiu ne petas, {{tiu ne ricevas}}. | Proverbaro 686. | R
+Kiu donas rapide, donas duoble. | helpo donita tuj valoras pli | Kiu donas rapide, {{donas duoble}}. | Proverbaro 763. | R
+Kiom da kapoj, tiom da opinioj. | ĉiu homo pensas alimaniere | Kiom da kapoj, {{tiom da opinioj}}. | Proverbaro 245. | R
+Ĉiu havas sian propran guston. | pri gustoj oni ne disputu | Ĉiu havas {{sian propran guston}}. | Proverbaro 53. | R
+# Amikoj kaj homoj
+Amikon montras malfeliĉo. | en malfacila tempo oni vidas, kiu estas vera amiko | Amikon {{montras malfeliĉo}}. | Proverbaro 784. Angle <i>a friend in need is a friend indeed</i>. | R
+Pli bona amiko intima, ol parenco malproksima. | proksima amiko helpas pli ol fora parenco | Pli bona amiko intima, {{ol parenco malproksima}}. | Proverbaro 89. | R
+Prunto amikon forpelas. | pruntedoni monon al amiko ofte detruas la amikecon | Prunto {{amikon forpelas}}. | Proverbaro 174. | R
+For de l' okuloj, for de la koro. | kiun oni ne plu vidas, tiun oni forgesas | For de l' okuloj, {{for de la koro}}. | Proverbaro 255. Angle <i>out of sight, out of mind</i>. | R
+Kia patrino, tia filino. | infanoj similas al siaj gepatroj | Kia patrino, {{tia filino}}. | Proverbaro 689. | R
+Lupo ŝanĝas la harojn, sed ne la farojn. | homo povas ŝanĝi sian aspekton, sed ne sian naturon | Lupo ŝanĝas la harojn, {{sed ne la farojn}}. | Proverbaro 279. | R
+Kapuĉo monaĥon ne faras. | la eksteraĵo ne montras, kia iu vere estas | Kapuĉo {{monaĥon ne faras}}. | Proverbaro 368. Hispane <i>el hábito no hace al monje</i>. | R
+Ne ĉio utilas, kio brilas. | io bela aŭ alloga ne ĉiam havas valoron | Ne ĉio utilas, {{kio brilas}}. | Proverbaro 87. Hispane <i>no es oro todo lo que reluce</i>; germane <i>es ist nicht alles Gold, was glänzt</i>. | R
+En fremda okulo ni vidas ligneron, en nia ni trabon ne vidas. | oni facile vidas la erarojn de aliaj, sed ne la proprajn | En fremda okulo ni vidas ligneron, {{en nia ni trabon ne vidas}}. | Proverbaro 252. El la Biblio (Mateo 7:3). | R
+En arbaro sidas kaj arbojn ne vidas. | ne vidi tion, kio estas tute proksime kaj evidenta | En arbaro sidas {{kaj arbojn ne vidas}}. | Proverbaro 1102. Germane <i>den Wald vor lauter Bäumen nicht sehen</i>, inverse. | R
+Scias la kato, kies lardon ĝi manĝis. | kiu estas kulpa, tiu bone scias tion | Scias la kato, {{kies lardon ĝi manĝis}}. | Proverbaro 314. | R
+Kiu fosas sub alia, falos mem en la foson. | kiu volas malutili al aliaj, finfine malutilas al si mem | Kiu fosas sub alia, {{falos mem en la foson}}. | Proverbaro 782. Germane <i>wer andern eine Grube gräbt, fällt selbst hinein</i>. | R
+Okazo faras ŝteliston. | facila ebleco tentas eĉ honestulon | Okazo {{faras ŝteliston}}. | Proverbaro 309. Germane <i>Gelegenheit macht Diebe</i>. | R
+Kiam kato promenas, la musoj festenas. | kiam la estro forestas, la aliaj faras, kion ili volas | Kiam kato promenas, {{la musoj festenas}}. | Proverbaro 300. Angle <i>when the cat's away, the mice will play</i>. | R
+Du militas — tria profitas. | kiam du disputas, gajnas iu tria | Du militas — {{tria profitas}}. | Proverbaro 85. Germane <i>wenn zwei sich streiten, freut sich der Dritte</i>. | R
+En akvo malklara oni fiŝkaptas facile. | en konfuzo profitas la ruzuloj | En akvo malklara {{oni fiŝkaptas facile}}. | Proverbaro 269. Hispane <i>a río revuelto, ganancia de pescadores</i>. | R
+Kie estas mielo, tie muŝoj ne mankas. | kie estas profito, tien venas multaj homoj | Kie estas mielo, {{tie muŝoj ne mankas}}. | Proverbaro 403. | R
+# Saĝo de la vivo
+Ne ekzistas fumo sen fajro. | ĉiu onidiro havas ian kaŭzon | Ne ekzistas fumo {{sen fajro}}. | Proverbaro 399. Angle <i>there's no smoke without fire</i>. | R
+Ne laŭdu la tagon antaŭ vespero. | ne ĝoju pri sukceso, antaŭ ol ĝi estas certa | Ne laŭdu la tagon {{antaŭ vespero}}. | Proverbaro 241. Germane <i>man soll den Tag nicht vor dem Abend loben</i>. | R
+Antaŭ mortigo de urso ne vendu ĝian felon. | ne kalkulu je io, kion vi ankoraŭ ne havas | Antaŭ mortigo de urso {{ne vendu ĝian felon}}. | Proverbaro 1106. Hispane <i>no vendas la piel del oso antes de cazarlo</i>. | R
+Al ĉevalo donacita oni buŝon ne esploras. | ne kritiku donacon | Al ĉevalo donacita {{oni buŝon ne esploras}}. | Proverbaro 590. Angle <i>don't look a gift horse in the mouth</i>. | R
+El du malbonoj pli malgrandan elektu. | se ĉiu elekto estas malbona, elektu la malplej malbonan | El du malbonoj {{pli malgrandan elektu}}. | Proverbaro 631. | R
+En ĉiu malbono estas iom da bono. | eĉ malbona okazaĵo havas ian bonan flankon | En ĉiu malbono {{estas iom da bono}}. | Proverbaro 701. | R
+Pli bona estas io, ol nenio. | eĉ malmulte estas pli bone ol nenio | Pli bona estas io, {{ol nenio}}. | Proverbaro 1105. | R
+Unu hirundo printempon ne alportas. | unu sola signo ankoraŭ ne pruvas ion | Unu hirundo {{printempon ne alportas}}. | Proverbaro 1141. Angle <i>one swallow does not make a summer</i>. | R
+De majesta ĝis ridinda estas nur unu paŝo. | io grandioza facile fariĝas ridinda | De majesta ĝis ridinda {{estas nur unu paŝo}}. | Proverbaro 637. | R
+Fajro provas la oron, mizero la koron. | en malfacilaĵoj montriĝas, kia iu vere estas | Fajro provas la oron, {{mizero la koron}}. | Proverbaro 1006. | R
+Hodiaŭ al mi, morgaŭ al vi. | kio trafis min hodiaŭ, povas trafi vin morgaŭ | Hodiaŭ al mi, {{morgaŭ al vi}}. | Proverbaro 943. | R
+De unu bovo oni du felojn ne deŝiras. | oni ne povas profiti duoble el la sama afero | De unu bovo {{oni du felojn ne deŝiras}}. | Proverbaro 222. | R
+Kiu domaĝas groŝon, perdas la tulan poŝon. | troa ŝparemo pri malgrandaĵoj kaŭzas grandan perdon | Kiu domaĝas groŝon, {{perdas la tulan poŝon}}. | Proverbaro 16. | R
+Kiam nokto vualas, ĉiuj koloroj egalas. | en mallumo oni ne vidas diferencojn | Kiam nokto vualas, {{ĉiuj koloroj egalas}}. | Proverbaro 1134. | R
+Kontenteco estas pli bona ol riĉeco. | esti kontenta valoras pli ol esti riĉa | Kontenteco estas pli bona {{ol riĉeco}}. | Proverbaro 1078. | R
+Interkonsento estas pli bona ol mono. | paco inter homoj valoras pli ol mono | Interkonsento estas pli bona {{ol mono}}. | Proverbaro 656. | R

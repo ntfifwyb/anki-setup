@@ -1,0 +1,50 @@
+# Kolokacioj: words that belong together, a verb and its noun or an adjective and its noun, where a speaker of Spanish,
+# English or German reaches for a calque (ne «pagi atenton», ne «meti la tablon», ne «peza pluvo»).
+# esprimo | difino | ekzemplo kun {{la esprimo}} | notoj | R
+# Verbo kaj substantivo
+fari decidon | elekti, kion fari, post pripenso | Ni devas {{fari decidon}} ĝis vendredo. | Aŭ simple <i>decidi</i>. <i>Preni decidon</i> estas galicismo, kvankam ofte aŭdata. |
+preni parton en | partopreni ion | Ĉiuj {{prenis parton en}} la diskuto. | = <i>partopreni</i>. |
+fari demandon | demandi | Ĉu mi rajtas {{fari demandon}}? | <i>Fari al iu demandon</i>. Ne <i>meti demandon</i>; <i>starigi demandon</i> estas levi problemon por diskuto. |
+doni konsilon | konsili | Ŝi {{donis}} al mi bonan {{konsilon}}. | <i>Doni konsilon al iu</i>. |
+fari eraron | erari | Ĉiu povas {{fari eraron}}. | |
+teni sian vorton | fari tion, kion oni promesis | Li ĉiam {{tenas sian vorton}}. | Malo: <i>rompi sian vorton</i>, <i>rompi promeson</i>. |
+fari paŭzon | dum mallonga tempo ĉesi labori | Ni {{faru paŭzon}} de dek minutoj. | |
+trapasi ekzamenon | sukcesi en ekzameno | Ŝi {{trapasis la ekzamenon}} kun bona noto. | Ankaŭ <i>sukcesi en ekzameno</i>; malo: <i>malsukcesi en</i>, <i>fiaski en ekzameno</i>. |
+akiri sperton | lerni per propra praktiko | Dum la staĝo ŝi {{akiris}} multe da {{sperto}}. | |
+pasigi tempon | uzi tempon por io, lasi ĝin pasi | Ni {{pasigis la tempon}} ludante kartojn. | <i>Pasigi</i> (tr.): iu pasigas la tempon; <i>pasi</i> (ntr.): la tempo pasas. |
+perdi tempon | malŝpari tempon por nenio utila | Ne {{perdu tempon}} pri tiaj bagateloj. | |
+havi la okazon | povi fari ion, ĉar la cirkonstancoj permesas | Mi ankoraŭ ne {{havis la okazon}} danki lin. | Kp. <i>kapti la okazon</i>, <i>maltrafi la okazon</i>. |
+kapti la okazon | uzi la ŝancon, kiam ĝi venas | Ŝi {{kaptis la okazon}} paroli kun la direktoro. | |
+premi la manon | saluti per la mano | Li {{premis}} al mi {{la manon}}. | Ofte kun <i>al</i>: <i>premi al iu la manon</i>. |
+fari impreson | estigi ian opinion ĉe aliaj | Ŝi {{faris bonan impreson}} al la komisiono. | Al iu. |
+turni la atenton al | igi iun rimarki ion | Ŝi {{turnis}} mian {{atenton al}} eraro en la kalkulo. | Ne <i>pagi atenton</i> (angle <i>pay attention</i>): diru <i>atenti</i>. |
+ĵeti rigardon al | rapide rigardi | Li {{ĵetis rigardon al}} la horloĝo. | |
+kovri la tablon | prepari la tablon por manĝo | {{Kovru la tablon}}, la vespermanĝo estas preta! | Ne <i>meti la tablon</i> (hispane <i>poner la mesa</i>). Malo: <i>malkovri la tablon</i>. |
+dividi la opinion | havi la saman opinion kiel iu | Mi ne {{dividas vian opinion}}. | |
+havi sencon | esti logika, kompreninda | Tio tute ne {{havas sencon}}. | Ne <i>fari sencon</i> (angle <i>make sense</i>, germane <i>Sinn machen</i>). |
+plenumi sian devon | fari tion, kion oni devas | Li nur {{plenumis sian devon}}. | |
+fari komplezon | helpi iun per malgranda servo | Ĉu vi povus {{fari al mi komplezon}}? | <i>Fari al iu komplezon</i>; ankaŭ <i>fari al iu servon</i>. |
+doni la vorton | permesi al iu paroli en kunsido | La prezidanto {{donis la vorton}} al la kasisto. | Kaj <i>peti la vorton</i>, <i>havi la vorton</i>. |
+ludi rolon | havi gravecon aŭ funkcion en io | Mono {{ludas gravan rolon}} en tiu afero. | |
+tiri konkludon | el faktoj trovi, kio el ili sekvas | Kiun {{konkludon}} vi {{tiras}} el tio? | <i>Tiri konkludon el io</i>; ankaŭ <i>veni al la konkludo, ke …</i> |
+atingi interkonsenton | fine konsenti post intertraktado | La sindikatoj kaj la firmao {{atingis interkonsenton}}. | |
+fari kompromison | ambaŭflanke iom cedi | Ambaŭ partioj devis {{fari kompromison}}. | |
+teni en memoro | ne forgesi | {{Tenu en memoro}}, ke la vendejo fermiĝas je la sesa. | |
+stari en vico | atendi unu post alia | Ni devis {{stari en vico}} dum horo. | Kaj <i>atendi sian vicon</i>. |
+atendi sian vicon | atendi, ĝis venos la momento por si | Bonvolu {{atendi vian vicon}}. | |
+pagi kontante | pagi per moneroj kaj monbiletoj | Ĉu vi {{pagos kontante}} aŭ per karto? | |
+ŝalti la lumon | igi lampon funkcii | {{Ŝaltu la lumon}}, mi nenion vidas. | Malo: <i>malŝalti</i>. Ne <i>turni</i> la lumon. |
+iri piede | iri sen veturilo | Ni {{iris piede}} al la stacidomo. | Kp. <i>veturi per buso</i>, <i>per biciklo</i>. |
+fari karieron | sukcese progresi en sia profesio | Ŝi {{faris karieron}} en la diplomatio. | |
+renkonti malfacilaĵojn | trovi problemojn sur sia vojo | La projekto {{renkontis}} multajn {{malfacilaĵojn}}. | |
+alfronti problemon | kuraĝe trakti problemon | Ni devas {{alfronti la problemon}}, ne eviti ĝin. | |
+solvi problemon | trovi respondon al problemo | Neniu sukcesis {{solvi la problemon}}. | Ne <i>rezolvi</i>; <i>solvo</i> estas la respondo. |
+fari bruon | estigi laŭtajn sonojn | La infanoj {{faris}} tro da {{bruo}}. | |
+konservi trankvilon | resti trankvila malgraŭ problemoj | En krizo plej gravas {{konservi trankvilon}}. | |
+perdi la paciencon | ne plu povi atendi aŭ toleri | Fine la instruisto {{perdis la paciencon}}. | |
+# Adjektivo kaj substantivo
+forta pluvo | pluvo kun multe da akvo | Pro la {{forta pluvo}} ni restis hejme. | Ne <i>peza pluvo</i> (angle <i>heavy rain</i>). Ankaŭ <i>pluvego</i>. |
+densa trafiko | multaj veturiloj samtempe sur la vojoj | Matene estas {{densa trafiko}} en la urbocentro. | |
+forta kafo | kafo kun multe da kafo kaj malmulte da akvo | Mi bezonas {{fortan kafon}} matene. | Malo: <i>malforta kafo</i>. |
+plentempa laboro | laboro dum la tuta normala labortempo | Ŝi serĉas {{plentempan laboron}}. | Kaj <i>duontempa</i>; adverbe: <i>labori plentempe</i>. |
+firma decido | decido, kiun oni ne ŝanĝos | Ŝi faris {{firman decidon}} ĉesi fumi. | |

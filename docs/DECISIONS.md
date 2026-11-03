@@ -87,3 +87,13 @@
 **Why:** the rest of the deck is monolingual, and recalling the verb from an Esperanto definition is the same exercise as German's Verben. A verb studied twice under two note types doubles the reviews for nothing.
 
 **Also decided by Claude (pending review):** Verboj is numbered 05, after the existing subdecks, rather than renamed to the front, so no deck needs renaming in Anki; the only step on import is deleting the 46 old Vortprovizo notes (CHANGELOG 2.0.0 gives the search). The 32 verbs also in Vortfarado stay there: that card tests building the word from its root (*el «bona»* → *plibonigi*), a different skill from using it. Definitions may share the verb's root (*validi*: "esti valida"), as PIV's do: in Esperanto the root is the word, and the card tests turning it into the verb's form; only definitions containing the verb itself were rewritten. Transitivity (`tr.`/`ntr.`) is shown on the front, since it decides the sentence (*komenci*/*komenciĝi*). Every verb is spoken, as in German, so the deck grows from 343 to about 4,300 clips (eSpeak, about 20 kB each). The `.xlsx` isn't committed: it also holds the owner's study sessions and stories; `verbs.txt` is the source now.
+
+## 2026-11-03: Esperanto expressions (06 Esprimoj)
+
+**Question:** the owner asked for the Esperanto deck to grow with expressions and collocations, like German's Ausdrücke. What goes in, and how are the cards made?
+
+**Choice (decided by Claude, pending review):** one subdeck **06 Esprimoj** with four parts: prepositions, collocations, linking words and set phrases, and proverbs from Zamenhof's *Proverbaro Esperanta*. Notes use the existing **Esperanto Word** note type rather than a new one. Verb + preposition pairs already in a Verboj note or sentence (about 210) are left out, as German's Ausdrücke leaves out pairs on a Verben card; the first part covers adjectives and nouns with their preposition instead, plus verbs Verboj doesn't pair. Proverbs are copied word for word from the proofread Wikisource transcription of the 1925 second edition, and checked against it by their number, rather than written from memory; the card gaps the proverb's second half, and every proverb has a Rekoni card, as German's idioms do.
+
+**Why:** Esperanto's verb + preposition pairs are mostly regular and Verboj already names them; studying them twice doubles the reviews. Adjective and noun pairs (*riĉa je*, *rajto je*) are where speakers of other languages go wrong. A new note type would only rename the same fields. Zamenhof's wording is the reference, so a misremembered proverb would teach the wrong form.
+
+**Also:** the 46 clips left unused when Vortprovizo's verbs moved to Verboj (2.0.0) are deleted, as the owner asked; the `.apkg` never contained them.

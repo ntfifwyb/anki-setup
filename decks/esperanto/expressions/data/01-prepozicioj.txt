@@ -1,0 +1,48 @@
+# Prepozicioj: the preposition that goes with an adjective, a noun or a verb, where Spanish, English or German would
+# pick another (je, pri, kontraŭ, al). The gap includes the word and its preposition.
+# Left out: pairs already on a Verboj card, in its notes or its sentence (dependi de, kredi je, fieri pri, enamiĝi al,
+# interesiĝi pri, simili al, plaĉi al, manki al, ridi pri, konsenti kun/pri, zorgi pri and about 200 more).
+# esprimo | difino | ekzemplo kun {{la esprimo}} | notoj | R
+# Adjektivoj
+riĉa je | havanta multon da io | La regiono estas {{riĉa je}} mineraloj kaj arbaroj. | <i>Je</i> por la abundo; ankaŭ <i>malriĉa je</i>: <i>manĝaĵo malriĉa je vitaminoj</i>. |
+plena de | enhavanta tiom, kiom eblas | La salono estis {{plena de}} homoj. | Ankaŭ <i>plena je</i>, precipe por abstraktaĵoj: <i>plena je espero</i>. Ne <i>plena da</i>. |
+avida je | forte deziranta ion | Li estas {{avida je}} mono kaj potenco. | Ankaŭ <i>avida pri</i>. |
+inda je | meritanta ion | Ŝi estas {{inda je}} via fido. | Aŭ kun infinitivo: <i>inda esti menciata</i>. Kp. la verbon <i>meriti</i>. |
+kapabla je | havanta la povon fari ion | En tia stato li estas {{kapabla je}} ĉio. | Ankaŭ kun infinitivo, sen prepozicio: <i>kapabla naĝi</i>. |
+certa pri | tute ne dubanta | Ĉu vi estas {{certa pri}} tio? | <i>Certa, ke</i> antaŭ subfrazo: <i>mi estas certa, ke li venos</i>. |
+konvinkita pri | firme kredanta, ke io estas vera | Mi estas {{konvinkita pri}} lia senkulpeco. | Kp. <i>konvinki iun pri io</i>. |
+maltrankvila pri | timanta, ke io malbona okazos | La patrino estis {{maltrankvila pri}} sia filo. | <i>Trankvila pri</i>: ne plu timanta. |
+ĵaluza pri | timanta perdi ies amon al alia | Li estas {{ĵaluza pri}} sia edzino. | Ankaŭ <i>ĵaluza je</i>. |
+kolera kontraŭ | sentanta koleron al iu | Ŝi ankoraŭ estas {{kolera kontraŭ}} mi. | Kontraŭ iu, pro io: <i>kolera pro la malfruo</i>. |
+fama pro | konata de multaj pro io | La urbo estas {{fama pro}} sia malnova ponto. | Kiel hispane <i>famoso por</i>, angle <i>famous for</i>: <i>pro</i> montras la kaŭzon. |
+tipa por | montranta la kutiman econ de iu aŭ io | Tia respondo estas {{tipa por}} li. | Ne <i>tipa de</i> (hispane <i>típico de</i>). |
+danĝera por | povanta damaĝi iun aŭ ion | Fumado estas {{danĝera por}} la sano. | |
+sendependa de | ne regata de alia | La juĝistoj devas esti {{sendependaj de}} la registaro. | Kp. <i>dependi de</i>. |
+sata de | ne plu volanta ion, ĉar oni havis tro da ĝi | Mi estas {{sata de}} liaj senfinaj plendoj. | Laŭvorte: sen plua malsato. Kiel germane <i>etwas satt haben</i>. |
+dankema al | sentanta dankon al iu | Mi estas tre {{dankema al}} vi pro via helpo. | Al iu, pro io. |
+favora al | subtenanta iun aŭ ion | La plimulto estas {{favora al}} la propono. | Kp. la verbon <i>favori</i> (tr.): <i>la leĝo favoras ilin</i>. |
+fidela al | restanta konstante kun iu aŭ ĉe io | Li restis {{fidela al}} siaj principoj. | |
+egala al | samvalora kiel alia | La rezulto estas {{egala al}} nulo. | Kp. la verbon <i>egali</i> (tr.): <i>du plus du egalas kvar</i>. |
+kontraŭa al | estanta tute alia ol io, aŭ kontraŭ ĝi | Tia konduto estas {{kontraŭa al}} la regularo. | |
+sentema al | facile sentanta ion aŭ suferanta pro io | Ŝi estas tre {{sentema al}} malvarmo. | |
+lerta pri | sciipova kaj sperta en iu fako | Li estas {{lerta pri}} komputiloj. | Ankaŭ <i>lerta en</i>. |
+# Substantivoj
+rajto je | tio, kion oni rajtas postuli aŭ fari | Ĉiu infano havas {{rajton je}} edukado. | <i>Je</i>: rajto al io abstrakta. Kun infinitivo, sen prepozicio: <i>rajto voĉdoni</i>. |
+respekto al | estimo pro ies valoro | Li montras grandan {{respekton al}} siaj gepatroj. | Ankaŭ <i>respekto por</i>, <i>respekto antaŭ</i>. |
+fido al | konvinko, ke iu estas honesta kaj ne trompos | Ŝi perdis sian {{fidon al}} la politikistoj. | Ankaŭ <i>fido je</i>. |
+kaŭzo de | tio, kio okazigas ion | Oni ankoraŭ ne konas la {{kaŭzon de}} la fajro. | Sed <i>pro</i> post verbo: <i>okazi pro</i>. |
+ŝlosilo al | rimedo por kompreni aŭ solvi ion | Pacienco estas la {{ŝlosilo al}} sukceso. | Ankaŭ <i>ŝlosilo de</i>. |
+espero je | atendo de io bona | Ili ankoraŭ havas {{esperon je}} paco. | Ankaŭ <i>espero pri</i>; la verbo estas transitiva: <i>esperi pacon</i>. |
+# Verboj
+fidi al | kredi, ke iu estas honesta kaj ne trompos | Mi ne plu {{fidas al}} li. | Al iu; <i>fidi je</i> io: <i>fidi je sia bonŝanco</i>. |
+peti pri | demandi, ke iu donu aŭ faru ion | Ŝi {{petis}} la najbaron {{pri}} helpo. | <i>Peti iun pri io</i>; aŭ <i>peti ion de iu</i>: <i>peti helpon de la najbaro</i>. |
+aŭdi pri | ricevi sciigon pri io | Ĉu vi jam {{aŭdis pri}} la akcidento? | <i>Aŭdi ion</i>: percepti per la oreloj; <i>aŭdi pri io</i>: sciiĝi pri ĝi. |
+scii pri | havi informon pri io | Neniu {{sciis pri}} lia plano. | <i>Scii ion</i>: la faktojn mem; <i>scii pri io</i>: ke ĝi ekzistas. |
+forgesi pri | ne plu pensi pri io farenda | Mi tute {{forgesis pri}} la kunveno! | <i>Forgesi ion</i>: ne plu memori ĝin; ankaŭ ne kunpreni. |
+malsaniĝi je | ekhavi malsanon | Dum la vojaĝo ŝi {{malsaniĝis je}} gripo. | Same <i>malsana je</i>: <i>li estas malsana je diabeto</i>. |
+akordiĝi pri | interkonsenti pri io post diskuto | Fine ni {{akordiĝis pri}} la prezo. | Kun iu, pri io. |
+konvinki pri | per argumentoj igi iun kredi ion | Ŝi {{konvinkis}} min {{pri}} la valoro de sia ideo. | <i>Konvinki iun pri io</i>; aŭ kun <i>ke</i>. |
+interŝanĝi kontraŭ | doni ion kaj ricevi alian anstataŭe | Mi {{interŝanĝis}} mian biciklon {{kontraŭ}} gitaro. | Ankaŭ <i>interŝanĝi ion je io</i>. |
+sin turni al | peti helpon aŭ informon de iu | Pri tio bonvolu {{vin turni al}} la sekretario. | Ankaŭ <i>turni sin al</i>. |
+kapti je | preni kaj teni iun per iu parto | Li {{kaptis}} min {{je}} la brako. | <i>Je</i> por la parto, per kiu oni tenas: <i>preni iun je la mano</i>. |
+soifi je | arde deziri ion | La popolo {{soifas je}} justeco. | Ankaŭ <i>soifi al</i>, kaj <i>malsati je</i>. |
