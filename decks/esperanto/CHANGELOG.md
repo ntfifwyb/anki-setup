@@ -2,6 +2,11 @@
 
 Each version is a release tagged `esperanto-x.y.z` on the [releases page](https://github.com/ntfifwyb/anki-setup/releases). Major: importing it needs a step in Anki. Minor: new cards. Patch: fixes.
 
+## 2.1.0 (2026-11-03)
+
+- New subdeck **06 Esprimoj**, 199 notes (266 cards) with audio, in four parts: **01 Prepozicioj** (40), the preposition an adjective, noun or verb takes (*riĉa je*, *rajto je*, *kapti iun je la brako*); **02 Kolokacioj** (45), words that belong together and the calques to avoid (*fari decidon*, *havi sencon*, *kovri la tablon*); **03 Frazoj kaj diskursaj vortoj** (47), linking words and set phrases (*ne nur … sed ankaŭ*, *rilate al*, *ne dankinde*); **04 Proverboj** (67), proverbs from Zamenhof's *Proverbaro Esperanta*, word for word, each also with a *Rekoni* card.
+- Nothing to do in Anki: importing adds the new subdeck.
+
 ## 2.0.0 (2026-11-03)
 
 - New subdeck **05 Verboj**: the 2,000 most common verbs from my study list (1,997 notes; three non-verbs left out), with an Esperanto definition, transitivity, a gapped sentence, the English as a hint and audio. Verbs ranked 501 and up also have a *Rekoni* card. Sentence fixes are listed in [verbs/README.md](verbs/README.md).

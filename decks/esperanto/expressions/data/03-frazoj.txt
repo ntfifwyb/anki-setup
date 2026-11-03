@@ -1,0 +1,53 @@
+# Frazoj kaj diskursaj vortoj: the words that link and structure what one says (unuflanke … aliflanke, interalie,
+# rilate al), and the set phrases of conversation (ne dankinde, je via sano). The single small words (tamen, do, cetere,
+# almenaŭ, ja …) are in 03 Korelativoj kaj partikloj, and kvankam in 02 Vortprovizo.
+# esprimo | difino | ekzemplo kun {{la esprimo}} | notoj | R
+# Por strukturi kaj argumenti
+laŭ mia opinio | kiel mi pensas | {{Laŭ mia opinio}}, la plano estas tro multekosta. | Ankaŭ <i>miaopinie</i>. |
+unuflanke … aliflanke | por kompari du vidpunktojn | {{Unuflanke}} la laboro estas bone pagata, {{aliflanke}} ĝi estas tre streĉa. | |
+ne nur … sed ankaŭ | aldonas ion pli gravan aŭ pli surprizan | Ŝi parolas {{ne nur}} la anglan, {{sed ankaŭ}} la japanan. | |
+antaŭ ĉio | unue kaj plej grave | {{Antaŭ ĉio}}, dankon pro via veno. | |
+interalie | inter aliaj aferoj | Ni parolis {{interalie}} pri la buĝeto. | |
+alivorte | por diri la samon alimaniere | La firmao malhavas monon; {{alivorte}}, ĝi baldaŭ fermiĝos. | |
+tio estas | por precizigi tion, kion oni ĵus diris | Mi venos postmorgaŭ, {{tio estas}} vendrede. | Mallonge: <i>t.e.</i> |
+kaj tiel plu | kaj aliaj similaj aferoj | Ni aĉetis panon, fromaĝon, fruktojn {{kaj tiel plu}}. | Mallonge: <i>ktp</i>. |
+male | kontraŭe al tio, kion oni diris aŭ atendis | Ĝi ne estas malfacila; {{male}}, ĝi estas tre facila. | |
+fakte | en la realo; vere | Ĉiuj kredis lin riĉa, sed {{fakte}} li havis ŝuldojn. | |
+verdire | por esti tute sincera | {{Verdire}}, mi ne tre ŝatas lian muzikon. | |
+siavice | kiam venis lia aŭ ŝia vico; ankaŭ li aŭ ŝi | Ŝi demandis lin, kaj li {{siavice}} demandis ŝin. | Ankaŭ <i>miavice</i>, <i>viavice</i>. |
+ĉiuokaze | kio ajn okazos; ĉiukaze | Mi eble malfruos, sed {{ĉiuokaze}} mi venos. | Ankaŭ <i>ĉiukaze</i>. |
+malgraŭ tio | tamen, kvankam tiel estas | Pluvis, sed {{malgraŭ tio}} ni promenis. | <i>Malgraŭ tio, ke</i> + subfrazo. |
+krom tio | aldone, plie | La domo estas granda, kaj {{krom tio}} ĝi estas malmultekosta. | Ankaŭ <i>krome</i>. |
+rilate al | pri, koncerne | {{Rilate al}} via demando, mi respondos morgaŭ. | |
+kaze de | se okazos | {{Kaze de}} fajro, uzu la ŝtuparon. | Ankaŭ <i>okaze de</i>. |
+dank' al | pro (io bona) | {{Dank' al}} via helpo ni sukcesis. | Por bona kaŭzo; por malbona, <i>pro</i>: <i>pro la pluvo</i>. |
+spite al | malgraŭ, kontraŭ la volo aŭ obstaklo | {{Spite al}} la malvarmo, ŝi naĝis en la lago. | Ankaŭ <i>malgraŭ</i>. |
+eĉ se | por kondiĉo, kiu ne ŝanĝas la rezulton | {{Eĉ se}} pluvos, ni iros. | |
+se nur | por arda deziro | {{Se nur}} mi havus pli da tempo! | Kun <i>-us</i> por nereala deziro. |
+kiel eble plej | tiom … kiom eblas | Venu {{kiel eble plej}} frue. | |
+laŭeble | kiom eblas, se eblas | {{Laŭeble}} respondu ankoraŭ hodiaŭ. | |
+pli-malpli | proksimume | Ĝi kostas {{pli-malpli}} dek eŭrojn. | Ankaŭ <i>proksimume</i>, <i>ĉirkaŭ</i>. |
+iom post iom | malrapide, laŭgrade | {{Iom post iom}} ŝi lernis la lingvon. | |
+unu post la alia | laŭvice, ne samtempe | La gastoj alvenis {{unu post la alia}}. | |
+de tempo al tempo | iam kaj iam, ne ofte | {{De tempo al tempo}} ni renkontiĝas en kafejo. | |
+antaŭ nelonge | antaŭ mallonga tempo | Ŝi translokiĝis {{antaŭ nelonge}}. | Ankaŭ <i>lastatempe</i>. |
+finfine | post longa atendo; konklude | {{Finfine}} la buso alvenis! | |
+kiom mi scias | laŭ la informoj, kiujn mi havas | {{Kiom mi scias}}, li ankoraŭ loĝas en Berlino. | Ankaŭ <i>laŭ mia scio</i>. |
+ŝajnas al mi | mi havas la impreson | {{Ŝajnas al mi}}, ke vi pravas. | |
+por tiel diri | ne tute laŭvorte | Li estas, {{por tiel diri}}, la koro de la grupo. | |
+kiel diri | kiam oni serĉas la ĝustan vorton | Ŝi estas, {{kiel diri}}, iom stranga. | |
+estu kiel ajn | ne gravas, kiel ĝi estas | {{Estu kiel ajn}}, ni devas decidi hodiaŭ. | |
+des pli bone | tio estas eĉ pli bona | — Mi venos pli frue. — {{Des pli bone}}! | Kaj <i>des pli malbone</i>. |
+# Konversacio
+ne dankinde | respondo al «dankon» | — Dankon pro la helpo! — {{Ne dankinde}}. | |
+ne gravas | tio ne estas problemo | — Pardonu la malfruon. — {{Ne gravas}}. | |
+tute ne | absolute ne | — Ĉu mi ĝenas vin? — {{Tute ne}}! | |
+kun plezuro | volonte | — Ĉu vi venos al la festo? — {{Kun plezuro}}! | Ankaŭ <i>volonte</i>. |
+bonvolu | ĝentila peto | {{Bonvolu}} fermi la pordon. | Sekvas infinitivo. |
+kio nova | salutdemando pri la novaĵoj de iu | Saluton, Petro! {{Kio nova}}? | |
+kiel vi fartas | demando pri ies sano kaj stato | Saluton! {{Kiel vi fartas}}? | Respondoj: <i>bone, dankon</i>; <i>tiel-tiel</i>. |
+bonan apetiton | bondeziro antaŭ manĝo | La supo estas preta. {{Bonan apetiton}}! | Akuzativo, ĉar mallongigo de <i>mi deziras al vi bonan apetiton</i>. |
+je via sano | tosto, kiam oni levas la glasojn | Ni trinku {{je via sano}}! | <i>Sanon!</i> post terno. |
+ĝis revido | adiaŭo | Dankon por ĉio, kaj {{ĝis revido}}! | Ankaŭ <i>ĝis la revido</i>; mallonge <i>ĝis!</i> |
+en ordo | bone, konsentite | — Ni renkontiĝu je la oka. — {{En ordo}}. | Ankaŭ: <i>ĉu ĉio estas en ordo?</i> |
+mi bedaŭras | por esprimi kompaton aŭ ĝentilan rifuzon | {{Mi bedaŭras}}, sed mi ne povas veni. | |

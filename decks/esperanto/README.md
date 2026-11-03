@@ -1,8 +1,8 @@
 # Esperanto
 
-My Esperanto deck, for an intermediate speaker going further: the 2,000 most common verbs, and beyond the basics: word building, precise vocabulary, the small words and the grammar points where speakers of Spanish, English and German go wrong. 2,203 notes (3,766 cards) in `Languages::Esperanto`, one subdeck per kind of card, with audio.
+My Esperanto deck, for an intermediate speaker going further: the 2,000 most common verbs, expressions and proverbs, and beyond the basics: word building, precise vocabulary, the small words and the grammar points where speakers of Spanish, English and German go wrong. 2,402 notes (4,032 cards) in `Languages::Esperanto`, one subdeck per kind of card, with audio.
 
-**Import:** download [`Esperanto.apkg`](https://github.com/ntfifwyb/anki-setup/releases/download/esperanto-2.0.0/Esperanto.apkg) from the deck's [release](https://github.com/ntfifwyb/anki-setup/releases/tag/esperanto-2.0.0) (version 2.0.0; [all versions](https://github.com/ntfifwyb/anki-setup/releases), [changelog](CHANGELOG.md)) and open it with Anki (or **File → Import**). It adds or updates every subdeck at once, with its audio. Notes keep stable IDs, so re-importing updates existing cards instead of duplicating them.
+**Import:** download [`Esperanto.apkg`](https://github.com/ntfifwyb/anki-setup/releases/download/esperanto-2.1.0/Esperanto.apkg) from the deck's [release](https://github.com/ntfifwyb/anki-setup/releases/tag/esperanto-2.1.0) (version 2.1.0; [all versions](https://github.com/ntfifwyb/anki-setup/releases), [changelog](CHANGELOG.md)) and open it with Anki (or **File → Import**). It adds or updates every subdeck at once, with its audio. Notes keep stable IDs, so re-importing updates existing cards instead of duplicating them.
 
 ## Subdecks
 
@@ -13,12 +13,13 @@ My Esperanto deck, for an intermediate speaker going further: the 2,000 most com
 | 03 Korelativoj kaj partikloj | 44 | The rarer correlatives and the small words: *ties*, *ial*, *ĉiom*, *ajn*, *ja*, *plu*, *ju … des*, *nek … nek* | [words/](words/) |
 | 04 Gramatiko | 63 | Choose the right form, and learn why: accusative of direction, time and measure, predicative, *si*/*lia*, *-ig*/*-iĝ*, participles, *-us*/*-u*, reported speech, *da*/*de* | [grammar/](grammar/) |
 | 05 Verboj | 1,997 | The 2,000 most common verbs, by frequency: produce the verb's form from an Esperanto definition and a sentence; from rank 501, also recognise it | [verbs/](verbs/) |
+| 06 Esprimoj | 199 | Expressions, in four subdecks: the preposition a word takes (*riĉa je*, *rajto je*), collocations (*fari decidon*, *havi sencon*), linking words and set phrases (*unuflanke … aliflanke*, *ne dankinde*), and 67 proverbs from Zamenhof's *Proverbaro Esperanta* | [expressions/](expressions/) |
 
-Verboj comes from the 2000-verb list in my study notes, with its sentences (corrected where needed). Everything else was written by Claude for this deck: definitions in the style of the *Plena Ilustrita Vortaro* (PIV), the grammar rules after the *Fundamento* and Bertilo Wennergren's *Plena Manlibro de Esperanta Gramatiko* (PMEG). Cards are entirely in Esperanto; where a word is a false friend, its note names the Spanish, English or German word it is confused with. Every note is tagged with its type (`type::vortfarado`, …) or grammar topic (`topic::akuzativo`, …).
+Verboj comes from the 2000-verb list in my study notes, with its sentences (corrected where needed), and the proverbs from Zamenhof's *Proverbaro Esperanta* (1925), word for word. Everything else was written by Claude for this deck: definitions in the style of the *Plena Ilustrita Vortaro* (PIV), the grammar rules after the *Fundamento* and Bertilo Wennergren's *Plena Manlibro de Esperanta Gramatiko* (PMEG). Cards are entirely in Esperanto; where a word is a false friend, its note names the Spanish, English or German word it is confused with. Every note is tagged with its type (`type::vortfarado`, …) or grammar topic (`topic::akuzativo`, …).
 
 ## Audio
 
-None of the voices of the [Psittacus](https://github.com/ntfifwyb/psittacus) add-on speaks Esperanto, so this deck has its own: [eSpeak NG](https://github.com/espeak-ng/espeak-ng)'s `eo` voice. It is robotic, but reads Esperanto by its own rules (ĉ, ĝ, ĥ, ĵ, ŝ, ŭ, stress on the next-to-last syllable). Every example sentence is spoken, every verb, and the word on the other notes with a *Rekoni* card. Ordinary MP3s in `audio/`, shared by every subdeck, named as Psittacus names its clips, so they play on desktop, AnkiDroid and AnkiMobile without any add-on.
+None of the voices of the [Psittacus](https://github.com/ntfifwyb/psittacus) add-on speaks Esperanto, so this deck has its own: [eSpeak NG](https://github.com/espeak-ng/espeak-ng)'s `eo` voice. It is robotic, but reads Esperanto by its own rules (ĉ, ĝ, ĥ, ĵ, ŝ, ŭ, stress on the next-to-last syllable). Every example sentence is spoken, every verb, and the word or proverb on the other notes with a *Rekoni* card. Ordinary MP3s in `audio/`, shared by every subdeck, named as Psittacus names its clips, so they play on desktop, AnkiDroid and AnkiMobile without any add-on.
 
 ## Editing and rebuilding
 
