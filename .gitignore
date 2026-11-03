@@ -4,3 +4,7 @@ prefs21.db
 __pycache__/
 *.pyc
 *.apkg
+
+# Source spreadsheets hold personal notes; their data is extracted into the deck folders
+*.xlsx
+*:Zone.Identifier
